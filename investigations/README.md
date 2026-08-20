@@ -19,6 +19,9 @@ Bounded questions, tests, counterexamples, and formal checks. An investigation d
 - [2026-08-20-diachron-identity-ucl-junction-rules.md](2026-08-20-diachron-identity-ucl-junction-rules.md)  
   Junction battery: formalize branch/merge partition rules while holding the origin predicate fixed. The maximal non-junction segment rule survives as a mathematical partition; causal-relation admissibility is now the next bottleneck.
 
+- [2026-08-20-diachron-identity-causal-relation-cstar.md](2026-08-20-diachron-identity-causal-relation-cstar.md)  
+  C* battery: test independently specified restrictions of the causal graph. Domain-specific candidates fail generalization; counterfactual causal relevance and constitutive/organizational causation remain live.
+
 ## Completed / Archived
 
 (None yet.)
