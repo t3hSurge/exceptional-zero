@@ -10,8 +10,16 @@ Significant conceptual and structural changes are recorded here. Routine wording
 - Established `BRANCHING.md` to distinguish exploratory work from the accepted `main` branch.
 - Clarified the role of `archive/`: preserve historically significant standalone artifacts rather than every superseded version of the canonical document.
 - Clarified that `ai-reviews/` records arguments for consideration and does not confer canonical status on AI output.
+- Established `reviews/` for substantive adversarial reviews and cross-investigation syntheses.
 - Clarified that Git history, rather than the archive, is the authoritative record of ordinary document revisions.
 
 ### Collaborator workflow
 
-- The active AI-review workflow is now centered on the remaining collaborators; obsolete Claude-specific repository documentation has been removed.
+- The active AI-review workflow is now centered on the remaining collaborators; obsolete collaborator-specific repository documentation has been removed.
+
+### Research workflow
+
+- Added the first substantive reviews of the open Recurring Signature investigations.
+- Clarified that the perfect-relational-counterfeit result is a conditional consequence of automorphism symmetry, while the universalization to all non-target-bearing third-person vocabularies remains open.
+- Expanded the survivor-search review with candidate-specific failure diagnoses and a taxonomy for future candidate generation.
+- Kept the Recurring Signature at **Open**; no canonical status upgrade was warranted by the review round.
