@@ -40,6 +40,9 @@ Every clown honks.
 **∀x : Security(x) → ¬Honk(x)**  
 Security does not honk.
 
+**∃x : Honk(x) ∧ ¬Clown(x)**  
+There exists a non-clown honker.
+
 The wise clown knows the difference between:
 
 **∃x : Honk(x)**
@@ -95,6 +98,14 @@ with:
 
 Numerical difference is not yet structural distinction.
 
+The Cut says:
+
+> **Here and there are not automatically the same.**
+
+The clown does not need a little fence labeled CUT.
+
+The distinction can be the failure of a relation to continue across the fence.
+
 ---
 
 ## The Automorphism
@@ -143,6 +154,50 @@ So the clown proverb is:
 Or, even shorter:
 
 > **Z is the nope.**
+
+The Zero does not honk.
+
+The Zero does not walk.
+
+The Zero does not hide under the table.
+
+The Zero is the fact that the swaps do not go everywhere.
+
+---
+
+## The Flip
+
+The clown does not need a thing called `Difference` sitting in the room.
+
+Sometimes all you need is:
+
+**same → not-same**
+
+or:
+
+**∀ → ¬∀**
+
+The whole station begins with:
+
+**∀x,y ∈ S : interchangeable(x,y)**
+
+Then the banana peel appears:
+
+**¬∀x,y ∈ S : interchangeable(x,y)**
+
+The clown calls this:
+
+> **the flip.**
+
+The mathematician calls it:
+
+**¬Transitive(Aut(S))**
+
+They are both pointing at the same mess.
+
+The flip is not necessarily a thing moving.
+
+It can simply be the place where universal interchangeability fails.
 
 ---
 
@@ -194,6 +249,28 @@ and does not casually reverse the arrow.
 
 The clown who reverses every arrow gets promoted to philosophy chair and immediately loses the station.
 
+The clown who says “the converse is obvious” is assigned extra paperwork.
+
+---
+
+## Structural Difference vs. Sayable Difference
+
+The station may structurally distinguish two clowns even when the chosen language cannot describe why.
+
+So:
+
+**StructuralDifference ≠ ExpressibleDifference**
+
+The wise clown says:
+
+> **The station can know a distinction that the vocabulary cannot say.**
+
+The dangerous clown says:
+
+> “If I cannot describe it, it isn't there.”
+
+The elder clown confiscates the clipboard.
+
 ---
 
 ## The Cube
@@ -240,35 +317,27 @@ Wise clown says:
 
 ---
 
-## The Flip
+## Reachability
 
-The clown does not need a thing called `Difference` sitting in the room.
+A path can be blocked without a wall.
 
-Sometimes all you need is:
+A destination can be unreachable without being marked forbidden.
 
-**same → not-same**
+A distinction can be real without there being a special object whose job is to be different.
 
-or:
+So:
 
-**∀ → ¬∀**
+**Local rule → global partition**
 
-The whole station begins with:
+can be perfectly respectable.
 
-**∀x,y ∈ S : interchangeable(x,y)**
+But the wise clown adds:
 
-Then the banana peel appears:
+> **Do not confuse reachability with causation.**
 
-**¬∀x,y ∈ S : interchangeable(x,y)**
+The cube's legal moves determine where the clown can get.
 
-The clown calls this:
-
-> **the flip.**
-
-The mathematician calls it:
-
-**¬Transitive(Aut(S))**
-
-They are both pointing at the same mess.
+They do not thereby cause the clown to want to go there.
 
 ---
 
@@ -295,6 +364,10 @@ And:
 **Z(S) ⇏ Honk**
 
 A broken symmetry is not a remote control.
+
+A condition is not automatically a command.
+
+The clown who sees a permitted route and calls it a destiny gets bonked with modal logic.
 
 ---
 
@@ -329,6 +402,30 @@ The Zero sits there doing absolutely nothing.
 Very powerful zero.
 
 Very lazy zero.
+
+---
+
+## Correlation, Response, Interiority
+
+A field can correlate with a clown's action without thereby proving that it responds to the clown.
+
+A pattern can respond without proving interiority.
+
+So the wise clown separates:
+
+**Correlation ≠ Response ≠ Interiority**
+
+The observed change may be perfectly real while the interpretation remains underdetermined.
+
+The clown does not shout:
+
+> “It moved, therefore it wanted.”
+
+The clown writes:
+
+**correlation ⊬ response**
+
+and goes back to the banana.
 
 ---
 
@@ -382,6 +479,8 @@ and:
 
 The clown who says “but it could be!” gets gently escorted out of the theorem.
 
+The clown who says “but it is permitted!” gets asked to show the actualization.
+
 ---
 
 ## Truth
@@ -428,6 +527,40 @@ The ancient clown rule:
 
 > **Never let the criterion quietly contain the verdict.**
 
+The clown who says “it corresponds” must identify the correspondence.
+
+The clown who says “it tracks” must earn the tracking relation.
+
+The clown who says “it works” must specify the work.
+
+---
+
+## The Circularity Alarm
+
+The clown's favorite test:
+
+> **Did the proposed explanation already assume the thing it was supposed to explain?**
+
+Formally:
+
+**Criterion(X) = “whatever makes X the desired X”**
+
+is not a criterion.
+
+It is the verdict wearing a fake mustache.
+
+So:
+
+**candidate → test**
+
+not:
+
+**desired verdict → candidate**
+
+When the clown catches the fake mustache:
+
+**HONK**
+
 ---
 
 ## Diachronic Identity
@@ -467,6 +600,62 @@ Then UCL arrives:
 The clown nods solemnly.
 
 > **You have built a lineage machine. Now tell me what makes the lineage mine.**
+
+---
+
+## UCL
+
+Unique Causal Lineage survives as a provisional external-provenance candidate because a perfect internal counterfeit can copy internal structure without copying the same causal provenance.
+
+The clown counterfeit says:
+
+> “I have the same memories.”
+
+The UCL clown says:
+
+> **“Great. Same origin?”**
+
+But the next question is harder:
+
+> **What independently picks the relevant origin?**
+
+So:
+
+**O = ?**
+
+**C* = ?**
+
+**J_cut = provisional survivor**
+
+The clown proverb:
+
+> **Provenance can defeat a counterfeit without yet becoming identity.**
+
+---
+
+## Origin Wisdom
+
+An origin predicate may be independently specified locally.
+
+But:
+
+**Local O**
+
+is not automatically:
+
+**Universal O**.
+
+The wise clown asks:
+
+> **What makes this event the relevant origin without asking first which clown I wanted it to identify?**
+
+If the answer is:
+
+> “The origin of the real clown,”
+
+the clown has discovered identity in disguise.
+
+If the answer is an independent structural rule, the clown writes it down and tests it.
 
 ---
 
@@ -512,115 +701,179 @@ So the wise clown says:
 
 ---
 
-## Causal Provenance
+## Causal Relation
 
-UCL survived because external causal provenance can distinguish a perfect internal counterfeit.
+The full causal graph is too generous.
 
-The counterfeit says:
-
-> “I have the same memories.”
-
-> “I have the same information.”
-
-> “I have the same internal state.”
-
-UCL says:
-
-> **Cool. Where did you come from?**
-
-But the next clown question is harder:
-
-> **What makes that origin the relevant origin?**
+If every causal edge counts, the clown is causally connected to almost everything and identity terminates everywhere.
 
 So:
 
-**O = ?**
+**C* ≠ C_full**
 
-**C* = ?**
+The theory needs a restricted causal relation.
 
-**J_cut = ✓ (provisional)**
+But the restriction must not secretly be:
 
-The clown wisdom is:
+> “the causal relation that preserves identity.”
 
-> **Provenance can break a counterfeit without yet explaining identity.**
+Otherwise the clown has put the verdict inside the criterion again.
 
-That is a much better sentence than:
+The clown therefore asks:
 
-> “Causation solves identity.”
+> **Which causal edges count, independently of who we already think survives?**
 
-Because the latter gets the banana peel.
+---
+
+## Counterfactual Clown
+
+Fix one causal model:
+
+**M = (U,V,F)**
+
+Then ask what changes under an intervention.
+
+The temptation:
+
+> “If removing this cause would remove the later state, that cause is identity-relevant.”
+
+The overdetermination clown objects:
+
+> **What if two causes are sufficient?**
+
+Neither may be individually indispensable.
+
+The repair clown asks:
+
+> **What exactly was repaired?**
+
+The clone clown asks:
+
+> **Which causal model made the clone?**
+
+The reconstruction clown asks:
+
+> **Which variables did you decide mattered?**
+
+The side-effect clown says:
+
+> **Not every downstream consequence is the clown.**
+
+The fixed semantics can be precise while the identity-bearing variables remain underselected.
+
+---
+
+## Variable Selection
+
+The new bottleneck:
+
+**Which variables count?**
+
+The tempting answers:
+
+> “All of them.”
+
+> “The important ones.”
+
+> “The minimal sufficient ones.”
+
+> “The ones that persist.”
+
+The wise clown asks:
+
+> **Important according to what?**
+
+> **Persist according to what?**
+
+> **Minimal under which representation?**
+
+The clown learns a new fear:
+
+> **The same process can be drawn two ways.**
 
 ---
 
 ## Representation
 
-Suppose the same causal process can be drawn two ways:
+Suppose the same causal process is described by two isomorphic models:
 
 **M₁ ≃ M₂**
 
-If the identity verdict changes just because the variables changed, the clown says:
+If the identity verdict changes merely because the variables changed, the clown says:
 
 > **You changed the map, not the clown.**
 
-So the next great clown test is:
+So a serious selector Q would need something like:
 
 **M₁ ≃ M₂ → Q(M₁) ≃ Q(M₂)**
 
-where Q is supposed to select identity-bearing structure.
+The selector must survive redescription.
 
-If Q fails that test:
+Otherwise the clown's identity depends on the chalkboard.
 
-> **The clown is not invariant under redescription.**
-
-The clown considers this suspicious.
+> **Same clown. Different chalk. Same verdict, or explain yourself.**
 
 ---
 
-## Anti-Circularity
+## The Recurring Signature
 
-The oldest clown rule:
+The investigation noticed a pattern across several domains:
 
-> **If you define the relation as “the relation that picks the real clown,” you have already picked the real clown.**
+**candidate → distinction attempt → hidden presupposition or underdetermination**
 
-Formally:
+The clown is tempted to shout:
 
-**Q(x,y) := “the relation that makes x the same clown as y”**
+> “THERE IS A UNIVERSAL THEOREM!”
 
-is not an independent criterion.
+The disciplined clown instead says:
 
-It is identity wearing a fake mustache.
-
-Therefore:
-
-**criterion → test**
-
-not:
-
-**desired verdict → criterion**
-
----
-
-## Evidence
-
-The clown does not say:
-
-> “We searched four candidates, therefore there are no candidates.”
-
-The clown says:
-
-> **Four candidates lost. Bring another clown.**
+> **Several candidates failed. Keep searching.**
 
 So:
 
 **finite failures ⇏ universal impossibility**
 
-And:
+A recurring pattern may be important without yet being a theorem.
+
+The clown does not promote vibes to universality.
+
+---
+
+## Boundary
 
 **Boundary ≠ Solved**
 
-The wise clown loves the distinction:
+A Boundary means:
 
-> **Not found is not the same as impossible.**
+> **A defined neighborhood was searched and a specific failure was found.**
+
+It does not mean:
+
+> “No answer exists anywhere.”
+
+So the clown says:
+
+> **We hit a wall here. We did not prove there is no planet beyond the wall.**
+
+---
+
+## Evidence
+
+The wise clown does not say:
+
+> “We searched four candidates, therefore there are no candidates.”
+
+The wise clown says:
+
+> **Four candidates lost. Bring another clown.**
+
+And when one survives:
+
+> **Now try to break that one.**
+
+The clown is not a believer in easy victories.
+
+The clown is a believer in batteries.
 
 ---
 
@@ -651,7 +904,193 @@ Or in clown:
 
 ---
 
-## Method
+## AI Review
+
+An AI collaborator can produce a clever argument.
+
+That means:
+
+**AI said it**
+
+not:
+
+**Therefore it is true.**
+
+The repository preserves analyses because arguments deserve memory, not because the machine has been crowned epistemic pope.
+
+The wise clown says:
+
+> **Store the argument. Test the argument. Do not worship the argument.**
+
+And if an AI finds an error:
+
+> **Good clown. Keep the error. It taught us something.**
+
+---
+
+## Review
+
+A review is not a second canonical document.
+
+It is a clown with a hammer.
+
+The review asks:
+
+> What breaks?
+
+> What was assumed?
+
+> What is actually established?
+
+> What remains open?
+
+A good review does not manufacture activity just to have activity.
+
+It walks toward the strongest unresolved pressure point.
+
+---
+
+## Investigation
+
+An investigation should say:
+
+**question → candidate → what would count against it → test → result → status**
+
+Clown translation:
+
+> **Ask what the banana is doing. Drop the banana. See what happens. Write it down.**
+
+The clipboard clown is not glamorous.
+
+The clipboard clown saves the framework.
+
+---
+
+## Diagnostic Rerun
+
+Sometimes the best way to find a hidden assumption is not to propose another candidate.
+
+Take an old result.
+
+Move it somewhere new.
+
+See what the proof suddenly needs.
+
+Clown version:
+
+> **Put the old banana in a new hallway. See who slips.**
+
+That is how the diachronic-identity primitive was exposed.
+
+The theorem was not merely tested against rivals.
+
+It was tested against its own assumptions.
+
+---
+
+## Branching
+
+A branch is not a belief.
+
+A branch is not a theorem.
+
+A branch is not permission to declare victory.
+
+A branch is:
+
+> **a workspace where the clown can experiment without pretending the experiment already won.**
+
+So:
+
+**branch ≠ accepted claim**
+
+When the work survives, merge deliberately.
+
+When it fails, Git remembers the clown fell down.
+
+---
+
+## Main
+
+`main` is the accepted state.
+
+A branch is rehearsal.
+
+An investigation is the laboratory.
+
+A review is the tribunal.
+
+An AI analysis is source material.
+
+The archive is the museum.
+
+Git history is the memory.
+
+And `main` is where the station has decided:
+
+> **Yes, this honk is ours.**
+
+---
+
+## The Archive
+
+Git already remembers ordinary superseded versions.
+
+Therefore:
+
+> **Do not archive every banana.**
+
+Archive the bananas with historical importance.
+
+Let Git remember the ordinary mess.
+
+The archive remembers the named mess.
+
+---
+
+## The Changelog
+
+A conceptual change belongs in the changelog.
+
+A comma does not require a ceremony.
+
+A changed epistemic status does.
+
+A corrected theorem does.
+
+A new primitive does.
+
+A major failed argument worth remembering does.
+
+Clown wisdom:
+
+> **Do not ring the station bell because you moved a comma. Ring it when the clown learned something.**
+
+---
+
+## Main vs. Graffiti
+
+Substantive framework changes deserve process.
+
+Graffiti is graffiti.
+
+This document exists to make the distinction obvious.
+
+> **Do not make a pull request for a banana peel.**
+
+The repo has investigations for questions.
+
+The repo has reviews for arguments.
+
+The repo has history for edits.
+
+And sometimes the repo has a wall that says:
+
+> **These clowns are not all interchangeable.**
+
+---
+
+## The Method
 
 The investigation loop:
 
@@ -661,47 +1100,295 @@ Clown version:
 
 > **Propose banana. Inspect banana. Slip on banana. Learn from banana.**
 
-The diagnostic rerun:
+The mature clown does not ask only:
 
-> **Take an old theorem somewhere new and see what it quietly assumed there.**
+> “Can I make this idea work?”
 
-In clown:
+The mature clown asks:
 
-> **Put the old banana in a new hallway. See who slips.**
+> **“What would make this idea fail?”**
+
+Then actually tries it.
 
 ---
 
-## The Archive
+## The Anti-Metaphysics™ Rule
 
-Git remembers old clowns.
+The clown who says:
 
-The archive remembers clowns worth naming.
+> “This sounds deep, therefore it is derived.”
 
-The canonical document remembers what survived.
+gets a clipboard.
+
+The clown who says:
+
+> “This explains everything.”
+
+gets asked to define “everything.”
+
+The clown who says:
+
+> “This must be true.”
+
+gets asked:
+
+> **“Must according to what?”**
+
+The station has a standing rule:
+
+> **Fancy wording does not upgrade epistemic status.**
+
+Or:
+
+> **Metaphysics!™ is not a proof system.**
+
+---
+
+## The Air Test
+
+Sometimes a result feels profound because it is difficult to state precisely.
+
+Sometimes it feels obvious because, once stated precisely, it is almost trivial.
+
+The clown does not choose between those reactions.
+
+The clown asks:
+
+> **What exactly was discovered?**
+
+For Z(S), the answer is hilariously simple:
+
+> **Not everything can be swapped with everything.**
+
+The simplicity of the sentence does not make the formalization pointless.
+
+It makes the formalization honest.
+
+Bro discovered air.
+
+---
+
+## The Blue Sky Test
+
+A result may be obvious from one angle and gibberish from another.
+
+The clown should be able to move between them.
+
+Plain:
+
+> **Some things are not interchangeable.**
+
+Formal:
+
+**¬Transitive(Aut(S))**
+
+The job is to know why these are related and exactly where they cease to be equivalent.
+
+The clown who can only speak formal is hiding behind notation.
+
+The clown who can only speak ordinary language is hiding behind intuition.
+
+The wise clown can translate both ways.
+
+---
+
+## The Ship of Theseus
+
+Replace a plank.
+
+Replace another plank.
+
+Replace every plank.
+
+The clown asks:
+
+> **When did the ship stop being the ship?**
+
+Then the formal clown asks:
+
+> **Which independently specified relation is supposed to answer that?**
+
+If the answer is:
+
+> “The relation that preserves the ship's identity,”
+
+the clown has found the target hiding inside the criterion.
+
+Ship wisdom:
+
+> **Do not name the destination after you've already arrived.**
+
+---
+
+## The Counterfeit Clown
+
+A perfect counterfeit can copy:
+
+**memory**
+
+**information**
+
+**internal state**
+
+**appearance**
+
+and still fail to copy:
+
+**external provenance**.
+
+So the clown asks:
+
+> **Did you copy the clown, or did you merely copy the clown-shaped data?**
+
+That question is why UCL survived as a provisional candidate.
+
+---
+
+## The Fission Clown
+
+One clown becomes two.
+
+**A → {B,C}**
+
+The lazy answer:
+
+> “Both are A.”
+
+The equally lazy answer:
+
+> “Neither is A.”
+
+The disciplined answer:
+
+> **State the junction rule.**
+
+If the rule is:
+
+**J_cut**
+
+then the old lineage terminates at the branch.
+
+No favorite child is selected just because the clown likes one better.
+
+---
+
+## The Merge Clown
+
+Two lineages arrive at one state:
+
+**A → C ← B**
+
+The clown refuses to smuggle in a favorite parent.
+
+The clown refuses to inherit two identities at once.
+
+The disciplined rule is:
+
+> **Cut at the junction.**
+
+Then ask the harder question:
+
+> **What makes the resulting segment count as the same entity at all?**
+
+The clown sees the recursive trap and lowers the banana.
+
+---
+
+## The Variable Clown
+
+The causal model contains many variables.
+
+The clown says:
+
+> **Which ones are me?**
+
+The model says:
+
+> “That's not my decision.”
+
+The clown says:
+
+> **Then why did you select those variables?**
+
+If the answer changes under a harmless change of representation:
+
+**M₁ ≃ M₂**
+
+but:
+
+**Q(M₁) ≄ Q(M₂)**
+
+then:
+
+> **The clown's identity depends on the chalkboard.**
+
+This is suspicious.
+
+---
+
+## The Language Clown
+
+The world may contain a structural distinction.
+
+The language may fail to name it.
 
 Therefore:
 
-> **Do not archive every banana.**
+**not sayable ≠ not there**
 
-Git already has the banana history.
+And:
+
+**structurally different ≠ expressibly distinguishable**
+
+The clown who cannot see the distinction because the vocabulary lacks the word is not entitled to declare the distinction absent.
 
 ---
 
-## Main
+## The Belief Clown
 
-`main` is accepted clown territory.
+A belief can survive pressure without becoming a theorem.
 
-A branch is a clown rehearsal.
+A theorem can fail under a counterexample without becoming a belief.
 
-A review is a clown jury.
+A boundary can be strong without being universal.
 
-An investigation is a clown with a clipboard.
+An open question can be real without being a failure.
 
-An AI review is another clown explaining why the first clown may be wrong.
+The status table exists because:
 
-And a merge means:
+> **Not all unknowns are the same kind of unknown.**
 
-> **The station has accepted this honk.**
+Clown wisdom:
+
+> **Do not put four different kinds of fog in one box labeled “fog.”**
+
+---
+
+## The Final Battery
+
+The clown has learned the following sequence:
+
+**Can I define it?**
+
+**Can I state it independently?**
+
+**Can I break it?**
+
+**Did I accidentally assume it?**
+
+**Does the language actually express it?**
+
+**Does it survive counterexample?**
+
+**Does it survive redescription?**
+
+**Does it generalize?**
+
+**What status did it earn?**
+
+Then:
+
+> **Honk.**
 
 ---
 
@@ -740,7 +1427,9 @@ Cut at the junction. Do not invent a favorite parent.
 **O → C* → J_cut**  
 Find the origin. Specify the causal relation. Cut the junctions.
 
-And finally:
+**Nothing is stronger than its status.**
+
+**Not every clown can be swapped with every other clown.**
 
 > **These clowns are not all interchangeable.**
 >
