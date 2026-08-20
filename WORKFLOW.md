@@ -23,7 +23,7 @@ Branches are temporary workspaces for proposed changes. Use descriptive names su
 - `investigation/relational-vocabulary`
 - `proposal/status-table`
 - `revision/part-six`
-- `review/claude-2026-08-20`
+- `review/grok-2026-08-20`
 
 A branch may contain an argument, revision, experiment, or structural change without implying that the change has been accepted.
 
@@ -46,7 +46,7 @@ An investigation does not automatically alter the canonical framework.
 
 ## 5. AI reviews
 
-`ai-reviews/` records useful analyses from ChatGPT, Claude, Grok, or other AI collaborators.
+`ai-reviews/` records useful analyses from AI collaborators.
 
 AI output is evidence of an argument having been considered, not evidence that the argument is correct. AI reviews therefore do not become canonical merely by being stored here.
 
@@ -82,7 +82,7 @@ Git commit history remains the detailed record of all edits.
 For a substantive proposed change:
 
 1. **State the question.** Put the issue in `investigations/` or an appropriately named branch.
-2. **Attack the claim.** Ask one or more reviewers, including AI collaborators where useful, to look specifically for hidden assumptions, scope errors, invalid inference, or counterexamples.
+2. **Attack the claim.** Ask reviewers, including AI collaborators where useful, to look specifically for hidden assumptions, scope errors, invalid inference, or counterexamples.
 3. **Record useful reviews.** Preserve substantive AI analyses in `ai-reviews/`.
 4. **Revise the proposal.** Make the smallest change that the surviving analysis warrants.
 5. **Check status.** Decide whether the result is Derived, Believed, Boundary, Open, or Regulative Principle, and whether that label is actually supported.
