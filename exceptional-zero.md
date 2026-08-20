@@ -273,19 +273,37 @@ Could the Cut's formalism (Part 1.3) explain diachronic identity — could "my p
 
 **Current, carefully bounded result:** *Diachronic identity is not recovered by the relational vocabulary tested so far.* Not proof of irreducibility — a real, specific, repeatable failure, exactly parallel in shape to the failures found for for-this and for truth.
 
+A subsequent survivor search then tested a materially different family: **Unique Causal Lineage (UCL)** — an independently specified origin condition plus external causal provenance plus non-branching continuation. UCL survives the current Ship-of-Theseus, duplication, fission, convergence, discontinuity, memory-loss, and perfect-counterfeit battery. This does not prove UCL correct, and the status remains bounded; it does show that the earlier internal-relational failure should not be generalized to all third-person structures.
+
 ### 7.5 The Standing Anti-Circularity Rule
 
 Any future candidate relation for personal identity must be independently specified *before* being tested against the implanted-memory case. A candidate defined as "whatever picks out the genuine past" is disqualified by construction — it would just be identity relabeled.
+
+For UCL specifically, “origin” is admissible only if the origin predicate is independently specified. “The origin of the genuine self” would simply be Construction B under another name.
 
 ---
 
 ## Part Eight: The Recurring Signature
 
-Across three genuinely separate investigations — subjectivity, truth, and diachronic identity — a recurring methodological pattern kept appearing:
+Across the initial searches in three domains — subjectivity, truth, and diachronic identity — a recurring methodological pattern appeared: proposed third-person relations repeatedly failed to distinguish the target independently, or succeeded only by presupposing the target within their own definitions.
 
-> In each case, a proposed third-person relation failed either to distinguish the target independently, or succeeded only by presupposing the target within its own definition.
+That observation remains real, but it is **not exceptionless**.
 
-This is deliberately weaker than saying the three investigations share an *identical* underlying structure. They do not — the truth investigation specifically tested and dissolved a proposed structural unification with the Cut (the Bradley's-regress attempt in Part Five), and the honest verdict there was "same family, not the same edge." That same restraint applies here. What's being recorded is a pattern in *how the searches failed*, not a theorem that first-person or identity-involving facts are, in principle, unrecoverable from third-person structure. The discipline that has governed the entire project applies here most of all, precisely because this is the moment a satisfying unification is most tempting.
+The diachronic-identity UCL search produced a provisional survivor: an externally anchored causal-provenance account that distinguishes the genuine history from an internal/informational counterfeit without adding an identity predicate. The survivor therefore breaks the broad hypothesis that every non-target-bearing third-person account must collapse into either underdetermination or circularity.
+
+The recurrence can still be investigated in narrower form. The perfect-relational-counterfeit theorem remains intact: when target and rival are exact copies with respect to the complete permitted signature, automorphism invariance prevents any structural predicate of that signature from distinguishing them. What failed was the attempted universalization that every relevant third-person vocabulary must permit such a copy.
+
+The current question is therefore no longer:
+
+> **“Is the recurring signature universal?”**
+
+That version has a counterexample.
+
+The sharper question is:
+
+> **Can a principled class of internally relational representations be defined, broad enough to include the approaches that actually failed, for which the counterfeit/non-isolation result can be proved?**
+
+The answer remains open. The appropriate status is therefore **Open**, but with the stronger negative version already refuted by UCL.
 
 ---
 
@@ -321,8 +339,8 @@ Several standing tools were developed over the course of the investigation and a
 | Evidence for For-This | **Boundary** | Three distinct failure modes: circularity, target-shift, underdetermination |
 | Truth | **Open** | Five candidates tested and failed for distinct reasons; regress-based unification with the Cut tested and dissolved; primitivism held as least-committal, not proven; no demonstration that reduction is impossible |
 | Field responsiveness / other selves | **Boundary** | Conceptual, not merely evidential — correlation, response, and interiority shown to be non-equivalent; other-selves question placed under the same distinction, not merged into one investigation |
-| Diachronic Identity | **Boundary** | Initial non-identity relational vocabulary (temporal, causal, memory, informational) tested and failed to distinguish genuine from counterfeit past |
-| The Recurring Signature (third-person relations fail to recover their target independently across three domains) | **Open** | Documented across three independent domains; not yet generalized; open whether coincidence, methodological artifact, or structural |
+| Diachronic Identity | **Boundary** | Initial internal relational vocabulary (temporal, ordinary causal, memory, informational) failed to distinguish genuine from counterfeit past; UCL is a provisional survivor outside that exhausted vocabulary, so the boundary remains explicitly scoped |
+| The Recurring Signature (third-person relations fail to recover their target independently across three domains) | **Open** | Initial candidate families show a repeated failure pattern, but UCL provides a provisional counterexample to the exceptionless form; the narrower structural question remains open |
 | The suffering-to-value bridge | **Open** | Flagged early; never yet tested; whether "suffering is the gap between wanting and non-reciprocation" licenses any normative conclusion without simply asserting the value rather than deriving it |
 
 ---
@@ -330,9 +348,9 @@ Several standing tools were developed over the course of the investigation and a
 ## Part Eleven: What Remains Genuinely Open
 
 - **Truth** — an active, unfinished search. No proof that reduction is impossible; no successful reduction found.
-- **Diachronic identity** — a named, isolated primitive with one relational vocabulary exhausted. The next required move: propose an independently specified candidate relation (not "the relation that picks out the genuine past") and test it against the implanted-memory case.
+- **Diachronic identity** — UCL is a provisional survivor: unique origin + causal provenance + non-branching continuation survives the current battery. The next question is whether the origin condition can be independently specified and generalized without quietly reintroducing the identity it is meant to explain.
 - **The suffering-to-value bridge** — whether "suffering is the gap between wanting and non-reciprocation" licenses any route to "suffering is bad," without simply asserting the value rather than deriving it. Flagged early. Never yet tested.
-- **The recurring signature itself** — whether the pattern found in three domains is coincidence, methodological artifact, or points toward something genuinely structural. Explicitly left as an open question rather than resolved by the elegance of noticing it.
+- **The recurring signature itself** — its broad exceptionless form is broken by UCL. What remains open is whether a narrower, principled class of internal relational descriptions exhibits a provable counterfeit/non-isolation boundary, and whether further genuine survivors exist.
 
 ---
 
