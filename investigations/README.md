@@ -8,7 +8,7 @@ Bounded questions, tests, counterexamples, and formal checks. An investigation d
   Track 1: Attempt to derive the recurring underdetermination/circularity pattern from the Exceptional Zero / *Z(S)*. The perfect-copy result is secure; the universalization remains open and now has a concrete counterexample unless restricted to a narrower internal-relational class.
 
 - [2026-08-20-recurring-signature-track2-survivor-search.md](2026-08-20-recurring-signature-track2-survivor-search.md)  
-  Track 2: Search for any third-person relational account that survives independent specification, circularity check, and target-shift check. A first provisional survivor has now been found in the causal-provenance family; its origin, causal-relation, and junction rules remain under pressure.
+  Track 2: Search for any third-person relational account that survives independent specification, circularity check, and target-shift check. A first provisional survivor has now been found in the causal-provenance family; its origin, causal-relation, junction, and variable-selection rules remain under pressure.
 
 - [2026-08-20-diachron-identity-causal-provenance-survivor.md](2026-08-20-diachron-identity-causal-provenance-survivor.md)  
   UCL survivor search: unique origin + causal provenance + non-branching continuation tested against the full persistence/counterfeit battery.
@@ -24,6 +24,9 @@ Bounded questions, tests, counterexamples, and formal checks. An investigation d
 
 - [2026-08-20-diachron-identity-cstar-intervention-semantics.md](2026-08-20-diachron-identity-cstar-intervention-semantics.md)  
   Fixed-SCM pressure test: hold one explicit intervention semantics constant and test counterfactual C* against overdetermination, preemption, repair, cloning, reconstruction, irrelevant side-effects, and causal counterfeits.
+
+- [2026-08-20-diachron-identity-variable-selection.md](2026-08-20-diachron-identity-variable-selection.md)  
+  Variable/outcome selection battery: test target-independent ways of selecting identity-bearing variables and outcomes within the fixed causal semantics. Initial families fail by overgeneration, non-uniqueness, scale dependence, or representation dependence.
 
 ## Completed / Archived
 
