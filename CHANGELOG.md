@@ -11,3 +11,7 @@ Significant conceptual and structural changes are recorded here. Routine wording
 - Clarified the role of `archive/`: preserve historically significant standalone artifacts rather than every superseded version of the canonical document.
 - Clarified that `ai-reviews/` records arguments for consideration and does not confer canonical status on AI output.
 - Clarified that Git history, rather than the archive, is the authoritative record of ordinary document revisions.
+
+### Collaborator workflow
+
+- The active AI-review workflow is now centered on the remaining collaborators; obsolete Claude-specific repository documentation has been removed.
