@@ -1,7 +1,7 @@
 # Investigation: Diachronic Identity — Causal Provenance / Unique-Origin Survivor Search
 
 **Date:** 2026-08-20  
-**Status:** Open / survivor candidate found; further testing required  
+**Status:** Open / survivor candidate found; generalization under pressure  
 **Related investigations:**
 - `investigations/2026-08-20-recurring-signature-track2-survivor-search.md`
 - `investigations/2026-08-20-recurring-signature-track1-structural.md`
@@ -270,52 +270,148 @@ Nothing in that chain says “the real self” before the result is obtained.
 
 ---
 
-## 13. What has actually survived
+## 13. New generalization round — what can “origin” mean without carrying identity?
 
-The survivor is **not** “causal continuity” in the weak sense. That was already vulnerable to branching.
+The first survivor result only required a locally independent origin predicate. The next question is whether a general origin rule can be specified without selecting it by the identity verdict it is meant to explain.
 
-The stronger candidate is:
+### 13.1 Candidate A — earliest event of a specified process type
+
+Define an origin of type \(T\) as the earliest event satisfying an independently specified predicate \(T\), with no earlier causally related event of type \(T\).
+
+This is formally clean once \(T\) is fixed. The problem is that the choice of \(T\) does substantial work.
+
+- Organisms can use biological developmental event types.
+- Artifacts can use construction event types.
+- Physical processes can use a specified onset condition.
+- Persons may admit several plausible event types.
+
+The remaining question is:
+
+> What independently privileges \(T\) as the identity-relevant kind of event?
+
+Answering “the kind that gives the desired identity verdict” is disallowed.
+
+**Verdict: locally viable; domain-general relevance remains open.**
+
+### 13.2 Candidate B — minimal causal root
+
+Define the origin as the minimal causal root from which the later trajectory is generated.
+
+This handles simple production chains but encounters multiple causal parents, overdetermination, and shared origins. A principled ordering over causes is required to identify the minimal root.
+
+If that ordering is tuned to identity cases, the candidate becomes target-bearing.
+
+**Verdict: underdefined without an independent causal-minimality principle.**
+
+### 13.3 Candidate C — unique causal ancestor under a complete causal graph
+
+Require a unique ancestor satisfying an independently specified causal characterization.
+
+This works when uniqueness actually exists, but the criterion does not guarantee uniqueness. Many entities have multiple causes, shared production events, or mergers.
+
+Declaring identity to exist only when unique origin exists is coherent but substantively revisionary. Adding rules for multiple origins reopens the selection problem.
+
+**Verdict: coherent restricted theory; not a general identity criterion yet.**
+
+### 13.4 Candidate D — counterfactual causal indispensability
+
+Define the relevant origin as an event whose absence, under a specified intervention model, would prevent the later stage from existing in the relevant form.
+
+This does not by itself select a unique cause under causal overdetermination, and the result can depend on which interventions and background variables are held fixed.
+
+Fission does not help: one predecessor event can be counterfactually indispensable to multiple successors.
+
+**Verdict: genuine causal relation; insufficient as an identity criterion.**
+
+### 13.5 Candidate E — maximal non-branching causal lineage without origin
+
+Dropping origin entirely removes the origin-selection problem but also removes the external asymmetry that defeated the perfect internal counterfeit. A counterfeit can possess its own maximal non-branching lineage.
+
+Branch and merge points also require a principled segmentation rule if the resulting relation is to be an equivalence relation over stages.
+
+**Verdict: fails to preserve the decisive feature of UCL.**
+
+---
+
+## 14. Equivalence-relation pressure
+
+A genuine theory should yield a coherent diachronic identity relation.
+
+If UCL-relatedness is membership in a unique-origin, non-branching lineage segment, reflexivity and symmetry are straightforward once the segments are fixed. Transitivity follows if the segments form a genuine partition of stages.
+
+The unresolved issue is how branch and merge events are assigned to segments. A stage at a branch point could belong to a predecessor segment, to successor segments, or to a newly created segment. The choice must be fixed independently rather than made to recover an intended identity verdict.
+
+This is now a formal subproblem of the theory, not merely an intuitive objection.
+
+---
+
+## 15. What has actually survived
+
+The survivor is **not** causal continuity alone. It is the stronger relation:
 
 \[
-\boxed{\text{unique origin + causal provenance + non-branching continuation}}.
+\boxed{\text{independently specified origin + causal provenance + non-branching continuation}}.
 \]
 
-It earns its asymmetry from an external causal structure rather than from internal resemblance, memory, or informational content.
+It earns its asymmetry from external causal structure rather than internal resemblance, memory, or informational content.
 
-That is enough to defeat the previously proposed universal form:
+That remains enough to defeat the original exceptionless claim that every relevant third-person account must admit a perfect internal counterfeit or insert identity by hand.
 
-> every non-target-bearing third-person account must either admit a perfect counterfeit or insert identity by hand.
-
-At least one independently specified third-person account appears not to do either.
+But the general theory remains under pressure because the origin-selection principle has not yet been generalized non-arbitrarily.
 
 ---
 
-## 14. What this does **not** prove
+## 16. Status
 
-It does not prove that UCL is the correct theory of personal identity.
+### Earned
 
-It does not show that every person has a uniquely identifiable origin event in the relevant sense.
+- Local independent origin predicates exist.
+- UCL breaks the perfect internal-counterfeit construction when the counterfeit differs in external causal provenance.
+- UCL survives the current Ship-of-Theseus, duplication, fission, convergence, discontinuity, memory-loss, and reconstruction tests under its explicit assumptions.
+- Several natural generalizations of “origin” have now been pressure-tested and none has yet supplied a domain-general criterion without a new selection problem.
 
-It does not show that branching must destroy identity metaphysically.
+### Open
 
-It does not show that an externally anchored causal relation is itself first-personal.
+- A domain-general, non-arbitrary origin-selection rule.
+- Whether the resulting lineage relation is a principled equivalence relation on general causal structures.
+- Whether the fission/merger termination behavior is an acceptable identity result or merely a consequence of the chosen persistence criterion.
+- Whether “causal provenance” explains identity or merely supplies a distinct historical relation that happens to track identity in the tested cases.
 
-It does not show that the Exceptional Zero explains diachronic identity.
+### Not earned
 
-Most importantly, it does not show that the recurring signature has disappeared everywhere. It shows only that the current universal version of that signature has a genuine counterexample.
+- That UCL is the correct theory of personal identity.
+- That every person/entity has one uniquely relevant origin.
+- That the Exceptional Zero explains UCL or diachronic identity.
+- That the recurring signature is restored by abandoning internal relations.
 
 ---
 
-## 15. Status
+## 17. Recommended next test
 
-**Candidate status: Survivor (provisional).**
+Do not generate more origin rules immediately.
 
-The candidate has survived the current full pressure battery without circularity, target-shift, or contradiction. Its strongest unresolved point is whether the independently specified “origin” predicate can be made sufficiently general and non-arbitrary to support a general theory rather than a collection of case-by-case constructions.
+The next move should be to **formalize the selection problem itself**.
 
-The broader recurring-signature investigation therefore requires revision: it can no longer treat “no survivor found so far” as an open-ended search with no counterexample. A concrete survivor has now been identified in the tested class.
+Define a candidate class of origin predicates \(\mathcal O\) and ask:
 
-The next question is narrower and better:
+> What properties must an origin predicate satisfy to be independent of identity, stable under isomorphic redescription, and sufficient to generate a non-branching lineage relation?
 
-> Does UCL constitute a genuine reductive theory of diachronic identity, or does the apparent independence of causal origin conceal a new selection principle that merely relocates the identity problem to the definition of the origin?
+Then test the candidate axioms against:
 
-No further status upgrade is warranted until that question is tested.
+- multiple causal parents;
+- overdetermination;
+- shared production events;
+- cloning;
+- twinning;
+- fusion;
+- reconstruction;
+- branching processes;
+- temporally separated continuation.
+
+If no plausible axiomatization survives, UCL may settle into a **Boundary for reduction to causal provenance** rather than merely remaining an open candidate.
+
+For now, however, that stronger status is not earned.
+
+---
+
+*This investigation does not alter the canonical framework until the candidate and its generalization have been reviewed and accepted.*
