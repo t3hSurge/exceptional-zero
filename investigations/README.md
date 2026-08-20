@@ -22,6 +22,9 @@ Bounded questions, tests, counterexamples, and formal checks. An investigation d
 - [2026-08-20-diachron-identity-causal-relation-cstar.md](2026-08-20-diachron-identity-causal-relation-cstar.md)  
   C* battery: test independently specified restrictions of the causal graph. Domain-specific candidates fail generalization; counterfactual causal relevance and constitutive/organizational causation remain live.
 
+- [2026-08-20-diachron-identity-cstar-intervention-semantics.md](2026-08-20-diachron-identity-cstar-intervention-semantics.md)  
+  Fixed-SCM pressure test: hold one explicit intervention semantics constant and test counterfactual C* against overdetermination, preemption, repair, cloning, reconstruction, irrelevant side-effects, and causal counterfeits.
+
 ## Completed / Archived
 
 (None yet.)
