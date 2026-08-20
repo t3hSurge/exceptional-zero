@@ -11,7 +11,7 @@ Use short-lived descriptive branches for work that is not yet accepted:
 | `investigation/` | Test a question or claim | `investigation/relational-vocabulary` |
 | `proposal/` | Propose a conceptual or textual change | `proposal/status-table` |
 | `revision/` | Revise an existing section | `revision/part-six` |
-| `review/` | Preserve or organize a review pass | `review/claude-2026-08-20` |
+| `review/` | Preserve or organize a review pass | `review/2026-08-20-track1` |
 | `docs/` | Repository/documentation maintenance | `docs/repository-structure` |
 
 ## Rule
