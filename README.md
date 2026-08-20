@@ -12,7 +12,7 @@ The canonical document on `main` is the authoritative formulation. Material else
 
 ## Epistemic Discipline
 
-The framework distinguishes among **Derived**, **Believed**, **Boundary**, **Open**, and **Regulative Principle**. Repository structure preserves the same distinction: an investigation, AI review, branch, or archived document is not automatically an accepted claim.
+The framework distinguishes among **Derived**, **Believed**, **Boundary**, **Open**, and **Regulative Principle**. Repository structure preserves the same distinction: an investigation, review, AI analysis, branch, or archived document is not automatically an accepted claim.
 
 > Nothing is stronger than its status.
 
@@ -20,7 +20,8 @@ The framework distinguishes among **Derived**, **Believed**, **Boundary**, **Ope
 
 - `exceptional-zero.md` — canonical framework
 - `investigations/` — bounded questions, tests, counterexamples, and formal checks
-- `ai-reviews/` — substantive analyses and critiques from AI collaborators
+- `reviews/` — substantive adversarial reviews and syntheses of investigations
+- `ai-reviews/` — source analyses from AI collaborators
 - `archive/` — historically significant superseded formulations and artifacts
 - `CHANGELOG.md` — significant conceptual revisions
 - `WORKFLOW.md` — how work moves from investigation to accepted framework
