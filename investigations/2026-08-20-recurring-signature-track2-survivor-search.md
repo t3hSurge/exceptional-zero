@@ -1,7 +1,7 @@
 # Investigation: Recurring Signature — Track 2 (Survivor Search)
 
 **Date:** 2026-08-20  
-**Status of investigation:** Open / in progress  
+**Status of investigation:** Open / in progress; first provisional survivor identified  
 **Related canonical claim:** Recurring Signature (Part Eight) remains **Open**
 
 ---
@@ -69,22 +69,47 @@ A representation *r* is true iff there exists a distinction D such that (i) D is
 
 Still no new candidate that clears the prior five failed vocabularies plus the evidence-specification barriers (circularity / target-shift / underdetermination). Any proposal must be independently specified and must not reduce to a thermostat-level architecture or a disguised synonym for “for-this.”
 
+### Candidate F — Unique Causal Lineage (Identity)
+
+**Independent specification:**
+
+A temporal structure contains an independently specified causal relation C and an origin predicate O that identifies a defined creation/birth/causal-boundary event without reference to personal identity. A lineage is a maximal causal path from such an origin through a non-branching succession of stages. Two stages are UCL-related iff they occupy the same lineage.
+
+**Adversarial pressure:**
+
+- **Ship of Theseus:** gradual replacement preserves one causal lineage; reconstruction from the removed original parts begins a distinct lineage.
+- **Duplication/fission:** branching terminates the predecessor's identity lineage; neither successor is identical to the predecessor. This avoids making one thing identical with two distinct successors.
+- **Convergence:** a later state cannot belong to the same non-branching lineage as two distinct predecessors.
+- **Discontinuity:** temporal gaps are harmless if the causal lineage persists without branching.
+- **Memory loss:** identity does not depend on memory; implanted memory does not create identity.
+- **Perfect counterfeit:** an internally and informationally perfect rival can still differ in independently specified causal provenance, allowing the candidate to distinguish it without inserting an identity predicate.
+
+**Critical pressure:** If “origin” is defined as “the origin of the genuine self,” the candidate collapses into Construction B and is rejected. If origin is independently specified, the candidate remains non-circular. The remaining issue is whether a sufficiently general, non-arbitrary origin predicate can be supplied.
+
+**Verdict:** **Provisional survivor.** The candidate has survived the current full battery. It does not establish that UCL is correct, but it is a concrete counterexample to the broad claim that every non-target-bearing third-person account must either admit a perfect relational counterfeit or smuggle in identity.
+
+See `investigations/2026-08-20-diachron-identity-causal-provenance-survivor.md` for the full battery and review.
+
 ## 4. Result so far
 
-Four candidates examined (A, B, D, E). All fail under adversarial pressure for diagnosable reasons: either underdetermination in the presence of a relational copy, circular reintroduction of the target, collapse into previously rejected accounts, or target-shift. No survivor has been found.
+Candidates A, B, D, and E fail under adversarial pressure for diagnosable reasons: underdetermination, circular reintroduction of the target, collapse into previously rejected accounts, target-shift, or insufficient coverage.
 
-The failures continue to exhibit the recurring signature, but this remains a record of unsuccessful attempts, not a proof that no survivor exists.
+Candidate F is different. It introduces an independently specified external causal asymmetry and survives the current counterfeit and identity battery without using identity itself as the distinguishing predicate.
+
+The survivor does **not** prove that UCL is the correct theory of diachronic identity. It does, however, defeat the exceptionless form of the recurring-signature hypothesis within the tested candidate space.
 
 ## 5. Next steps
 
-- Construct a candidate that deliberately uses only resources already ruled Derived in the framework (the Cut itself, the Actualization Boundary as regulative, etc.) and test whether those resources can be applied non-circularly to one of the three targets.
-- Explore whether a purely negative characterization (“the unique chain that is *not* a perfect relational copy of another”) can be made to work without presupposing which one is original.
-- Keep generating candidates; a single clear survivor in any domain would immediately show the recurring signature is not exceptionless.
+- Test whether the origin predicate can be independently generalized without becoming a disguised identity criterion.
+- Test UCL against unusual provenance cases: delayed creation, restoration, cloning with shared origin, partial causal replacement, and environmental re-attachment.
+- Determine whether UCL can be formulated as a genuine equivalence relation over temporal stages rather than merely a persistence heuristic.
+- Revisit Track 1: the perfect-copy theorem remains intact, but any universal claim that all relevant third-person vocabularies are copyable now has a concrete counterexample unless it is explicitly restricted to internal relational signatures.
+- Continue survivor search in other families only after the UCL result has been fully pressured.
 
 ## 6. Provisional status of the meta-claim
 
-**Open.** Track 2 continues. Accumulating well-diagnosed failures tightens confidence that the pattern is robust for ordinary third-person relational resources, but does not yet convert the recurring signature into a Boundary or a Derived consequence of the Cut.
+**Open.** Track 2 has now produced a first provisional survivor. The recurring signature is therefore established only as a repeated pattern among the prior candidate families, not as an exceptionless result.
 
 ---
 
-*This investigation does not alter the canonical framework. Results will be proposed for incorporation only after both tracks have reported and adversarial review is complete.*
+*This investigation does not automatically alter the canonical framework. The new UCL result is recorded and reviewed separately; any canonical status change follows only after the survivor's remaining vulnerabilities are tested.*
