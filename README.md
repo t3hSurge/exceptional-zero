@@ -12,7 +12,7 @@ The canonical document on `main` is the authoritative formulation. Material else
 
 ## Epistemic Discipline
 
-The framework distinguishes among **Derived**, **Believed**, **Boundary**, **Open**, and **Regulative Principle**. Repository structure preserves the same distinction: an investigation, review, AI analysis, branch, or archived document is not automatically an accepted claim.
+The framework distinguishes among **Derived**, **Believed**, **Boundary**, **Open**, and **Regulative Principle**. Repository structure preserves the same distinction: an investigation, AI review, branch, or archived document is not automatically an accepted claim.
 
 > Nothing is stronger than its status.
 
@@ -20,17 +20,20 @@ The framework distinguishes among **Derived**, **Believed**, **Boundary**, **Ope
 
 - `exceptional-zero.md` — canonical framework
 - `investigations/` — bounded questions, tests, counterexamples, and formal checks
-- `reviews/` — substantive adversarial reviews and syntheses of investigations
-- `ai-reviews/` — source analyses from AI collaborators
+- `ai-reviews/` — source analyses from AI collaborators, including substantive adversarial reviews
 - `archive/` — historically significant superseded formulations and artifacts
 - `CHANGELOG.md` — significant conceptual revisions
 - `WORKFLOW.md` — how work moves from investigation to accepted framework
 - `BRANCHING.md` — branch naming and merge policy
+
+There is currently no separate `reviews/` tree; substantive review records are kept under `ai-reviews/<source>/` so their provenance remains explicit.
 
 ## Development Model
 
 The normal cycle is:
 
 **question → investigation → adversarial review → revision → status check → deliberate acceptance → `main`**
+
+When open investigations exist and no separate framework question has been posed, substantive review should first examine those investigations rather than manufacture a new question.
 
 Git history is the detailed record of revisions. The archive is reserved for documents whose historical or conceptual identity matters independently of that history.
