@@ -8,7 +8,7 @@ Bounded questions, tests, counterexamples, and formal checks. An investigation d
   Track 1: Attempt to derive the recurring underdetermination/circularity pattern from the Exceptional Zero / *Z(S)*. The perfect-copy result is secure; the universalization remains open and now has a concrete counterexample unless restricted to a narrower internal-relational class.
 
 - [2026-08-20-recurring-signature-track2-survivor-search.md](2026-08-20-recurring-signature-track2-survivor-search.md)  
-  Track 2: Search for any third-person relational account that survives independent specification, circularity check, and target-shift check. A first provisional survivor has now been found in the causal-provenance family; its origin, causal-relation, junction, and variable-selection rules remain under pressure.
+  Track 2: Search for any third-person relational account that survives independent specification, circularity check, and target-shift check. UCL is a provisional survivor; its origin, causal-relation, junction, and variable-selection layers have since been pressure-tested separately.
 
 - [2026-08-20-diachron-identity-causal-provenance-survivor.md](2026-08-20-diachron-identity-causal-provenance-survivor.md)  
   UCL survivor search: unique origin + causal provenance + non-branching continuation tested against the full persistence/counterfeit battery.
@@ -17,16 +17,20 @@ Bounded questions, tests, counterexamples, and formal checks. An investigation d
   Theorem-shaped pass: formalize candidate admissibility axioms for origin predicates and separate the origin problem from lineage partitioning.
 
 - [2026-08-20-diachron-identity-ucl-junction-rules.md](2026-08-20-diachron-identity-ucl-junction-rules.md)  
-  Junction battery: formalize branch/merge partition rules while holding the origin predicate fixed. The maximal non-junction segment rule survives as a mathematical partition; causal-relation admissibility is now the next bottleneck.
+  Junction battery: the maximal non-junction segment rule survives as a mathematical partition. Causal-relation admissibility became the next bottleneck.
 
 - [2026-08-20-diachron-identity-causal-relation-cstar.md](2026-08-20-diachron-identity-causal-relation-cstar.md)  
-  C* battery: test independently specified restrictions of the causal graph. Domain-specific candidates fail generalization; counterfactual causal relevance and constitutive/organizational causation remain live.
+  C* battery: domain-specific candidates fail generalization; counterfactual causal relevance and constitutive/organizational causation were narrowed as the remaining live families.
 
 - [2026-08-20-diachron-identity-cstar-intervention-semantics.md](2026-08-20-diachron-identity-cstar-intervention-semantics.md)  
-  Fixed-SCM pressure test: hold one explicit intervention semantics constant and test counterfactual C* against overdetermination, preemption, repair, cloning, reconstruction, irrelevant side-effects, and causal counterfeits.
+  Fixed-SCM pressure test: the chosen counterfactual semantics is mathematically definite, but overdetermination and variable/model dependence prevent it from serving as a domain-general identity criterion in the tested form.
 
 - [2026-08-20-diachron-identity-variable-selection.md](2026-08-20-diachron-identity-variable-selection.md)  
-  Variable/outcome selection battery: test target-independent ways of selecting identity-bearing variables and outcomes within the fixed causal semantics. Initial families fail by overgeneration, non-uniqueness, scale dependence, or representation dependence.
+  Variable/outcome selection battery: initial target-independent selectors fail by overgeneration, non-uniqueness, scale dependence, or representation dependence. The next theorem-shaped test is representation invariance under refinement/coarse-graining.
+
+## Current research bottleneck
+
+**Representation invariance of the variable/outcome layer.** The next test should hold the fixed causal semantics and `J_cut` constant while asking whether a target-independent selector survives admissible changes of causal representation.
 
 ## Completed / Archived
 
