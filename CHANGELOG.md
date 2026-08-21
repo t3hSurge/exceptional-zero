@@ -2,6 +2,23 @@
 
 Significant conceptual and structural changes are recorded here. Routine wording edits remain in Git history.
 
+## 2026-08-21
+
+### Repository-wide review
+
+- Reviewed the current Git tree, canonical framework, investigations, AI-review records, and repository documentation for internal consistency.
+- Removed the repository documentation's reference to a nonexistent standalone `reviews/` tree; substantive review records remain under `ai-reviews/<source>/` with source provenance explicit.
+- Updated the investigation and ChatGPT-review indexes to reflect the completed UCL sequence and the current representation-invariance bottleneck.
+- Preserved dated AI reviews as historical records rather than rewriting earlier assessments merely because later investigations superseded them.
+
+### Diachronic identity / UCL
+
+- The UCL investigation progressed through four distinct layers: admissible origin `O`, junction partition `J_cut`, causal relation `C*`, and variable/outcome selection.
+- `J_cut` survived as a mathematical partition rule once the relevant causal graph is fixed.
+- The fixed counterfactual `C*` semantics failed as a domain-general identity criterion under overdetermination and model/variable dependence.
+- The first variable/outcome-selection battery found no target-independent selector; the current theorem-shaped question is representation invariance under admissible refinement and coarse-graining.
+- UCL remains a **provisional survivor** at the architecture level, not a completed reduction of diachronic identity.
+
 ## 2026-08-20
 
 ### Repository structure
