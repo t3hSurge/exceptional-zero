@@ -174,8 +174,6 @@ If determining whether two descriptions are "the same causal history" requires d
 
 This is the key circularity test for the present investigation.
 
----
-
 ## 6. What Would Count as a Survivor?
 
 A survivor need not solve diachronic identity outright. It must first establish a narrower result:
@@ -188,8 +186,6 @@ A survivor need not solve diachronic identity outright. It must first establish 
 6. The principle handles both refinement and coarse-graining without case-by-case target tuning.
 
 Only after these conditions are met would it make sense to ask whether the resulting \(C_*\) yields a genuine reduction of diachronic identity.
-
----
 
 ## 7. What Would Count as a Boundary?
 
@@ -239,8 +235,6 @@ G_P,G_M \;\longrightarrow\; [\sim] \;\longrightarrow\; G^* \;\longrightarrow\; \
 \]
 
 No candidate \(G^*\) is promoted by Test A. The next object is whether an independently specified common structure can exist without becoming a dumping ground for every feature a later theory might call identity-relevant.
-
----
 
 ## 10. Test B — The Common-Structure Trilemma
 
@@ -303,8 +297,6 @@ That would establish:
 
 No such universal negative has yet been earned.
 
----
-
 ## 11. Selective \(G^*\): Pressure Test Against AR-1 and AR-6
 
 The selective branch is now tested abstractly, without constructing a candidate \(G^*\) and without introducing \(\Sigma\).
@@ -331,39 +323,64 @@ For the Theseus pair, a selective \(G^*\) has three broad possibilities:
 2. **Exclude one of process or material continuity.** If that exclusion uniquely determines the persistence partition under fixed `J_cut`, the excluded/retained choice is already \(\Sigma\). AR-6 fails.
 3. **Retain some third family while excluding both.** AR-6 asks whether that third family itself determines persistence or leaves the competing readings available. If it determines the verdict, it is again hidden \(\Sigma\); if it has no bearing on the selection problem, its exclusion is identity-idle.
 
-The earned diagnostic is therefore:
+**Provisional result:** AR-6 does **not** eliminate selective \(G^*\), but it narrows the admissible region substantially.
+
+### 11.1 Joint Satisfiability of AR-1 and AR-6
+
+The next question is whether the two remaining demands are jointly satisfiable:
 
 \[
-\boxed{\text{selective exclusion either pre-settles identity or does not do the work }G^*\text{ was introduced to do.}}
+\boxed{\text{independent exclusion (AR-1)}
+\;\land\;
+\text{non-identity-determining exclusion (AR-6)}}.
 \]
 
-This is a **joint burden**, not yet a failure. AR-1 and AR-6 have not been shown jointly unsatisfiable.
+This test is conducted abstractly. No concrete exclusion rule is introduced and no candidate \(G^*\) is promoted.
 
-### Current Selective-Branch Status
+There is an abstract nonempty region. A selective structure may exclude relations that are independently classifiable as representational metadata, observer-dependent annotations, or non-causal descriptive conventions while retaining **both** process-continuity and material-provenance relations as genuine structural relations. Such selectivity can be target-independent by construction and does not itself decide which of the two continuity families later determines persistence.
 
-| Branch | AR-1 | AR-6 |
-|---|---|---|
-| **Selective \(G^*\)** | Open, conditional on independent structural licensing | Open, narrowed: exclusion must not pre-settle identity and must not be identity-idle |
-| **Exhaustive \(G^*\)** | Not yet tested | Not yet tested |
-| **Insufficient \(G^*\)** | Eliminated | Eliminated |
+This establishes an important distinction:
 
-The next pressure on the selective branch, if continued, is the **joint satisfiability of AR-1 and AR-6**. No concrete selective rule should be manufactured before that abstract burden is tested.
+> **Selective does not entail identity-selective.**
 
----
+A selective \(G^*\) can be selective about the class of admissible structural data while remaining neutral on the causal features whose identity relevance is still contested.
 
-## 12. Exact Current Status
+The joint test therefore does **not** establish a contradiction between AR-1 and AR-6.
 
-| Item | Status |
+Nor does it yet produce a useful selective \(G^*\). The abstractly satisfiable region may be **identity-idle**: its exclusions can be legitimate without contributing to the unresolved Theseus choice. Whether a selective structure can be both independently bounded **and materially useful to the representation problem** remains open.
+
+### Joint-test result
+
+| Question | Result |
 |---|---|
-| Test A | **Closed — conditional failure / \(G^*\) isolated** |
-| \(G^*\) trilemma (Test B) | **Open — selective and exhaustive live; insufficient eliminated** |
-| Selective \(G^*\) vs. AR-1 | **Open, conditional** |
-| Selective \(G^*\) vs. AR-6 | **Open, narrowed by joint burden** |
-| Exhaustive \(G^*\) | **Open, not yet tested** |
+| Can AR-1 and AR-6 be jointly satisfied in form? | **Yes, abstractly.** |
+| Does this exhibit a concrete \(G^*\)? | **No.** |
+| Does it select process over material, or vice versa? | **No.** |
+| Is selectivity therefore a Boundary? | **No.** |
+| Can the surviving selectivity be shown useful rather than identity-idle? | **Open.** |
+
+The three possible outcomes for the selective branch are therefore refined:
+
+1. **Jointly satisfiable and useful:** a genuinely selective, independently bounded \(G^*\) exists that constrains the representation problem without pre-selecting identity.
+2. **Jointly satisfiable but identity-idle:** selective \(G^*\) is formally possible, but all admissible selectivity is irrelevant to the persistence distinction; the useful work remains with \(\Sigma\) or another layer.
+3. **Jointly unsatisfiable once usefulness is required:** every selective structure that actually constrains the representation problem either violates AR-1 or performs hidden \(\Sigma\) under AR-6.
+
+No one of these three has yet been established.
+
+## 12. Current Status After the Joint Test
+
+| Branch / Layer | Status |
+|---|---|
+| Insufficient \(G^*\) | **Eliminated** |
+| Selective \(G^*\) | **Open — AR-1 + AR-6 jointly satisfiable in form; usefulness remains untested** |
+| Exhaustive \(G^*\) | **Open — not yet tested** |
 | \(G^*\) overall | **Open** |
 | \(\Sigma\) | **Untouched** |
-| UCL reduction | **Open** |
 
-No candidate \(G^*\) has been promoted. No \(\Sigma\) has been introduced. No ranking has been made. No universal negative has been earned.
+The next pressure on the selective branch should therefore not generate a candidate merely to occupy the newly opened space. The relevant question is narrower:
 
-The next actual work is either to test whether AR-1 and AR-6 are jointly satisfiable for the selective branch, or, separately, to open the exhaustive branch. The investigation must not silently convert the present joint burden into a failure.
+> **Can selective structure be independently bounded in a way that is non-idle with respect to representation admissibility while still leaving identity selection genuinely open?**
+
+Only if the answer becomes positive should a concrete selective \(G^*\) be constructed and subjected to the full AR-1–AR-7 and representation battery.
+
+No universal negative has been earned. No candidate \(G^*\) has been promoted. No \(\Sigma\) has been introduced.
