@@ -1,6 +1,6 @@
 # Diachronic Identity: Selective Common Structure — Usefulness Test
 
-**Status:** Open investigation; selective branch tested abstractly against the joint AR-1 / AR-6 burden  
+**Status:** Open investigation; selective branch tested completely at the abstract level against the joint AR-1 / AR-6 burden  
 **Scope:** Whether a selective representation-independent common structure `G*` can be non-idle with respect to representation admissibility while leaving identity selection genuinely open  
 **Depends on:** `diachronic-identity-representation-invariance.md`; Test A; Test B; fixed `J_cut`; no candidate `Σ` introduced
 
@@ -266,7 +266,7 @@ The battery does **not** establish that every useful selective `G*` is impossibl
 
 The strongest honest status is therefore:
 
-> **Selective `G*` survives the joint AR-1 / AR-6 usefulness test abstractly, but no concrete, independently bounded selective `G*` has yet been demonstrated. Its established role is representation-level rather than identity-selecting.**
+> **Selective `G*` survives the complete abstract AR-1 / AR-6 usefulness test, but no concrete, independently bounded selective `G*` has yet been demonstrated. Its established role is representation-level rather than identity-selecting.**
 
 ---
 
@@ -330,3 +330,50 @@ No ranking between process and material continuity is earned by this pass.
 No candidate `Σ` is introduced.
 
 No universal negative is earned.
+
+---
+
+## 9. Confirmed Log Entry
+
+The complete abstract usefulness test is now closed at its current level.
+
+**Earned:**
+
+\[
+\boxed{\text{representation-useful} \neq \text{identity-useful}}
+\]
+
+A selective `G*` can, in principle, constrain admissible representation using independently structural criteria while leaving process-versus-material identity selection open. The adversarial battery did not force AR-1 / AR-6 conflict.
+
+**Not earned:**
+
+- Every selective `G*` secretly contains `Σ`.
+- Any concrete selective `G*` satisfying the full conjunction has been exhibited.
+- The exhaustive branch has been tested or absorbed into the selective result.
+- Any process/material preference has been established.
+- Any candidate `Σ` has been introduced.
+- Any universal negative about representation-independent common structures has been earned.
+
+**Exact current status:**
+
+| Layer | Status |
+|---|---|
+| Insufficient `G*` | **Eliminated** |
+| Selective `G*` | **Open — abstractly viable; concrete existence unshown** |
+| Exhaustive `G*` | **Open — not yet tested** |
+| `G*` overall | **Open** |
+| `Σ` | **Untouched** |
+
+The next pressure is therefore **concrete existence**: exhibit one independently bounded `G*` satisfying
+
+\[
+\boxed{
+\text{independently bounded}
+\land
+\text{representation-useful}
+\land
+\text{identity-neutral}
+}
+\]
+
+and then run it against the same adversarial battery without post-hoc tuning. The exhaustive branch remains a separate live investigation.
