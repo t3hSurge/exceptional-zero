@@ -347,7 +347,7 @@ A selective \(G^*\) can be selective about the class of admissible structural da
 
 The joint test therefore does **not** establish a contradiction between AR-1 and AR-6.
 
-Nor does it yet produce a useful selective \(G^*\). The abstractly satisfiable region may be **identity-idle**: its exclusions can be legitimate without contributing to the unresolved Theseus choice. Whether a selective structure can be both independently bounded **and materially useful to the representation problem** remains open.
+Nor does it yet produce a useful selective \(G^*\). The abstractly satisfiable region may be **identity-idle**: its exclusions can be legitimate without contributing to the unresolved Theseus choice. Whether a selective structure can be both independently bounded **and materially useful to the representation problem** remains open at this stage of the derivation.
 
 ### Joint-test result
 
@@ -357,30 +357,60 @@ Nor does it yet produce a useful selective \(G^*\). The abstractly satisfiable r
 | Does this exhibit a concrete \(G^*\)? | **No.** |
 | Does it select process over material, or vice versa? | **No.** |
 | Is selectivity therefore a Boundary? | **No.** |
-| Can the surviving selectivity be shown useful rather than identity-idle? | **Open.** |
+| Can the surviving selectivity be shown useful rather than identity-idle? | **Subsequently tested; see §12.** |
 
-The three possible outcomes for the selective branch are therefore refined:
+The three possible outcomes for the selective branch were therefore refined:
 
 1. **Jointly satisfiable and useful:** a genuinely selective, independently bounded \(G^*\) exists that constrains the representation problem without pre-selecting identity.
 2. **Jointly satisfiable but identity-idle:** selective \(G^*\) is formally possible, but all admissible selectivity is irrelevant to the persistence distinction; the useful work remains with \(\Sigma\) or another layer.
 3. **Jointly unsatisfiable once usefulness is required:** every selective structure that actually constrains the representation problem either violates AR-1 or performs hidden \(\Sigma\) under AR-6.
 
-No one of these three has yet been established.
+---
 
-## 12. Current Status After the Joint Test
+## 12. Current Status After the Closed Selective Usefulness Test
+
+The abstract selective-usefulness battery is now complete and recorded in `investigations/2026-08-21-gstar-selective-usefulness-test.md`. This section incorporates that result so the representation-invariance document no longer lags the controlling status.
+
+**Earned distinction:**
+
+\[
+\boxed{\text{representation-useful} \neq \text{identity-useful}}
+\]
+
+A selective \(G^*\) can, in principle, constrain admissible representation using independently structural criteria while leaving process-versus-material identity selection open. The adversarial battery did not force an AR-1 / AR-6 conflict.
+
+**Not earned:**
+
+- Every selective \(G^*\) secretly contains \(\Sigma\).
+- Any concrete selective \(G^*\) satisfying the full conjunction has been exhibited.
+- The exhaustive branch has been tested or absorbed.
+- Any process/material preference.
+- Any candidate \(\Sigma\).
+- Any universal negative about representation-independent common structures.
+
+**Exact current status:**
 
 | Branch / Layer | Status |
 |---|---|
 | Insufficient \(G^*\) | **Eliminated** |
-| Selective \(G^*\) | **Open — AR-1 + AR-6 jointly satisfiable in form; usefulness remains untested** |
+| Selective \(G^*\) | **Open — abstractly viable; concrete existence unshown** |
 | Exhaustive \(G^*\) | **Open — not yet tested** |
 | \(G^*\) overall | **Open** |
 | \(\Sigma\) | **Untouched** |
+| UCL reduction | **Open / incomplete** |
 
-The next pressure on the selective branch should therefore not generate a candidate merely to occupy the newly opened space. The relevant question is narrower:
+Live region for any future selective candidate:
 
-> **Can selective structure be independently bounded in a way that is non-idle with respect to representation admissibility while still leaving identity selection genuinely open?**
+\[
+\boxed{
+\text{independently bounded}
+\;\land\;
+\text{representation-useful}
+\;\land\;
+\text{identity-neutral}
+}
+\]
 
-Only if the answer becomes positive should a concrete selective \(G^*\) be constructed and subjected to the full AR-1–AR-7 and representation battery.
+**Next move:** exhibit one concrete \(G^*\) satisfying that conjunction, then pressure-test it under the full adversarial battery without post-hoc tuning. The exhaustive branch remains a separate live investigation and must not be inferred away from the selective results.
 
-No universal negative has been earned. No candidate \(G^*\) has been promoted. No \(\Sigma\) has been introduced.
+No ranking between process and material continuity is earned. No candidate \(\Sigma\) is introduced. No universal negative is earned.
