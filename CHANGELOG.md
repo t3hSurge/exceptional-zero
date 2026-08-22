@@ -2,6 +2,17 @@
 
 Significant conceptual and structural changes are recorded here. Routine wording edits remain in Git history.
 
+## 2026-08-22
+
+### Interest-relative diachronic identity investigation
+
+- Opened `investigations/2026-08-22-interest-relative-diachronic-identity.md` to test a new interpretation of the Ship-of-Theseus underdetermination.
+- The hypothesis is that the failure to select process continuity over material continuity may be the correct result: physical history contains multiple legitimate continuities, while a reaching subject may select a causal thread for a purpose of tracking.
+- Explicitly separated the new hypothesis from the prior UCL/representation-invariance results. No `Σ` candidate is promoted, no process/material preference is asserted, and no Boundary is claimed.
+- Preserved the distinction between objective causal constraint and interest-relative identity attribution: arbitrary declaration is not permitted merely because an observer wants it; the selected thread must be causally available.
+- Identified the decisive new pressure as the bridge from Joint 3 (`I cannot not reach`) to necessary tracking selection. Joint 3 does not yet entail that bridge, so the interest-relative thesis remains Open.
+- Locked the next move to pressure-testing that bridge rather than generating `G*_2` merely to continue the selective-candidate sequence.
+
 ## 2026-08-21
 
 ### Repository-wide review
