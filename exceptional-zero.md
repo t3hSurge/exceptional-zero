@@ -273,13 +273,90 @@ Could the Cut's formalism (Part 1.3) explain diachronic identity — could "my p
 
 **Current, carefully bounded result:** *Diachronic identity is not recovered by the relational vocabulary tested so far.* Not proof of irreducibility — a real, specific, repeatable failure, exactly parallel in shape to the failures found for for-this and for truth.
 
-A subsequent survivor search then tested a materially different family: **Unique Causal Lineage (UCL)** — an independently specified origin condition plus external causal provenance plus non-branching continuation. UCL survives the current Ship-of-Theseus, duplication, fission, convergence, discontinuity, memory-loss, and perfect-counterfeit battery. This does not prove UCL correct, and the status remains bounded; it does show that the earlier internal-relational failure should not be generalized to all third-person structures.
+### 7.5 Unique Causal Lineage: The Provisional Architecture
 
-### 7.5 The Standing Anti-Circularity Rule
+A subsequent survivor search tested a materially different family: **Unique Causal Lineage (UCL)** — an independently specified origin condition plus causal provenance plus a non-branching continuation condition. The investigation did **not** establish a completed reductive theory. It established a narrower result: UCL cleanly distinguishes the original from a perfect informational/implanted-memory counterfeit when the relevant causal graph is fixed, and its non-branching condition supplies coherent null verdicts for genuine fission and convergence once the junction condition is fully specified.
+
+The formal apparatus had to be completed before the battery was runnable. In particular, the non-branching condition had to constrain both continuous out-degree and continuous in-degree, and redundant parallel edges between the same node-pair had to be treated as one distinct successor relation for overdetermined provenance. Those completions are mathematically workable, but they are additions to the original shorthand rather than results already contained in it.
+
+The decisive unresolved case is **Ship of Theseus**. For gradual in-place replacement versus later reassembly of the original material, at least two independently stateable readings of causal provenance remain live:
+
+- **Process continuity:** the continuously operating ship is the continuation; the later reassembly is a splice.
+- **Material continuity:** the vessel containing the original matter is the continuation; the continuously serviced ship is not materially continuous with the original.
+
+Both criteria can be stated without using identity vocabulary, yet they produce opposite positive persistence verdicts. UCL as currently formulated contains no further rule selecting between them. The problem is therefore not a wrong verdict but an **underdetermination of \(C_*\)** itself.
+
+The correct live architecture is:
+
+\[
+O \;\rightarrow\; [\text{selection of identity-relevant causal features}] \;\rightarrow\; C_* \;\rightarrow\; J_{\text{cut}}.
+\]
+
+The bracketed selection step is not optional. UCL remains a **provisional architecture-level survivor**, not a completed reductive theory of diachronic identity.
+
+The broader battery establishes several narrower results. The perfect-counterfeit / implanted-memory distinction is robust across the tested process, material, and informational readings: the externally implanted counterfeit has no causal chain from the original under any of them. Genuine bisection and fusion produce coherent null verdicts once the completed junction condition is applied; branch-then-merge composes those results. Overdetermined provenance can be handled once redundant parallel edges are explicitly collapsed. Clone/shared-origin cases remain distinct. But the remote-reconstruction variant of duplication inherits the unresolved continuity-reading problem rather than independently settling it.
+
+**Canonical boundary statement:** UCL is not refuted. The perfect-counterfeit / implanted-memory result is earned and robust. \(J_{\text{cut}}\) is a workable mathematical partition once a causal graph is fixed. What fails is determination of \(C_*\): UCL itself does not select which causal features are identity-relevant. Ship of Theseus is the cleanest demonstration. Until a target-independent, representation-invariant selection principle is supplied or shown impossible under the framework's constraints, the reduction of diachronic identity via unique causal lineage remains incomplete.
+
+### 7.6 Representation Invariance: The Missing Layer
+
+The next investigation therefore moved beneath \(C_*\)'s selection step rather than proposing another causal family. The live architecture became:
+
+\[
+G_P,\;G_M \;\longrightarrow\; [\sim] \;\longrightarrow\; [G^*] \;\longrightarrow\; \Sigma.
+\]
+
+Here \(G_P\) privileges process-continuity relations and \(G_M\) privileges material-provenance relations. The first question is whether an admissibility relation \(G\sim H\) can identify competing representations without already selecting the identity-relevant distinction.
+
+**Test A — Admissibility trilemma.** If the two descriptions differ in which causal relations they privilege, ordinary graph isomorphism cannot settle their equivalence. Three options remain: strict structural equivalence rejects the equivalence; maximal/common-history equivalence requires an independently specified common structure; selective equivalence depends on which features are preserved and therefore risks smuggling the selection principle into the admissibility relation. Test A is closed as a conditional failure that isolates the common-structure problem; it does not prove admissibility impossible.
+
+The resulting object is \(G^*\), a proposed representation-independent common structure from which competing causal descriptions could be recovered as genuine projections. It must be specified before \(\Sigma\), must not use identity vocabulary, must support both projections, must be representation-stable, nontrivial, and must not become a dumping ground for every relation that might later matter to identity.
+
+**Test B — Common-Structure Trilemma.** Holding \(\Sigma\) unspecified, a proposed \(G^*\) is necessarily **selective, exhaustive, or insufficient**. Insufficient structures are eliminated because they lose distinctions a later \(\Sigma\) would need. Selective structures remain live if their exclusions have independent structural licensing and do not themselves settle persistence. Exhaustive structures remain live if their membership condition has a principled boundary rather than becoming an unrestricted container. Neither surviving branch has yet been ruled out.
+
+AR-1 (target independence) and AR-6 (no hidden \(\Sigma\)) were then pressured against the selective branch. They are **jointly satisfiable in form**: selectivity does not entail identity-selectivity. A selective structure may exclude representation artifacts or other independently classifiable non-structural material while retaining both process and material relations. The stronger distinction earned by the usefulness battery is:
+
+\[
+\boxed{\text{representation-useful} \neq \text{identity-useful}}.
+\]
+
+A selective \(G^*\) can constrain admissible representations without deciding the Theseus verdict. What remains unproved is concrete existence of a selectively bounded structure satisfying the full conjunction of independent bounding, representation usefulness, and identity neutrality.
+
+### 7.7 First Concrete Common-Structure Candidate: \(G^*_1\)
+
+The first concrete candidate was **Typed Physical Causal History**:
+
+\[
+G^*_{\mathrm{phys}}=(V,E,\tau),
+\]
+
+with physically instantiated events/states as \(V\), directed physical causal relations as \(E\), and relation typing that retains at least process continuity and material provenance without privileging either. It preserved the process/material distinction, the perfect-counterfeit provenance distinction, and identity-neutral fission/fusion behavior. It therefore did not collapse into \(\Sigma\).
+
+But the candidate failed as a concrete selective survivor. The attempted membership boundary — "physical causal relations" — did not independently determine which physical causal relations belonged in \(E\) once representation invariance was required. The attempted repairs each moved the problem rather than solving it:
+
+| Repair | Where the problem goes |
+|---|---|
+| Privilege a physical level / factorization | Requires an unprovided ontology-selection rule |
+| Include every physical causal dependence | Becomes exhaustive \(G^*\) |
+| Treat direct edges as fundamental | Becomes representation-sensitive under refinement |
+| Quotient across descriptions | Reopens the admissibility problem \(G\sim H\) |
+| Exclude features because they do not matter to identity | Hides \(\Sigma\) in the membership rule |
+
+Thus:
+
+\[
+\boxed{G^*_1\text{ fails as a concrete selective construction}}\qquad\text{but not}\qquad\boxed{\text{the selective class is impossible}}.
+\]
+
+What \(G^*_1\) establishes is narrower and useful: **"typed physical causal history" is not, by itself, an independently bounded, representation-invariant selective common structure.** The selective branch remains open. No \(G^*_2\) has been constructed, and the exhaustive branch remains separately open and untested.
+
+### 7.8 Standing Anti-Circularity and Representation Rule
 
 Any future candidate relation for personal identity must be independently specified *before* being tested against the implanted-memory case. A candidate defined as "whatever picks out the genuine past" is disqualified by construction — it would just be identity relabeled.
 
-For UCL specifically, “origin” is admissible only if the origin predicate is independently specified. “The origin of the genuine self” would simply be Construction B under another name.
+For UCL specifically, "origin" is admissible only if the origin predicate is independently specified. "The origin of the genuine self" would simply be Construction B under another name.
+
+For the representation layer, no candidate \(G^*\) may be accepted merely because its surface vocabulary is target-free. Its membership boundary, justification, representation invariance, refinement/coarse-graining behavior, and functional role must all be tested before any \(\Sigma\) is introduced. Candidate failure must not be promoted into class failure.
 
 ---
 
@@ -289,21 +366,13 @@ Across the initial searches in three domains — subjectivity, truth, and diachr
 
 That observation remains real, but it is **not exceptionless**.
 
-The diachronic-identity UCL search produced a provisional survivor: an externally anchored causal-provenance account that distinguishes the genuine history from an internal/informational counterfeit without adding an identity predicate. The survivor therefore breaks the broad hypothesis that every non-target-bearing third-person account must collapse into either underdetermination or circularity.
+UCL is the reason the broad exceptionless form was downgraded, but its status must now be stated precisely. UCL does not provide a completed general reduction of diachronic identity: it earns a robust local perfect-counterfeit distinction and a coherent graph-partitioning architecture, while Ship of Theseus exposes the unresolved selection of \(C_*\). The recurrence therefore cannot be dismissed merely because UCL exists, but neither can UCL be treated as a general counterexample to every failure pattern previously observed.
 
-The recurrence can still be investigated in narrower form. The perfect-relational-counterfeit theorem remains intact: when target and rival are exact copies with respect to the complete permitted signature, automorphism invariance prevents any structural predicate of that signature from distinguishing them. What failed was the attempted universalization that every relevant third-person vocabulary must permit such a copy.
-
-The current question is therefore no longer:
-
-> **“Is the recurring signature universal?”**
-
-That version has a counterexample.
-
-The sharper question is:
+The sharper live question is now:
 
 > **Can a principled class of internally relational representations be defined, broad enough to include the approaches that actually failed, for which the counterfeit/non-isolation result can be proved?**
 
-The answer remains open. The appropriate status is therefore **Open**, but with the stronger negative version already refuted by UCL.
+The answer remains **Open**. The broad exceptionless claim is refuted by the local UCL success, while the narrower structural question remains genuinely unsettled. Representation-useful structure has also been shown not to be the same thing as identity-useful structure, and the first concrete selective common-structure candidate has failed without closing the selective class.
 
 ---
 
@@ -339,8 +408,8 @@ Several standing tools were developed over the course of the investigation and a
 | Evidence for For-This | **Boundary** | Three distinct failure modes: circularity, target-shift, underdetermination |
 | Truth | **Open** | Five candidates tested and failed for distinct reasons; regress-based unification with the Cut tested and dissolved; primitivism held as least-committal, not proven; no demonstration that reduction is impossible |
 | Field responsiveness / other selves | **Boundary** | Conceptual, not merely evidential — correlation, response, and interiority shown to be non-equivalent; other-selves question placed under the same distinction, not merged into one investigation |
-| Diachronic Identity | **Boundary** | Initial internal relational vocabulary (temporal, ordinary causal, memory, informational) failed to distinguish genuine from counterfeit past; UCL is a provisional survivor outside that exhausted vocabulary, so the boundary remains explicitly scoped |
-| The Recurring Signature (third-person relations fail to recover their target independently across three domains) | **Open** | Initial candidate families show a repeated failure pattern, but UCL provides a provisional counterexample to the exceptionless form; the narrower structural question remains open |
+| Diachronic Identity | **Boundary** | Initial internal relational vocabulary failed; UCL earns a robust perfect-counterfeit result and a provisional graph-partitioning architecture, but Ship of Theseus leaves \(C_*\) underdetermined. Representation-invariant selection of identity-relevant causal features remains open. |
+| The Recurring Signature (third-person relations fail to recover their target independently across three domains) | **Open** | The broad exceptionless form is broken by UCL's local success; the narrower class question remains open, with representation invariance and common-structure construction now the live investigation |
 | The suffering-to-value bridge | **Open** | Flagged early; never yet tested; whether "suffering is the gap between wanting and non-reciprocation" licenses any normative conclusion without simply asserting the value rather than deriving it |
 
 ---
@@ -348,9 +417,21 @@ Several standing tools were developed over the course of the investigation and a
 ## Part Eleven: What Remains Genuinely Open
 
 - **Truth** — an active, unfinished search. No proof that reduction is impossible; no successful reduction found.
-- **Diachronic identity** — UCL is a provisional survivor: unique origin + causal provenance + non-branching continuation survives the current battery. The next question is whether the origin condition can be independently specified and generalized without quietly reintroducing the identity it is meant to explain.
+- **Diachronic identity** — UCL remains a provisional architecture-level survivor, not a completed reductive theory. The perfect-counterfeit / implanted-memory result is earned and robust; \(J_{\text{cut}}\) is a workable partition once a causal graph is fixed; Ship of Theseus shows that \(C_*\) is not yet independently determined.
+- **Representation-invariant causal selection** — can the missing selection of identity-relevant causal features be specified target-independently and remain stable under admissible refinement or coarse-graining? The live architecture is \(G_P,G_M\rightarrow[\sim]\rightarrow[G^*]\rightarrow\Sigma\). Test A isolated the common-structure problem; Test B leaves selective and exhaustive \(G^*\) branches open. The selective branch is abstractly viable but its first concrete candidate, \(G^*_1\), failed. The exhaustive branch remains untested. \(\Sigma\) remains untouched.
 - **The suffering-to-value bridge** — whether "suffering is the gap between wanting and non-reciprocation" licenses any route to "suffering is bad," without simply asserting the value rather than deriving it. Flagged early. Never yet tested.
-- **The recurring signature itself** — its broad exceptionless form is broken by UCL. What remains open is whether a narrower, principled class of internal relational descriptions exhibits a provable counterfeit/non-isolation boundary, and whether further genuine survivors exist.
+- **The recurring signature itself** — its broad exceptionless form is broken by the local UCL result. What remains open is whether a narrower, principled class of internal relational descriptions exhibits a provable counterfeit/non-isolation boundary, and whether further genuine survivors exist.
+
+### Current Diachronic-Identity Investigation State
+
+| Layer | Status |
+|---|---|
+| Insufficient \(G^*\) | **Eliminated** |
+| Selective \(G^*\) | **Open — abstractly viable; \(G^*_1\) failed as a concrete construction** |
+| Exhaustive \(G^*\) | **Open — not yet tested** |
+| \(\Sigma\) | **Untouched** |
+
+The investigation has deliberately not promoted a replacement for \(G^*_1\), ranked process against material continuity, or treated a candidate failure as a class-level Boundary.
 
 ---
 
