@@ -11,7 +11,18 @@ Significant conceptual and structural changes are recorded here. Routine wording
 - Updated the investigation and ChatGPT-review indexes to reflect the completed UCL sequence and the current representation-invariance bottleneck.
 - Preserved dated AI reviews as historical records rather than rewriting earlier assessments merely because later investigations superseded them.
 
-### Diachronic identity / UCL
+### Diachronic identity / UCL — battery correction
+
+- Added `investigations/diachronic-identity-ucl-battery.md`, which formally runs the previously asserted UCL battery rather than treating the battery as established by status language alone.
+- Corrected the earlier blanket claim that UCL "survives the current Ship-of-Theseus, duplication, fission, convergence, discontinuity, memory-loss, and perfect-counterfeit battery."
+- Recorded that the runnable apparatus required explicit completion choices for `J_cut` (both branch and merge junctions) and for redundant parallel causal mechanisms.
+- Confirmed robust survival only for the perfect-counterfeit / implanted-memory case and cloning/shared-origin separation under the tested causal readings.
+- Confirmed coherent null verdicts for genuine bisection, convergence/fusion, and branch→merge once `J_cut` is explicitly completed; these are not positive persistence results.
+- Found Ship of Theseus to be a genuine unresolved failure of the current UCL architecture: process-continuity and material-continuity readings of `C*` give different identity verdicts, and UCL contains no independent selector between them.
+- Classified remote duplication and reconstruction-after-destruction as inheriting this continuity-selection problem rather than as independent UCL successes.
+- Narrowed the live question from "does UCL survive the battery?" to whether a target-independent principle can select identity-relevant causal continuity without importing the desired identity verdict.
+
+### Diachronic identity / UCL architecture
 
 - The UCL investigation progressed through four distinct layers: admissible origin `O`, junction partition `J_cut`, causal relation `C*`, and variable/outcome selection.
 - `J_cut` survived as a mathematical partition rule once the relevant causal graph is fixed.
