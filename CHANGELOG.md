@@ -26,7 +26,7 @@ Significant conceptual and structural changes are recorded here. Routine wording
 
 - The UCL investigation progressed through four distinct layers: admissible origin `O`, junction partition `J_cut`, causal relation `C*`, and variable/outcome selection.
 - `J_cut` survived as a mathematical partition rule once the relevant causal graph is fixed.
-- The fixed counterfactual `C*` semantics failed as a domain-general identity criterion under overdetermination and model/variable dependence.
+- The fixed counterfactual `C*` semantics failed as a domain-general identity criterion under overdetermination and variable/model dependence.
 - The first variable/outcome-selection battery found no target-independent selector; the current theorem-shaped question is representation invariance under admissible refinement and coarse-graining.
 - UCL remains a **provisional survivor** at the architecture level, not a completed reduction of diachronic identity.
 
@@ -38,6 +38,15 @@ Significant conceptual and structural changes are recorded here. Routine wording
 - Tested formal/typological, causal-direction, locality, conservation/invariant, and graph-structural classes abstractly, then pressure-tested the surviving pattern against Theseus, refinement, coarse-graining, fission, fusion, counterfeit, redundant causation, irrelevant side-effects, and causal-counterfeit cases.
 - No concrete independently bounded selective `G*` has been exhibited. The selective branch remains open as an abstract possibility, not a demonstrated survivor.
 - No Boundary against selective `G*` was earned. The exhaustive `G*` branch remains independently open and untested.
+
+### Diachronic identity / first concrete selective candidate `G*_1`
+
+- Constructed and attacked `G*_1` = typed physical causal history as the first concrete selective common-structure candidate.
+- Recorded the attack in `investigations/2026-08-22-gstar1-membership-boundary-attack.md`.
+- **Candidate result:** `G*_1` fails. The phrase "physical causal relation" does not independently determine which relations belong in `E` under refinement, coarse-graining, or change of physical factorization.
+- Apparent repairs each leave the intended selective slot: privileged factorization (unprovided ontology-selection rule), all physical dependence (exhaustive branch), direct edges (representation-sensitive), quotient across descriptions (reopens `G ~ H`), identity-motivated exclusion (hidden `Σ`).
+- **Not withdrawn:** Theseus neutrality, perfect-counterfeit provenance distinction, fission/fusion identity-neutrality, and resistance to collapse into `Σ`.
+- **Classification:** candidate failure, not branch failure. Selective `G*` remains open. Exhaustive `G*` remains open and untested. No `G*_2` generated. `Σ` remains untouched. No process/material preference. No Boundary against the selective class.
 
 ## 2026-08-20
 
