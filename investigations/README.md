@@ -4,6 +4,9 @@ Bounded questions, tests, counterexamples, and formal checks. An investigation d
 
 ## Active
 
+- [2026-08-22-interest-relative-diachronic-identity.md](2026-08-22-interest-relative-diachronic-identity.md)  
+  **New hypothesis:** Ship of Theseus may expose a category error rather than a missing physical identity fact. Physical history contains multiple continuities; a reaching subject may select a causal thread for a purpose of tracking. Open; the bridge from Joint 3 to necessary tracking remains unproved.
+
 - [2026-08-22-gstar1-membership-boundary-attack.md](2026-08-22-gstar1-membership-boundary-attack.md)  
   **First concrete selective candidate `G*_1` (typed physical causal history) fails.** The failure is the independent membership-boundary / representation-equivalence conjunction. Identity neutrality, Theseus neutrality, perfect-counterfeit preservation, and resistance to hidden `Σ` remain earned. This is a candidate failure, not a branch failure.
 
@@ -39,9 +42,11 @@ Bounded questions, tests, counterexamples, and formal checks. An investigation d
 
 ## Current research bottleneck
 
-**Selective existence after the failure of `G*_1`, versus the separately open exhaustive branch.**
+**The bridge from Joint 3 to interest-relative identity selection.**
 
-`G*_1` (typed physical causal history) has failed as a concrete selective survivor because it does not independently determine which physical causal relations belong in `E` under representation change. That is not a failure of the selective class. The abstract result remains: representation-useful selectivity need not be identity-selective. No independently bounded, representation-useful, identity-neutral concrete `G*` has yet been exhibited. The exhaustive branch remains open and untested. No `G*_2` has been generated. `Σ` remains untouched.
+The new investigation asks whether the Ship of Theseus underdetermination is the correct result rather than a missing causal criterion: physical history contains multiple legitimate continuities, while a finite reaching subject may select one causal thread for a purpose of tracking. The claim remains Open. The crucial bridge `I cannot not reach → necessary tracking selection` has not yet been established and must be attacked directly.
+
+This does not close the prior representation-invariance branches. `G*_1` remains failed as a candidate; the selective class remains open; exhaustive `G*` remains separately open and untested; `Σ` remains untouched. The new hypothesis is an alternative interpretation of why the selection problem may resist target-independent reduction, not a promoted solution.
 
 ## Completed / Archived
 
