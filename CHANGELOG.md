@@ -11,7 +11,7 @@ Significant conceptual and structural changes are recorded here. Routine wording
 - Updated the investigation and ChatGPT-review indexes to reflect the completed UCL sequence and the current representation-invariance bottleneck.
 - Preserved dated AI reviews as historical records rather than rewriting earlier assessments merely because later investigations superseded them.
 
-### Diachronic identity / UCL — battery correction
+### Diachronic identity / battery correction
 
 - Added `investigations/diachronic-identity-ucl-battery.md`, which formally runs the previously asserted UCL battery rather than treating the battery as established by status language alone.
 - Corrected the earlier blanket claim that UCL "survives the current Ship-of-Theseus, duplication, fission, convergence, discontinuity, memory-loss, and perfect-counterfeit battery."
@@ -30,6 +30,15 @@ Significant conceptual and structural changes are recorded here. Routine wording
 - The first variable/outcome-selection battery found no target-independent selector; the current theorem-shaped question is representation invariance under admissible refinement and coarse-graining.
 - UCL remains a **provisional survivor** at the architecture level, not a completed reduction of diachronic identity.
 
+### Diachronic identity / representation invariance — selective `G*` usefulness test
+
+- Ran the complete abstract usefulness battery for the selective `G*` branch against the joint AR-1 / AR-6 burden, without constructing a candidate `G*` or introducing `Σ`.
+- Confirmed that selective structure is not intrinsically identity-selective: independently structural filters can be representation-useful while leaving process-versus-material identity selection open.
+- Distinguished **representation-usefulness** from **identity-usefulness** and recorded that the former can survive AR-1 and AR-6 while the latter would violate AR-6 if installed prematurely.
+- Tested formal/typological, causal-direction, locality, conservation/invariant, and graph-structural classes abstractly, then pressure-tested the surviving pattern against Theseus, refinement, coarse-graining, fission, fusion, counterfeit, redundant causation, irrelevant side-effects, and causal-counterfeit cases.
+- No concrete independently bounded selective `G*` has been exhibited. The selective branch remains open as an abstract possibility, not a demonstrated survivor.
+- No Boundary against selective `G*` was earned. The exhaustive `G*` branch remains independently open and untested.
+
 ## 2026-08-20
 
 ### Repository structure
@@ -37,7 +46,6 @@ Significant conceptual and structural changes are recorded here. Routine wording
 - Established `WORKFLOW.md` to codify the path from investigation and adversarial review to accepted canonical text.
 - Established `BRANCHING.md` to distinguish exploratory work from the accepted `main` branch.
 - Clarified the role of `archive/`: preserve historically significant standalone artifacts rather than every superseded version of the canonical document.
-- Clarified that `ai-reviews/` records arguments for consideration and does not confer canonical status on AI output.
 - Clarified that Git history, rather than the archive, is the authoritative record of ordinary document revisions.
 
 ### Collaborator workflow
