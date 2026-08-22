@@ -4,8 +4,14 @@ Bounded questions, tests, counterexamples, and formal checks. An investigation d
 
 ## Active
 
+- [2026-08-22-gstar1-membership-boundary-attack.md](2026-08-22-gstar1-membership-boundary-attack.md)  
+  **First concrete selective candidate `G*_1` (typed physical causal history) fails.** The failure is the independent membership-boundary / representation-equivalence conjunction. Identity neutrality, Theseus neutrality, perfect-counterfeit preservation, and resistance to hidden `Σ` remain earned. This is a candidate failure, not a branch failure.
+
 - [2026-08-21-gstar-selective-usefulness-test.md](2026-08-21-gstar-selective-usefulness-test.md)  
-  **Selective `G*` abstract test closed.** Representation-useful selectivity need not be identity-selective. Selective `G*` remains open only as a concrete-existence question: no independently bounded `G*` satisfying the full conjunction has yet been exhibited. Exhaustive `G*` remains separately open and untested.
+  **Selective `G*` abstract test closed.** Representation-useful selectivity need not be identity-selective. Selective `G*` remains open as a concrete-existence question after the failure of `G*_1`. Exhaustive `G*` remains separately open and untested.
+
+- [diachronic-identity-representation-invariance.md](diachronic-identity-representation-invariance.md)  
+  Representation-invariance architecture: Test A closed; `G*` isolated; Test B trilemma established; AR-1 / AR-6 jointly satisfiable in form.
 
 - [2026-08-20-recurring-signature-track1-structural.md](2026-08-20-recurring-signature-track1-structural.md)  
   Track 1: Attempt to derive the recurring underdetermination/circularity pattern from the Exceptional Zero / *Z(S)*. The perfect-copy result is secure; the universalization remains open and now has a concrete counterexample unless restricted to a narrower internal-relational class.
@@ -33,7 +39,9 @@ Bounded questions, tests, counterexamples, and formal checks. An investigation d
 
 ## Current research bottleneck
 
-**Concrete existence of a selectively bounded common structure `G*`.** The selective branch has now completed its abstract AR-1 / AR-6 usefulness test. The earned result is that representation-useful selectivity need not be identity-selective. No concrete independently bounded `G*` satisfying independent boundedness, representation usefulness, and identity neutrality has yet been demonstrated. The exhaustive branch remains open and has not yet been tested.
+**Selective existence after the failure of `G*_1`, versus the separately open exhaustive branch.**
+
+`G*_1` (typed physical causal history) has failed as a concrete selective survivor because it does not independently determine which physical causal relations belong in `E` under representation change. That is not a failure of the selective class. The abstract result remains: representation-useful selectivity need not be identity-selective. No independently bounded, representation-useful, identity-neutral concrete `G*` has yet been exhibited. The exhaustive branch remains open and untested. No `G*_2` has been generated. `Σ` remains untouched.
 
 ## Completed / Archived
 
