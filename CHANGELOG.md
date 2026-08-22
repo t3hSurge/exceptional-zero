@@ -4,6 +4,16 @@ Significant conceptual and structural changes are recorded here. Routine wording
 
 ## 2026-08-22
 
+### Joint 3 → tracking-selection bridge test
+
+- Added `investigations/2026-08-22-joint3-tracking-bridge-test.md`.
+- Direct pressure established a **non-entailment**: `I cannot not reach` does not by itself entail unique selection of an identity-bearing causal thread.
+- A reaching subject can preserve multiple causal continuities simultaneously without choosing one as metaphysically privileged.
+- Finitude may support bounded tracking, but finitude and bounded capacity are additional premises; they do not follow from Joint 3 as stated.
+- Purpose/interest remains a plausible selection layer but is not entailed by Joint 3 in every act of reaching.
+- The category-error / interest-relative thesis remains Open. Causal underdetermination and subject-relative selection are now explicitly separated.
+- The next pressure is an independently specified bounded-tracking principle, not a stronger reading of Joint 3 and not construction of `G*_2`.
+
 ### Interest-relative diachronic identity investigation
 
 - Opened `investigations/2026-08-22-interest-relative-diachronic-identity.md` to test a new interpretation of the Ship-of-Theseus underdetermination.
