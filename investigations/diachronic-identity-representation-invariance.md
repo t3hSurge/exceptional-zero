@@ -179,10 +179,15 @@ This is the key circularity test for the present investigation.
 A survivor need not solve diachronic identity outright. It must first establish a narrower result:
 
 1. A target-independent selection principle \(\Sigma\) can be stated.
+
 2. \(\Sigma\) is invariant under a clearly specified class of admissible representation changes.
+
 3. The admissibility class itself does not encode the desired identity verdict.
+
 4. \(\Sigma\) preserves the robust perfect-counterfeit result.
+
 5. \(\Sigma\) interacts coherently with the fixed `J_cut` rule.
+
 6. The principle handles both refinement and coarse-graining without case-by-case target tuning.
 
 Only after these conditions are met would it make sense to ask whether the resulting \(C_*\) yields a genuine reduction of diachronic identity.
@@ -393,7 +398,7 @@ A selective \(G^*\) can, in principle, constrain admissible representation using
 | Branch / Layer | Status |
 |---|---|
 | Insufficient \(G^*\) | **Eliminated** |
-| Selective \(G^*\) | **Open — abstractly viable; concrete existence unshown** |
+| Selective \(G^*\) | **Open — abstractly viable; first concrete candidate failed** |
 | Exhaustive \(G^*\) | **Open — not yet tested** |
 | \(G^*\) overall | **Open** |
 | \(\Sigma\) | **Untouched** |
@@ -411,6 +416,22 @@ Live region for any future selective candidate:
 }
 \]
 
-**Next move:** exhibit one concrete \(G^*\) satisfying that conjunction, then pressure-test it under the full adversarial battery without post-hoc tuning. The exhaustive branch remains a separate live investigation and must not be inferred away from the selective results.
+---
 
-No ranking between process and material continuity is earned. No candidate \(\Sigma\) is introduced. No universal negative is earned.
+## 13. First Concrete Candidate — `G*_1` Failed
+
+The first concrete selective candidate, typed physical causal history, has been attacked and recorded in `investigations/2026-08-22-gstar1-membership-boundary-attack.md`.
+
+\[
+\boxed{G^*_1\text{ fails}}
+\qquad
+\text{and not}
+\qquad
+\boxed{\text{selective }G^*\text{ is impossible}}
+\]
+
+The candidate failed because "physical causal relation" does not independently determine which relations belong in `E` under refinement, coarse-graining, or change of physical factorization. Apparent repairs each leave the intended selective slot.
+
+What is **not** withdrawn: Theseus neutrality, perfect-counterfeit provenance distinction, fission/fusion identity-neutrality, and resistance to collapse into \(\Sigma\).
+
+No `G*_2` is generated here. The next legitimate work is to decide how to attack the remaining selective existence question versus the separately open exhaustive branch, without treating this candidate failure as a failure of the class.
