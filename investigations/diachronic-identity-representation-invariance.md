@@ -26,7 +26,7 @@ No answer is assumed.
 
 ---
 
-## 2. What Counts as a Representation Change?
+## 2. The First Object of Investigation: Admissible Representation Change
 
 Let a causal history be represented by a structure
 
@@ -38,6 +38,8 @@ where `V` contains stages or events, `E` contains causal connections, and `\math
 
 A **representation change** is admissible when it changes the description without changing the causal history being described in the relevant structural sense.
 
+That definition is deliberately provisional. The phrase **relevant structural sense** is exactly where identity could re-enter.
+
 Three basic operations are distinguished:
 
 1. **Refinement:** replace one coarse causal edge with a more detailed subgraph whose composition represents the same causal transition.
@@ -46,193 +48,123 @@ Three basic operations are distinguished:
 
 The investigation must not treat arbitrary additions or deletions of causal facts as mere representation changes. A refinement that introduces genuinely new causal structure is not automatically admissible.
 
-The unresolved task is to specify the admissibility relation itself without using the desired identity verdict to define it.
+The first question is therefore prior to any particular \(\Sigma\):
+
+> **Can the equivalence relation \(G\sim H\) on representations be specified independently of which causal features \(\Sigma\) later treats as identity-relevant?**
+
+If not, then \(\Sigma\) and representation admissibility are not genuinely separate layers. They form a single package whose invariance condition already contains the distinction the selection principle is supposed to discover.
 
 ---
 
-## 3. Candidate Invariance Conditions
+## 3. Admissibility Constraints Before \(\Sigma\)
 
-A proposed selection principle \(\Sigma\) for identity-relevant causal features should satisfy, at minimum, the following constraints.
+Hold \(\Sigma\) completely unspecified. Any admissibility relation \(\sim\) must be tested against these constraints before a candidate selection principle is privileged.
 
-### RI-1 — Target Independence
+### AR-1 — Target Independence
 
-\(\Sigma\) must be stated without reference to:
+\(G\sim H\) must be defined without reference to which stages are the same self, genuine, counterfeit, or otherwise identity-bearing.
 
-- the entity that is "really" the same,
-- the desired persistence verdict,
-- the "genuine" past,
-- psychological ownership,
-- or any equivalent identity-bearing predicate.
+### AR-2 — Structural Specification
 
-If a representation is selected because it gives the pre-theoretically preferred identity answer, the selection has failed the anti-circularity test.
+The relation must be stated in terms of independently available structural facts about the represented causal systems, not by appeal to the persistence verdict that the representation is supposed to constrain.
 
-### RI-2 — Isomorphism Invariance
+### AR-3 — Isomorphism Compatibility
 
-If two causal representations are isomorphic descriptions of the same structure, \(\Sigma\) must select corresponding causal features in the same way.
+Pure relabeling or structurally equivalent redescription cannot alter admissibility.
 
-Pure relabeling cannot change what counts as identity-relevant.
+### AR-4 — Refinement Independence
 
-### RI-3 — Refinement Stability
+Splitting a causal transition into more detailed substeps must not change whether the descriptions represent the same history merely because the description became more detailed. A refinement that introduces genuinely new causal structure may, however, cease to be equivalent.
 
-If a causal edge \(e\) is refined into a subgraph \(H\) without changing the represented causal transition, \(\Sigma\) must not reverse its identity-relevance merely because the description became more detailed.
+### AR-5 — Coarse-Graining Independence
 
-A candidate may legitimately identify a feature newly exposed by refinement only if that feature represents genuinely new causal structure rather than descriptive granularity.
+Compressing a causal subgraph must not arbitrarily change representation-equivalence merely because descriptive resolution decreased. The permissible loss of information must be specified independently rather than by the identity verdict.
 
-### RI-4 — Coarse-Graining Stability
+### AR-6 — No Hidden \(\Sigma\)
 
-If a detailed causal subgraph is compressed into a single edge while preserving the relevant structure, \(\Sigma\) must not manufacture or destroy identity relevance solely through compression.
+The definition of \(G\sim H\) cannot preserve precisely those causal features that a later \(\Sigma\) is supposed to select. Otherwise the selection problem has merely been moved upstream.
 
-RI-3 and RI-4 together prohibit a theory from locating identity in an artifact of descriptive resolution.
+### AR-7 — Nontriviality of Representation Equivalence
 
-### RI-5 — Representation-Independent Verdict
+The relation must permit genuinely equivalent descriptions while distinguishing descriptions that differ in causal structure. Declaring every pair equivalent makes invariance vacuous; declaring no pair equivalent makes invariance unusable.
 
-If two admissible representations encode the same causal history, the induced persistence relation must agree across them.
-
-Formally, for admissibly equivalent representations \(G\sim H\),
-
-\[
-\Sigma(G) \cong \Sigma(H)
-\]
-
-in the sense that corresponding stages receive the same identity-relevant classification.
-
-### RI-6 — Nontriviality
-
-\(\Sigma\) must select enough structure to distinguish at least the robust counterfeit case from its genuine continuation. A rule that declares every causal feature irrelevant is invariant but useless.
-
-Conversely, a rule that treats every causal edge as identity-bearing is also unacceptable if it makes ordinary branching, convergence, and duplication collapse into indiscriminate persistence.
-
-### RI-7 — Generality Without Target-Tuning
-
-The same selection principle must be usable across the cases for which UCL is intended, without adding a new identity-motivated exception for each case.
-
-A domain-specific restriction may be legitimate if independently justified. What is disallowed is a sequence of clauses whose only common function is reproducing desired identity judgments.
+These are constraints, not a supplied universal definition of admissibility.
 
 ---
 
-## 4. First Adversarial Battery
+## 4. Admissibility Battery
 
-The battery is designed to attack the invariance conditions themselves rather than to propose another causal vocabulary.
+The battery now begins **before** any candidate \(\Sigma\) is introduced.
 
-### Test A — Ship of Theseus Under Refinement
+### Test A — Theseus: Process Versus Material Description
 
-Represent gradual plank replacement at two resolutions:
+Represent the same replacement history once with explicit process-continuity edges and once with explicit material-provenance edges.
 
-- coarse: one continuous process from the original ship-stage to the final ship-stage;
-- fine: a sequence of individual replacement events, each with material and process relations separately represented.
+**Question:** Can the two descriptions be declared equivalent without deciding in advance whether process or material continuity is identity-relevant?
 
-**Question:** Can \(\Sigma\) select process continuity or material continuity without changing its verdict merely because the representation is refined?
+If equivalence requires choosing one, the admissibility relation already contains \(\Sigma\).
 
-A candidate that favors process at the coarse level but material at the fine level fails RI-3.
+### Test B — Refinement of Theseus
 
-### Test B — Ship of Theseus Under Coarse-Graining
+Take a process-level representation and refine each replacement into individual operations, material transfers, and temporal stages.
 
-Start with the detailed replacement graph and collapse the replacement sequence into one transition.
+**Question:** Can refinement preserve representation-equivalence without privileging process, matter, organization, or information?
 
-**Question:** Does the selected identity-relevant feature survive compression?
+A negative result would show that refinement invariance itself is carrying the missing selection principle.
 
-If material continuity disappears merely because individual material transfers are no longer represented, the candidate may be representation-dependent rather than identity-relevant.
+### Test C — Coarse-Grained Theseus
 
-### Test C — Isomorphic Redescription
+Collapse the detailed replacement sequence into a smaller graph describing only the initial ship, replacement process, and final configurations.
 
-Rename stages, reverse arbitrary labels, and replace equivalent structural descriptions with isomorphic predicates.
+**Question:** Can coarse-graining preserve equivalence without already deciding which features must survive the abstraction?
 
-**Question:** Does \(\Sigma\) remain unchanged?
+### Test D — Fission
 
-This is the easiest condition and therefore the weakest test. Passing it is necessary but not informative by itself.
+Compare a fine-grained graph that explicitly displays the branch point with a coarse-grained graph in which the branch is represented as a single transition to two successors.
 
-### Test D — Split Description of a Single Causal Mechanism
+**Question:** Can both descriptions be equivalent without the equivalence rule itself deciding where identity terminates?
 
-Represent one physical process either as:
+### Test E — Fusion
 
-\[
-A\to B
-\]
+Perform the analogous comparison for a convergence point.
 
-or as
-
-\[
-A\to X\to Y\to B.
-\]
-
-The intermediate stages carry no independent causal novelty; they merely expose the process's internal steps.
-
-**Question:** Does the identity-relevance of the original transition survive the insertion of such intermediate nodes?
-
-A candidate that changes verdict because the graph has more nodes fails refinement stability.
-
-### Test E — Redundant Causal Description
-
-Represent one causal transition with several independently sufficient descriptions of the same mechanism: physical, functional, and counterfactual descriptions that are known to co-refer structurally.
-
-**Question:** Does \(\Sigma\) privilege whichever description happens to be chosen as the primary encoding?
-
-If so, the selection principle is representation-relative.
+**Question:** Can refinement and coarse-graining preserve the same represented history without privileging one incoming causal line as identity-bearing?
 
 ### Test F — Counterfeit-Preserving Redescription
 
-Take the perfect-counterfeit case and redescribe both genuine and counterfeit histories at progressively different levels:
+Take the perfect-counterfeit case and apply a redescription that preserves all structural facts available to \(\Sigma\).
 
-- physical substrate,
-- process history,
-- functional organization,
-- information flow.
+**Question:** Can target and counterfeit remain equivalent in exactly the respects that matter, without the equivalence relation quietly excluding the counterfeit because it knows which history is genuine?
 
-The genuine continuation and counterfeit remain distinguishable in the full causal history, but different representations expose different features.
+### Test G — Counterfeit-Separating Redescription
 
-**Question:** Can \(\Sigma\) preserve the robust genuine/counterfeit distinction without arbitrarily privileging one vocabulary?
+Now use a redescription that makes the external splice explicit without changing the underlying causal history.
 
-This test is crucial because RI-6 requires the selection principle to retain the one result UCL actually earned.
+**Question:** Is the distinction between genuine and counterfeit created by the representation, or merely exposed by it? An admissibility relation must not manufacture the distinction merely by choosing a privileged vocabulary.
 
-### Test G — Fission With Different Granularities
+### Test H — Redundant Causal Edges
 
-Represent a branching event as:
+Represent two independently sufficient causal mechanisms either as separate parallel edges or as one aggregated causal edge.
 
-\[
-A\to B,C
-\]
+**Question:** Can these representations be equivalent without making a hidden judgment about which causal mechanism counts?
 
-or as a detailed process in which the branch emerges through a sequence of increasingly divergent intermediate states.
+### Test I — Irrelevant Side-Effects
 
-**Question:** Does `J_cut` still terminate the lineage at the same structural point once \(\Sigma\) is applied?
+Refine a causal history by adding side-effects that are causally real but intuitively irrelevant to persistence.
 
-This tests whether the selection layer and the already-provisional junction rule remain compatible under representation changes.
-
-### Test H — Merge With Different Granularities
-
-Likewise represent
-
-\[
-B,C\to D
-\]
-
-at coarse and fine resolutions.
-
-**Question:** Does the selected causal relation preserve the same termination at the convergence point?
-
-A selection principle that makes fusion appear identity-preserving only at one resolution fails RI-4.
-
-### Test I — Counterfactual Model Re-encoding
-
-Where \(C_*\) is represented counterfactually, encode the same intervention structure using different but equivalent variable decompositions.
-
-**Question:** Does \(\Sigma\) change which variables or outcomes count merely because the model has been factored differently?
-
-This directly revisits the earlier failure of fixed counterfactual semantics, without introducing a new intervention semantics.
+**Question:** Can the refined and unrefined descriptions remain equivalent without \(\sim\) already knowing which causal features are irrelevant?
 
 ### Test J — Causal Counterfeit
 
-Construct a counterfeit that matches the genuine continuation on every feature selected by \(\Sigma\) under one representation, while differing on a feature that another admissible representation makes salient.
+Construct a counterfeit that matches the genuine continuation on every feature selected by a future \(\Sigma\) under one representation, while differing on a feature that another admissible representation makes salient.
 
-**Question:** Does the candidate have a principled reason to reject the counterfeit that survives the representation change?
-
-If the answer depends on which representation was chosen first, \(\Sigma\) has not supplied the missing selection principle.
+**Question:** Can equivalence between the descriptions be fixed independently of the identity verdict, or does the representation relation have to know that one history is genuine in order to classify the descriptions as equivalent?
 
 ---
 
 ## 5. The Strong Failure Mode
 
-The most important possible failure is not simply that one candidate picks the wrong ship.
+The most important possible failure is not simply that one candidate \(\Sigma\) picks the wrong ship.
 
 It is this:
 
