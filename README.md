@@ -10,6 +10,8 @@ The current canonical formulation is:
 
 The canonical document on `main` is the authoritative formulation. Material elsewhere in the repository may propose, test, criticize, or supersede parts of it without thereby becoming canonical.
 
+The current live bottleneck is diachronic identity: UCL remains a provisional architecture-level survivor, Ship of Theseus leaves `C_*` underdetermined, and the representation-invariance investigation is testing whether an identity-neutral common structure `G*` can support a later selection principle `Σ`. The first concrete selective candidate, `G*_1`, failed; the selective class remains open and the exhaustive branch remains untested.
+
 ## Epistemic Discipline
 
 The framework distinguishes among **Derived**, **Believed**, **Boundary**, **Open**, and **Regulative Principle**. Repository structure preserves the same distinction: an investigation, AI review, branch, or archived document is not automatically an accepted claim.
