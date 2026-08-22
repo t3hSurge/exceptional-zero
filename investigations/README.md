@@ -4,6 +4,9 @@ Bounded questions, tests, counterexamples, and formal checks. An investigation d
 
 ## Active
 
+- [2026-08-21-gstar-selective-usefulness-test.md](2026-08-21-gstar-selective-usefulness-test.md)  
+  Selective `G*` usefulness test: AR-1 and AR-6 remain jointly satisfiable; representation-useful selectivity can remain identity-neutral, but no concrete independently bounded `G*` has yet been demonstrated.
+
 - [2026-08-20-recurring-signature-track1-structural.md](2026-08-20-recurring-signature-track1-structural.md)  
   Track 1: Attempt to derive the recurring underdetermination/circularity pattern from the Exceptional Zero / *Z(S)*. The perfect-copy result is secure; the universalization remains open and now has a concrete counterexample unless restricted to a narrower internal-relational class.
 
@@ -30,7 +33,7 @@ Bounded questions, tests, counterexamples, and formal checks. An investigation d
 
 ## Current research bottleneck
 
-**Representation invariance of the variable/outcome layer.** The next test should hold the fixed causal semantics and `J_cut` constant while asking whether a target-independent selector survives admissible changes of causal representation.
+**Concrete existence of a selectively bounded common structure `G*`.** The selective branch survives the complete abstract AR-1 / AR-6 usefulness test: representation-useful selectivity need not be identity-selective. No concrete independently bounded `G*` has yet been demonstrated. The exhaustive branch remains open and has not yet been tested.
 
 ## Completed / Archived
 
