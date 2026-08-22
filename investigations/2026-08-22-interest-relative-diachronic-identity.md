@@ -15,8 +15,6 @@ The present hypothesis is that this is not an accidental incompleteness of `C_*`
 
 > **Diachronic identity may be interest-relative causality: physical history supplies multiple continuities, while a reaching subject selects a causal thread for purposes of tracking.**
 
-On this hypothesis, the demand that a purely descriptive causal structure determine the identity-relevant continuation is a category error. The world contains causal continuities; it does not contain a further physical label saying which continuity is *the* identity-bearing one.
-
 This is a new philosophical claim. It is **Open**, not retroactively treated as established by the preceding UCL battery.
 
 ---
@@ -225,7 +223,75 @@ The latter needs its own argument.
 
 ---
 
-## 10. Adversarial Tests
+## 10. First Direct Pressure Result — Joint 3 Does Not Entail Selection
+
+The first direct attack on the bridge is now closed at the stated level.
+
+### Result
+
+\[
+\boxed{\text{I cannot not reach}\;\not\Rightarrow\;\text{unique identity-thread selection}.}
+\]
+
+A reaching subject can preserve or attend to multiple causal continuities simultaneously. Nothing in the bare proposition `I cannot not reach` entails that exactly one relation must be designated identity-bearing.
+
+The following stronger claims require additional premises:
+
+- that finitude imposes a bounded tracking capacity;
+- that bounded tracking requires selecting a single causal thread;
+- that the selected thread is thereby an identity relation.
+
+Those may be plausible, but they are not consequences of Joint 3 alone.
+
+### Consequence
+
+The interest-relative hypothesis survives this pressure, but its proposed derivation from Joint 3 does not.
+
+This is a **non-entailment**, not a failure of the interest-relative thesis and not a failure of Joint 3.
+
+The investigation must therefore distinguish:
+
+\[
+\boxed{\text{Joint 3} \neq \text{necessary tracking selection}.}
+\]
+
+A reaching subject remains a plausible site of selection, but the bridge requires an independently specified bounded-tracking or purpose principle.
+
+---
+
+## 11. The Subject / Interest Distinction
+
+The first pressure also exposes a useful separation between two claims that had been running together.
+
+### Claim A — Reaching
+
+A subject cannot not reach.
+
+### Claim B — Interest-relative tracking
+
+A subject tracks some causal relation rather than another in virtue of a purpose or interest.
+
+Claim A does not entail Claim B.
+
+A subject could, in principle, track several causal relations at once. Therefore the mere existence of reaching does not itself supply the selection rule.
+
+The live hypothesis is instead:
+
+\[
+\text{subject} + \text{purpose / interest}
+\rightarrow
+\text{mode of tracking}
+\rightarrow
+\text{identity attribution}.
+\]
+
+This is a cleaner architecture because it does not overload Joint 3 with a finitude or uniqueness premise that it does not contain.
+
+It also leaves open whether the purpose/interest layer is itself reducible to some deeper target-independent structure. That question has not been settled.
+
+---
+
+## 12. Adversarial Tests
 
 ### Test IR-1 — Multiple legitimate interests
 
@@ -289,7 +355,7 @@ The safe form is local: a given reaching subject necessarily operates under some
 
 ---
 
-## 11. What Would Count as Success
+## 13. What Would Count as Success
 
 This investigation would earn a positive result if it establishes all of the following:
 
@@ -304,7 +370,7 @@ Only then would the stronger category-error diagnosis be earned.
 
 ---
 
-## 12. What Would Count as a Boundary
+## 14. What Would Count as a Boundary
 
 A Boundary would be earned if the investigation shows that every attempt to derive identity solely from target-independent causal structure either:
 
@@ -319,24 +385,35 @@ It would still not prove that no possible formalism can ever represent identity 
 
 ---
 
-## 13. Current Status
+## 15. Current Status After the First Direct Pressure
 
 **Open.**
 
-What is already earned:
+What is now earned:
 
 - Ship of Theseus exposes genuine underdetermination in the present `C_*` architecture.
 - Process and material continuity are both independently describable causal relations.
 - `G*_1` failed as a concrete selective common structure; this does not close the selective class.
 - The perfect-counterfeit / implanted-memory result remains robust.
-- The framework already contains the local reaching claim `I cannot not reach` as an explicit belief.
+- The framework contains the local reaching claim `I cannot not reach` as an explicit belief.
+- The first direct pressure establishes that Joint 3 does **not** entail unique identity-thread selection.
+- Finitude, bounded tracking, and purpose/interest remain possible auxiliary principles, but they require independent specification.
 
 What is **not** yet earned:
 
 - that Joint 3 entails a necessity to select a causal thread;
 - that all diachronic identity is interest-relative;
+- that purpose/interest is the only possible non-causal selection layer;
 - that no target-independent identity criterion could exist in principle;
 - that Ship of Theseus is conclusively a category error rather than an unresolved metaphysical question.
+
+The important refinement is:
+
+\[
+\boxed{\text{causal underdetermination} \neq \text{subject-relative selection}.}
+\]
+
+The first is established for the present `C_*` architecture. The second remains a hypothesis offered as a possible explanation of the first.
 
 ### Locked next move
 
@@ -344,20 +421,23 @@ Do **not** construct `G*_2` merely to continue the candidate sequence.
 
 Do **not** promote interest-relative identity to Boundary.
 
-The next pressure is the bridge itself:
+Do **not** strengthen Joint 3 by stipulation.
+
+The next pressure is an independently specified bounded-tracking / purpose principle:
 
 \[
-\boxed{\text{I cannot not reach}\;\rightarrow\;\text{necessary tracking selection}.}
+\boxed{\text{subject} + \text{independent tracking purpose}
+\;\rightarrow\; C_{tracked}}
 \]
 
-The investigation should attack that bridge directly, while preserving the earned causal constraints and the distinction between a subject's tracking purpose and the physical causal history being tracked.
+The question is whether such a principle can be specified without merely renaming `Σ`, while preserving causal constraint and allowing multiple legitimate tracking modes.
 
 ---
 
-## 14. Provisional Canonical Formulation
+## 16. Provisional Canonical Formulation
 
 The strongest formulation currently justified for discussion is:
 
-> **The Ship of Theseus may not be asking for a hidden physical identity fact at all. Physical history contains multiple legitimate continuities. A finite reaching subject tracks one or another of those continuities for some purpose, and the resulting identity attribution belongs to that subject-history relation rather than to the causal history alone.**
+> **The Ship of Theseus may not be asking for a hidden physical identity fact at all. Physical history contains multiple legitimate continuities. A finite reaching subject may track one or another of those continuities for some purpose, and the resulting identity attribution may belong to that subject-history relation rather than to the causal history alone.**
 
-This is the hypothesis under investigation, not yet a canonical result.
+This remains the hypothesis under investigation, not a canonical result.
