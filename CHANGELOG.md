@@ -2,6 +2,18 @@
 
 Significant conceptual and structural changes are recorded here. Routine wording edits remain in Git history.
 
+## 2026-08-23
+
+### Joint 3 → history-mediated interest bridge
+
+- Added `investigations/2026-08-23-joint3-history-mediated-interest-bridge.md`.
+- Corrected the scope of the earlier Joint 3 bridge result: bare, pre-propositional `I cannot not reach` does not entail propositional interest, but this does **not** close the possibility that temporally extended reaching-history contributes to interest formation.
+- The obvious formulation, "this self's prior history," is circular if it presupposes which past states belong to the same diachronically persistent self.
+- A non-identity-bearing alternative is available in principle: define history as causal ancestry of the present state, then identify prior reaching events within that ancestry.
+- Causal ancestry alone does not determine a unique present interest. A separate learning, reinforcement, preference-update, or other causal mechanism would be required to map history to present propositional interest.
+- History-mediated interest formation is therefore a **live auxiliary hypothesis**, not a consequence of Joint 3 and not a promoted solution to diachronic identity.
+- The bridge from interest to identity selection remains separately unresolved. No `G*_2`, no `Σ`, no process/material preference, and no Boundary are introduced.
+
 ## 2026-08-22
 
 ### Joint 3 → tracking-selection bridge test
@@ -77,20 +89,3 @@ Significant conceptual and structural changes are recorded here. Routine wording
 - Established `BRANCHING.md` to distinguish exploratory work from the accepted `main` branch.
 - Clarified the role of `archive/`: preserve historically significant standalone artifacts rather than every superseded version of the canonical document.
 - Clarified that Git history, rather than the archive, is the authoritative record of ordinary document revisions.
-
-### Collaborator workflow
-
-- The active AI-review workflow is now centered on the remaining collaborators; obsolete collaborator-specific repository documentation has been removed.
-
-### Research workflow
-
-- Added the first substantive reviews of the open Recurring Signature investigations under the existing `ai-reviews/` structure.
-- Clarified that the perfect-relational-counterfeit result is a conditional consequence of automorphism symmetry, while the universalization to all non-target-bearing third-person vocabularies remains open.
-- Expanded the survivor-search review with candidate-specific failure diagnoses and a taxonomy for future candidate generation.
-
-### Diachronic identity / Recurring Signature
-
-- Ran a dedicated Unique Causal Lineage survivor search using Ship-of-Theseus, duplication, fission, convergence, temporal-discontinuity, memory-loss, reconstruction, and perfect-counterfeit tests.
-- Identified a **provisional survivor**: independently specified origin + external causal provenance + non-branching continuation distinguishes genuine and counterfeit histories without inserting an identity predicate.
-- Refuted the exceptionless universal form of the Recurring Signature as currently stated. The perfect-relational-counterfeit theorem remains intact; the universal claim that every relevant third-person vocabulary must admit such a counterfeit does not.
-- Kept Diachronic Identity at **Boundary**, explicitly scoped to the initial internal relational vocabulary tested. Kept the broader Recurring Signature at **Open**.
