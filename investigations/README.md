@@ -4,6 +4,9 @@ Bounded questions, tests, counterexamples, and formal checks. An investigation d
 
 ## Active
 
+- [2026-08-23-joint3-history-mediated-interest-bridge.md](2026-08-23-joint3-history-mediated-interest-bridge.md)  
+  **History-mediated Joint 3 bridge:** bare `I cannot not reach` does not entail propositional interest. A personal-history formulation is circular, but causal ancestry of the present state can be specified without identity in principle. An independently specified learning/update mechanism could therefore mediate `J3 + history → interest`; no such mechanism is yet constructed or promoted. Open.
+
 - [2026-08-22-interest-relative-diachronic-identity.md](2026-08-22-interest-relative-diachronic-identity.md)  
   **New hypothesis:** Ship of Theseus may expose a category error rather than a missing physical identity fact. Physical history contains multiple continuities; a reaching subject may select a causal thread for a purpose of tracking. Open.
 
@@ -45,11 +48,13 @@ Bounded questions, tests, counterexamples, and formal checks. An investigation d
 
 ## Current research bottleneck
 
-**The bridge from Joint 3 to interest-relative identity selection.**
+**The history-mediated bridge from Joint 3 to propositional interest, and separately the unresolved bridge from interest to identity selection.**
 
-The first direct pressure has now produced a **non-entailment**: `I cannot not reach` does not by itself imply unique causal-thread selection. A reaching subject can preserve multiple continuities without choosing one as identity-bearing. Finitude, bounded tracking, and purpose/interest remain possible auxiliary principles but require independent specification.
+The first direct Joint 3 pressure established a **non-entailment**: `I cannot not reach` does not by itself imply unique causal-thread selection. The follow-up test now sharpens this: bare, pre-propositional reaching does not contain enough content to derive a particular propositional interest. A personal-history formulation is circular if it presupposes which past states belong to the same self. However, causal ancestry of the present state can be specified without identity in principle, leaving a live auxiliary hypothesis in which an independently specified learning/update mechanism turns prior reaching-history into present interest.
 
-This does not close the prior representation-invariance branches. `G*_1` remains failed as a candidate; the selective class remains open; exhaustive `G*` remains separately open and untested; `Σ` remains untouched. The interest-relative hypothesis remains an alternative interpretation of why target-independent identity selection may fail, not a promoted solution.
+That auxiliary mechanism is not yet constructed or promoted. It must not inherit Joint 3's earned status. Likewise, interest selecting task-relevant causal relations does not by itself establish that those relations constitute identity. The interest-relative hypothesis remains Open; the possibility of no determinate identity fact remains Open; and the causal underdetermination result remains distinct from either conclusion.
+
+This does not close the prior representation-invariance branches. `G*_1` remains failed as a candidate; the selective class remains open; exhaustive `G*` remains separately open and untested; `Σ` remains untouched. Do not construct `G*_2` merely to continue the prior sequence.
 
 ## Completed / Archived
 
