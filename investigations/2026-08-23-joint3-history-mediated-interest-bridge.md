@@ -115,7 +115,7 @@ Possible forms include learning, reinforcement, preference updating, habit forma
 **Result:**
 
 \[
-\boxed{H_R\text{ can be an input to interest formation, but does not itself determine }I_t.}
+\boxed{H_R\text{ can be an input to interest formation, but does not itself determine }I_t.}}
 \]
 
 Therefore the bridge remains unearned unless an additional content-generating mechanism is supplied.
@@ -313,7 +313,15 @@ Each `?` is an independent burden.
 
 Do not upgrade Joint 3. Do not treat the auxiliary history-mediated mechanism as established. Do not construct `G*_2` merely to continue the prior selective-candidate sequence.
 
-If this line is continued, the next legitimate test is the independent specification and attack of `L`: whether a causal learning/update mechanism can generate determinate interests without representation dependence, identity leakage, or post-hoc tuning.
+The subsequent ownership-filter investigation showed that unrestricted causal ancestry is not yet a subject-specific `H_R`. The required restriction `R_t^* \subseteq A(s_t)` remains independently unspecified. Therefore the dependency is:
+
+\[
+J3 \;\rightarrow\; A(s_t) \;\rightarrow\; R_t^* \;\rightarrow\; L \;\rightarrow\; I
+\]
+
+not merely `J3 + H_R + L \rightarrow I` with `H_R` already in hand.
+
+If this line is continued, the next legitimate test is the ownership filter recorded in `investigations/2026-08-23-joint3-ownership-filter-pressure.md`, not independent specification of `L`. `L` cannot be meaningfully instantiated until `R_t^*` is independently specified.
 
 The separate bridge:
 
