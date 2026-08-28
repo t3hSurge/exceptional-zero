@@ -7,7 +7,7 @@ Open files are not equally live. This index distinguishes **current frontier**, 
 ## Active — current frontier
 
 - [2026-08-28-orientation-transition-time.md](2026-08-28-orientation-transition-time.md)  
-  **Occurrence battery (M9–M18).** Orientation can be specified without time; orientation is not transition. Generability, enablement, LTS semantics, exclusive actuality, and execution traces all yield static representations of transition or import occurrence as a primitive. Earned: no tested atemporal construction derives actual transition. Not earned: occurrence is primitive; transition is irreducibly temporal. Live question: can occurrence be reduced, or must it be primitive? The Cut does not generate it. No mover, no `C_*`.
+  **Actuality-selecting power.** Possible history is not actual happening. A successful reduction of occurrence would need actuality-selecting power that is not already an occurrence predicate. Attack families: constraint | selection | instantiation | primitive fact. Live question: what could select one admissible possibility as actual without itself being an occurrence? The Cut has not been shown to acquire a dynamical consequence. No mover, no `C_*`.
 
 ## Active — downstream open investigations
 
@@ -70,8 +70,8 @@ These files remain part of the derivational chain. They are not the current fron
 
 ## Current research bottleneck
 
-**Can the fact of occurrence be represented without static redescription or temporal succession?**
+**What could select one admissible possibility as actual without itself being an occurrence?**
 
-No tested atemporal construction (orientation, functions, enablement, LTS, exclusive actuality, execution traces) derives actual transition. Every construction so far either represents a possible transition or introduces occurrence as a primitive. Occurrence-as-primitive is conceivable and not promoted. Transition is not shown to be irreducibly temporal. The Cut does not generate the missing fact.
+Possible history is not actual happening. Constraint yields admissibility, not occurrence. Selection, instantiation, and primitive fact remain untested as reductions. The Cut has not been shown to acquire a dynamical consequence.
 
 Identity work remains downstream and incomplete. Do not invent a mover or a time primitive. Do not construct `G*_2` merely to continue the prior sequence.
