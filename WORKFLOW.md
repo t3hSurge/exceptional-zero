@@ -12,22 +12,24 @@ Git history is the authoritative revision history. The archive is for material w
 
 ## 2. Main branch
 
-`main` represents the accepted state of the framework.
+`main` represents the accepted canonical repository state.
 
-Changes to the canonical framework should normally reach `main` only after the proposed change has been examined and deliberately accepted. Direct experimentation on `main` should be avoided unless explicitly authorized as repository maintenance.
+Changes to the canonical framework should normally reach `main` only after the proposed change has been examined and deliberately accepted.
+
+Bounded investigations, status/index synchronization, and other repository maintenance may be committed directly to `main` when they are explicitly scoped as such and do not silently promote an unaccepted claim into the canonical framework.
 
 ## 3. Working branches
 
-Branches are temporary workspaces for proposed changes. Use descriptive names such as:
+Branches are temporary workspaces for work that benefits from isolation or a reviewable proposed diff. Use descriptive names such as:
 
 - `investigation/relational-vocabulary`
 - `proposal/status-table`
 - `revision/part-six`
-- `review/2026-08-20-track1`
+- `docs/repository-structure`
 
 A branch may contain an argument, revision, experiment, or structural change without implying that the change has been accepted.
 
-When a branch is ready for consideration, it can be reviewed and merged into `main`. A rejected or abandoned branch remains part of Git history unless there is a reason to delete it.
+When a branch contains a proposed canonical change, review it and merge it deliberately into `main`. A rejected or abandoned branch remains part of Git history unless there is a reason to delete it.
 
 ## 4. Investigations
 
@@ -44,6 +46,10 @@ An investigation should state:
 
 An investigation does not automatically alter the canonical framework.
 
+An investigation may end by resolving its question, by showing that a candidate fails, or by isolating a deeper unresolved question. In the last case, the deeper question should be recorded as a new bounded investigation rather than treated as failure of the preceding investigation.
+
+The repository may therefore contain several linked investigations that form a derivational sequence. Their relationship should be explicit, while their epistemic statuses remain distinct.
+
 ## 5. Archive
 
 `archive/` contains superseded formulations or other historical artifacts that are useful to preserve as documents in their own right.
@@ -56,7 +62,7 @@ Archived material is not authoritative unless the canonical framework explicitly
 
 ## 6. Changelog
 
-`CHANGELOG.md` records significant conceptual changes to the framework, not routine wording edits.
+`CHANGELOG.md` records significant conceptual and structural changes, not routine wording edits.
 
 Use it for changes such as:
 
@@ -71,15 +77,16 @@ Git commit history remains the detailed record of all edits.
 
 ## 7. Suggested work cycle
 
-For a substantive proposed change:
+For a substantive investigation or proposed change:
 
-1. **State the question.** Put the issue in `investigations/` or an appropriately named branch.
+1. **State the question.** Put the issue in `investigations/` or, when isolation is useful, on an appropriately named branch.
 2. **Attack the claim.** Examine hidden assumptions, scope errors, invalid inference, or counterexamples.
-3. **Revise the proposal.** Make the smallest change that the surviving analysis warrants.
-4. **Check status.** Decide whether the result is Derived, Believed, Boundary, Open, or Regulative Principle, and whether that label is actually supported.
-5. **Review the diff.** Confirm that the canonical text says exactly what the investigation established—no more and no less.
-6. **Merge deliberately.** Only then incorporate accepted conclusions into `main`.
-7. **Record the milestone.** Add a concise entry to `CHANGELOG.md` when the conceptual change is significant.
+3. **Follow the result.** Resolve the question, record a candidate failure, or isolate a deeper question without forcing the preceding investigation to answer it.
+4. **Revise the proposal.** Make the smallest change that the surviving analysis warrants.
+5. **Check status.** Decide whether the result is Derived, Believed, Boundary, Open, or Regulative Principle, and whether that label is actually supported.
+6. **Review the repository state.** Confirm that canonical text, investigation indexes, and other navigation documents say exactly what the investigations establish—no more and no less.
+7. **Accept deliberately.** Only then incorporate an accepted conclusion into `exceptional-zero.md` on `main`.
+8. **Record the milestone.** Add a concise entry to `CHANGELOG.md` when the conceptual or structural change is significant.
 
 ## 8. Epistemic discipline
 
@@ -87,6 +94,6 @@ The repository follows the same discipline as the framework itself:
 
 > Nothing is stronger than its status.
 
-A proposal may be interesting without being established. A failed search may establish a Boundary without establishing a universal negative. A polished formulation does not strengthen the underlying claim.
+A proposal may be interesting without being established. A failed search may establish a Boundary without establishing a universal negative. A polished formulation does not strengthen the underlying claim. A newly isolated question is not evidence for any answer to that question.
 
 The repository structure is intended to preserve those distinctions rather than blur them.
