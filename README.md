@@ -14,10 +14,10 @@ The canonical document on `main` is the authoritative formulation. Material else
 
 The repository currently contains two linked live investigative layers:
 
-- **Upstream — transition / succession:** the Cut yields distinction, but orientation does not yet yield actual transition. The current question is whether an atemporal transition primitive exists without importing temporal succession.
+- **Upstream — transition / succession:** the Cut yields distinction, but orientation does not yet yield actual transition. The current continuation asks whether the boundary between atemporal structure and temporal actuality can itself be specified non-circularly, before a full performance-supervenience question can be posed.
 - **Downstream — diachronic identity:** UCL remains a provisional architecture-level survivor; `C_*` remains underdetermined; the representation-invariance program has isolated `G*`; the first concrete selective candidate `G*_1` failed, while the selective and exhaustive branches remain open separately.
 
-The upstream transition question currently has priority because it sits beneath the identity sequence. The downstream identity investigation remains active rather than closed.
+The upstream transition/atemporality investigation currently has priority because it sits beneath the identity sequence. The downstream identity investigation remains active rather than closed.
 
 ## Epistemic Discipline
 
