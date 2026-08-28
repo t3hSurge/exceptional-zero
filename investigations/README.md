@@ -4,6 +4,9 @@ Bounded questions, tests, counterexamples, and formal checks. An investigation d
 
 ## Active
 
+- [2026-08-28-orientation-transition-time.md](2026-08-28-orientation-transition-time.md)  
+  **Austere middle-arrow test.** Orientation can be specified without time; orientation is not transition. Tested middle definitions of transition fall into static structure, hidden succession, or off-target phenomenology. No tested `T` is stronger than orientation and weaker than temporal succession without disguise. Existence of such a `T` remains Open. Time is not derived from the Cut. No mover, no `C_*`.
+
 - [2026-08-23-joint3-history-mediated-interest-bridge.md](2026-08-23-joint3-history-mediated-interest-bridge.md)  
   **History-mediated Joint 3 bridge:** bare `I cannot not reach` does not entail propositional interest. A personal-history formulation is circular, but causal ancestry of the present state can be specified without identity in principle. An independently specified learning/update mechanism could therefore mediate `J3 + history → interest`; no such mechanism is yet constructed or promoted. Open.
 
@@ -48,13 +51,21 @@ Bounded questions, tests, counterexamples, and formal checks. An investigation d
 
 ## Current research bottleneck
 
-**The history-mediated bridge from Joint 3 to propositional interest, and separately the unresolved bridge from interest to identity selection.**
+**The middle arrow from atemporal structure to actual transition.**
 
-The first direct Joint 3 pressure established a **non-entailment**: `I cannot not reach` does not by itself imply unique causal-thread selection. The follow-up test now sharpens this: bare, pre-propositional reaching does not contain enough content to derive a particular propositional interest. A personal-history formulation is circular if it presupposes which past states belong to the same self. However, causal ancestry of the present state can be specified without identity in principle, leaving a live auxiliary hypothesis in which an independently specified learning/update mechanism turns prior reaching-history into present interest.
+The Cut yields distinction, not movement. Orientation (directed edges, functions, posets) can be specified without time and is not thereby a transition. Tested attempts to define transition as something stronger than orientation and weaker than temporal succession fall into static structure, hidden succession, or off-target phenomenology. The existence question
 
-That auxiliary mechanism is not yet constructed or promoted. It must not inherit Joint 3's earned status. Likewise, interest selecting task-relevant causal relations does not by itself establish that those relations constitute identity. The interest-relative hypothesis remains Open; the possibility of no determinate identity fact remains Open; and the causal underdetermination result remains distinct from either conclusion.
+`∃ T [ T > orientation ∧ T < temporal succession ∧ T is not temporal in disguise ] ?`
 
-This does not close the prior representation-invariance branches. `G*_1` remains failed as a candidate; the selective class remains open; exhaustive `G*` remains separately open and untested; `Σ` remains untouched. Do not construct `G*_2` merely to continue the prior sequence.
+remains Open. "Transition is irreducibly temporal" is not earned. What forces an admissible relation to occur has not been asked. Time is not derived from the Cut.
+
+This layer is upstream of the identity sequence. That sequence remains in place and is not closed:
+
+- `G*_1` failed as a candidate; selective `G*` remains open; exhaustive `G*` remains untested; `Σ` remains untouched.
+- Bare Joint 3 does not entail propositional interest. History-mediated interest remains open only as `J3 + H_R + L → I`, with ownership filter and `L` unconstructed.
+- Interest-relative identity remains unpromoted. The five-way fork remains unranked.
+
+Do not invent a mover or a time primitive. Do not construct `G*_2` merely to continue the prior sequence.
 
 ## Completed / Archived
 
