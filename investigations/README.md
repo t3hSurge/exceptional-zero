@@ -2,35 +2,41 @@
 
 Bounded questions, tests, counterexamples, and formal checks. An investigation does not automatically alter the canonical framework.
 
-## Active
+Open files are not equally live. This index distinguishes **current frontier**, **active dependencies**, and **retained derivational record**.
+
+## Active — current frontier
 
 - [2026-08-28-orientation-transition-time.md](2026-08-28-orientation-transition-time.md)  
   **Austere middle-arrow test.** Orientation can be specified without time; orientation is not transition. Tested middle definitions of transition fall into static structure, hidden succession, or off-target phenomenology. No tested `T` is stronger than orientation and weaker than temporal succession without disguise. Existence of such a `T` remains Open. Time is not derived from the Cut. No mover, no `C_*`.
 
-- [2026-08-23-joint3-history-mediated-interest-bridge.md](2026-08-23-joint3-history-mediated-interest-bridge.md)  
-  **History-mediated Joint 3 bridge:** bare `I cannot not reach` does not entail propositional interest. A personal-history formulation is circular, but causal ancestry of the present state can be specified without identity in principle. An independently specified learning/update mechanism could therefore mediate `J3 + history → interest`; no such mechanism is yet constructed or promoted. Open.
+## Active — downstream open investigations
+
+These remain genuinely open. They are not the current overall bottleneck.
 
 - [2026-08-23-joint3-ownership-filter-pressure.md](2026-08-23-joint3-ownership-filter-pressure.md)  
-  **Ownership-filter pressure:** identity-free causal ancestry is possible in form, but extracting “this system's reaching history” requires either a circular same-self filter, an independently bounded system boundary not yet exhibited, a causal-role rule that leaves mixed continuity unresolved, or an ancestry bucket too broad to determine interest. Open auxiliary.
+  **Ownership-filter pressure.** Identity-free causal ancestry is possible in form, but extracting “this system's reaching history” requires either a circular same-self filter, an independently bounded system boundary not yet exhibited, a causal-role rule that leaves mixed continuity unresolved, or an ancestry bucket too broad to determine interest. This is the blocker for further history-mediated construction.
 
-- [2026-08-22-interest-relative-diachronic-identity.md](2026-08-22-interest-relative-diachronic-identity.md)  
-  **New hypothesis:** physical history contains multiple legitimate continuities; a reaching subject may select a causal thread for a purpose of tracking. Open and unpromoted.
+- [2026-08-23-joint3-history-mediated-interest-bridge.md](2026-08-23-joint3-history-mediated-interest-bridge.md)  
+  **History-mediated Joint 3 bridge.** Bare `I cannot not reach` does not entail propositional interest. Personal-history formulations are circular. Causal ancestry can be specified without identity in form. The live auxiliary is `J3 + H_R + L → I`, but `L` is not the next test: the ownership filter that would turn ancestry into `H_R` / `R_t^*` remains unresolved.
 
 - [2026-08-22-joint3-tracking-bridge-test.md](2026-08-22-joint3-tracking-bridge-test.md)  
-  **Joint 3 bridge test:** `I cannot not reach` does not entail unique identity-thread selection. Finitude, bounded tracking, and purpose/interest remain possible auxiliary principles but are not derived from Joint 3. The interest-relative thesis remains Open.
+  **Joint 3 tracking bridge.** `I cannot not reach` does not entail unique identity-thread selection. Finitude, bounded tracking, and purpose/interest remain possible auxiliary principles but are not derived from Joint 3. Distinct from the history/ownership line.
+
+- [2026-08-22-interest-relative-diachronic-identity.md](2026-08-22-interest-relative-diachronic-identity.md)  
+  **Hypothesis, downstream.** Physical history contains multiple legitimate continuities; a reaching subject may select a causal thread for a purpose of tracking. Open and unpromoted. Depends on unresolved Joint 3 / ownership premises.
 
 - [diachronic-identity-representation-invariance.md](diachronic-identity-representation-invariance.md)  
-  Representation-invariance architecture: Test A closed; `G*` isolated; Test B trilemma established; AR-1 / AR-6 jointly satisfiable in form. Selective and exhaustive branches remain open.
+  Representation-invariance architecture: Test A closed; `G*` isolated; Test B trilemma established; AR-1 / AR-6 jointly satisfiable in form. Selective `G*` abstractly viable; first concrete candidate `G*_1` failed. Exhaustive branch untested. `Σ` untouched. Not the current overall bottleneck.
 
 - [2026-08-20-recurring-signature-track1-structural.md](2026-08-20-recurring-signature-track1-structural.md)  
-  Track 1: Attempt to derive the recurring underdetermination/circularity pattern from the Exceptional Zero / *Z(S)*. The perfect-copy result is secure; the universalization remains open and now has a concrete counterexample unless restricted to a narrower internal-relational class.
-
-- [2026-08-20-recurring-signature-track2-survivor-search.md](2026-08-20-recurring-signature-track2-survivor-search.md)  
-  Track 2: Search for any third-person relational account that survives independent specification, circularity check, and target-shift check. UCL is a provisional survivor; its origin, causal-relation, junction, and variable-selection layers have since been pressure-tested separately.
+  Track 1 remains active only for the narrower open theorem: internally relational signatures. The original universal third-person-failure claim is already refuted. UCL origin pressure requested in that file has already been run elsewhere. Do not treat the file as a live UCL worklist.
 
 ## Closed candidate tests / retained derivational record
 
 These files remain part of the derivational chain. They are not the current frontier, and listing them here is not an epistemic promotion.
+
+- [2026-08-20-recurring-signature-track2-survivor-search.md](2026-08-20-recurring-signature-track2-survivor-search.md)  
+  **Track 2 survivor search, retained as written.** Historically identified UCL as a first provisional survivor and thereby broke the exceptionless recurring-signature claim. Its blanket “survived the current full battery” wording is superseded by the later dedicated UCL battery: perfect-counterfeit remains robust; `C_*` is underdetermined. Do not rewrite the file; later investigations control the present UCL assessment.
 
 - [2026-08-28-for-this-selector-test.md](2026-08-28-for-this-selector-test.md)  
   **For-this as `C_*` selector:** complete for the present candidate. No tested formulation yields a determinate `C_*`. For-this itself receives no status change.
@@ -72,10 +78,10 @@ The Cut yields distinction, not movement. Orientation (directed edges, functions
 
 remains Open. "Transition is irreducibly temporal" is not earned. What forces an admissible relation to occur has not been asked. Time is not derived from the Cut.
 
-This layer is upstream of the identity sequence. That sequence remains in place and is not closed:
+Identity work remains downstream and incomplete:
 
 - `G*_1` failed as a candidate; selective `G*` remains open; exhaustive `G*` remains untested; `Σ` remains untouched.
-- Bare Joint 3 does not entail propositional interest. History-mediated interest remains open only as `J3 + H_R + L → I`, with ownership filter and `L` unconstructed.
+- Bare Joint 3 does not entail propositional interest. History-mediated interest remains open only as `J3 + H_R + L → I`. The ownership filter that would specify `H_R` / `R_t^*` is unresolved; `L` is not to be constructed first.
 - Interest-relative identity remains unpromoted. The five-way fork remains unranked.
 - For-this does not supply a determinate `C_*` under the tested formulations; for-this itself remains unchanged in status.
 
