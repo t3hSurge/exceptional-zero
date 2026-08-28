@@ -4,6 +4,16 @@ Significant conceptual and structural changes are recorded here. Routine wording
 
 ## 2026-08-28
 
+### Verb-first / fixed-point investigation
+
+- Added `investigations/2026-08-28-verb-first-fixed-point-test.md` to formalize the new verb-first line of questioning.
+- Distinguished the stronger hypothesis that reality is fundamentally doing from the weaker relation-first claim that relations are ontologically prior to relata.
+- Recorded the countermodel: finite relation-first ontology can contain self-delimiting relational fixed points, so relation-first plus universal finitude does not force a non-occupiable hinge.
+- Tested whether a self-exhausting relational fixed point necessarily collapses verbhood into noun-like structure. A coherent processive fixed point, such as a cyclic relational structure, remains a counterpressure; fixed-point status alone does not establish that a verb has disappeared.
+- Reconnected the question to the previously established representation/occurrence boundary: a static representation of a process does not entail actual process-occurrence.
+- Kept **non-self-exhaustion** and **irreducible processual content** as candidate formal sharpenings of verb-first ontology, not as definitions or derived principles.
+- Current result: verb-first has not yet been specified strongly enough to derive non-self-exhaustion or the Exceptional Zero. No hinge derivation, time primitive, mover, `G*_2`, `L`, or `Σ` introduced.
+
 ### Occurrence / performance / atemporality continuation
 
 - Added `investigations/2026-08-28-occurrence-performance-atemporality.md` as the continuation of the orientation/transition investigation.
