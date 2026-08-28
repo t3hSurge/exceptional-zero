@@ -156,13 +156,13 @@ A subject cannot not reach across the pair. Off-target: this may describe the ph
 
 A possible middle primitive would combine orientation with an independently defined fact that exactly one member of the oriented pair is realized.
 
-**Status:** not constructed. If "realized" reduces to temporal occurrence, the proposal is hidden succession. If it is genuinely atemporal, an independent realization rule is still required.
+**Status after M15:** the natural construction (`R(A,B)` plus exclusive actuality of `B`) fails. Actuality difference is not passage. See §10.
 
 ---
 
-## 5. Partition of the search space
+## 5. Partition of the first battery
 
-Tested candidates fell into three bins:
+Tested candidates M1–M8 fell into three bins:
 
 $$
 \boxed{\text{static structure}}
@@ -174,7 +174,7 @@ $$
 
 M2 and M6 are the instructive pair: exclusive actuality can be static; asymmetric dependence can be atemporal. Neither is passage.
 
-Earned search result:
+Earned from the first battery:
 
 $$
 \boxed{\text{no tested middle definition of transition survives austerity}}
@@ -186,31 +186,21 @@ $$
 \boxed{\text{no such definition is possible}}
 $$
 
-Status wording, with "not yet" explicit:
-
-$$
-\boxed{\text{transition is not yet a third kind of fact in the stripped vocabulary}}
-$$
-
-This is not ontological evidence that no such fact exists.
-
 ---
 
-## 6. Live existence question
+## 6. Live existence question (first form)
 
 $$
 \boxed{\exists T\;[\,T>\text{orientation}\;\land\;T<\text{temporal succession}\;\land\;T\text{ is not temporal in disguise}\,]\;?}
 $$
 
-If a later exhaustion argument answered this with no, then explaining time by appealing to transition would be backwards: transition would already contain the temporal structure under investigation. That conditional is **not earned**. It is only what a negative answer would mean.
+If a later exhaustion argument answered this with no, then explaining time by appealing to transition would be backwards. That conditional is **not earned**.
 
 What is earned:
 
 $$
 \boxed{\text{orientation}\nRightarrow\text{transition}}
 $$
-
-Every tested thickening was either still static or already succession.
 
 ---
 
@@ -224,7 +214,7 @@ $$
 \downarrow\;?\\
 \text{Orientation}\\
 \downarrow\;?\\
-\text{Transition}\\
+\text{Transition / occurrence}\\
 \downarrow\;?\\
 \text{Time}\\
 \downarrow\\
@@ -240,11 +230,178 @@ $$
 
 Identity work remains downstream and is not closed or promoted by this file.
 
-D-hypothesis from the surrounding exploration (transition `→` phenomenal reaching) is compatible with Joint 3 as phenomenology of undergoing succession. It does not derive transition from the Cut and is not used here as a definition of `T`.
+---
+
+## 8. Deeper battery: can an extra atemporal ingredient produce occurrence?
+
+The first battery showed that ordinary static structure does not do the job. The next pressure is whether any additional atemporal ingredient can make an oriented relation into an actual transition without renaming "happening."
+
+### M9. Generative rule
+
+Add a rule `B = F(A)`, written `A \xrightarrow{F} B`.
+
+`F` remains an atemporal mathematical object. A rewrite system can specify which configuration follows from which rule without any rule ever being executed.
+
+$$
+\boxed{\text{generability}\neq\text{actual generation}}
+$$
+
+**Fails as a sufficient definition.**
+
+### M10. Enabled transition
+
+`T(A,B) \iff B=F(A) \land F` is enabled at `A`.
+
+"Enabled" says the transformation is available. It does not say it is exercised. A vending machine with an enabled button is not dispensing.
+
+$$
+\boxed{\text{enabled}\neq\text{executed}}
+$$
+
+The Actualization Boundary reappears almost unchanged.
+
+### M11. Executable transition / execution token
+
+Stipulate an instance `e: A \overset{F}{\longrightarrow} B`.
+
+If "execution" means only that `(A,F,B)` belongs to a distinguished set `E_{exec}`, the transition relation has been renamed, not derived. If it means the rule is actually realized, M4's problem returns: actualization is assumed.
+
+$$
+\boxed{\text{execution either reduces to a primitive relation or imports actuality}}
+$$
+
+### M12. State-update semantics
+
+A labeled transition system can be defined as a static mathematical structure. Its interpretation is that transitions are possible system steps. It does not by itself give a system actually taking one of those steps.
+
+$$
+\boxed{\text{transition relation}\neq\text{actual transition}}
+$$
+
+M12 is an important clarification, not a solution.
+
+### M13. Primitive occurrence
+
+Introduce `Occ(A,B)` not defined in terms of time, earlier/later, possibility, incompatibility, dependence, or orientation. It simply means: `B` is actually realized out of `A`.
+
+This is stronger than orientation and not explicitly temporal. It does not derive transition from the Cut. It changes the architecture to:
+
+$$
+\boxed{\text{Cut}\rightarrow\text{distinction}\qquad\text{transition is an additional primitive}}
+$$
+
+That is a coherent metaphysical position. It is not a reduction. It is **not promoted**.
+
+### M14. Can primitive occurrence be eliminated?
+
+Refuse `Occ` as primitive and try to define it from admitted atemporal resources: orientation, functions, partial orders, actuality, compatibility, dependence, accessibility, state-update rules.
+
+The tested combinations give `R(A,B)`, `B=F(A)`, `\neg Act(A)\land Act(B)`, `Dep(B,A)`, but not the additional fact that this possible/static relation is being instantiated as a transition.
+
+That residue is the recurring target.
+
+### M15. Actual `B`, nonactual `A`
+
+The strongest remaining version of M8: `R(A,B)` with `Act(A)=0` and `Act(B)=1`.
+
+Static model: `A` is a merely possible configuration, `B` is the actual configuration, `R` is accessibility or derivation. Nothing says `A` was ever actual.
+
+$$
+\boxed{\text{actuality difference}\neq\text{actual transition}}
+$$
+
+State selection is not passage. This closes the most natural version of M8.
+
+### M16. Execution-trace escape
+
+Add a finite sequence `A_0, A_1, \ldots, A_n` with `A_i \rightarrow A_{i+1}`.
+
+This need not already be time. It can be rewrite depth, computational step count, proof-theoretic reduction, abstract-machine execution, or derivation length. That is the first genuinely interesting thickening.
+
+The same problem returns one level later. A derivation tree can contain an entire computation without a computer running it. A proof can contain every inference without anyone performing the inference.
+
+$$
+\boxed{\text{abstract execution order}\neq\text{actual execution}}
+$$
+
+The sequence gives ordering, and perhaps a formal notion of transition, but not occurrence. This is the first important result of the deeper battery.
+
+### M17. Event-token occurrence
+
+Define occurrence using a primitive event-token `e=(A,F,B)` and stipulate `Occ(e)`.
+
+Formally this can be atemporal. Then the ontology contains events as primitives, and an event is precisely what an actual transition is. Same result as M13 by another route:
+
+$$
+\boxed{\text{A non-temporal transition is conceivable as a primitive event.}}
+$$
+
+$$
+\boxed{\text{It is not derivable from static structure tested so far.}}
+$$
+
+### M18. Hard fork
+
+Two genuinely different remaining possibilities:
+
+**Route A — transition is reducible.** Some atemporal structure `R` plus independently specified principles yields actual occurrence without importing temporal succession. No such `R` has been found.
+
+**Route B — transition is primitive.** There is an irreducible fact `T(A,B)` or event-token `e: A \leadsto B`. It is not temporal by definition. It is also not derivable from orientation, actuality, exclusion, dependence, functions, or other static resources tested so far. Then the ontology contains something genuinely dynamic in addition to static structure.
+
+Neither route is selected.
 
 ---
 
-## 8. Status
+## 9. Sharper negative and live question
+
+The first battery showed that the obvious candidates do not work. The deeper battery shows something more specific:
+
+$$
+\boxed{\text{Every attempted construction so far either produces a static representation of transition}}
+$$
+
+or
+
+$$
+\boxed{\text{introduces occurrence/execution as a new primitive.}}
+$$
+
+The operative contrast is therefore not merely static vs dynamic structure. It is:
+
+$$
+\boxed{\text{description of possibility}\quad\text{vs}\quad\text{fact of occurrence}}
+$$
+
+**Not earned:** actual transition is primitive. That would be the error the project refuses.
+
+**Earned:**
+
+$$
+\boxed{\text{No tested atemporal structural construction derives actual transition.}}
+$$
+
+The Cut has not been shown to generate occurrence.
+
+Live question, now narrower than the original `∃ T` form:
+
+$$
+\boxed{\text{Can occurrence itself be reduced, or must occurrence be primitive?}}
+$$
+
+equivalently:
+
+> Can the fact of occurrence be represented without either static redescription or temporal succession?
+
+Relation to time remains open both ways:
+
+- If occurrence can be primitive without being temporal, `transition \nRightarrow time` remains alive; time might emerge from ordered occurrence.
+- If every account of occurrence requires succession, transition already presupposes temporality, and deriving time from transition would be backwards.
+
+Neither horn is earned.
+
+---
+
+## 10. Status
 
 | Question | Status |
 |---|---|
@@ -252,21 +409,26 @@ D-hypothesis from the surrounding exploration (transition `→` phenomenal reach
 | Cut `⇒` movement / time | Not licensed |
 | Orientation can be specified without time | **Yes** |
 | Orientation = transition | **No** |
-| Tested middle definitions of transition | Fail by thinness or hidden succession |
-| Existence of some untested middle `T` | **Open** |
+| M1–M8 middle definitions | Fail by thinness or hidden succession |
+| M8 exclusive-actuality construction | **Fails** (M15) |
+| M9–M12 generability / enablement / LTS | Static representation only |
+| M16 execution trace | Order without occurrence |
+| M13 / M17 primitive occurrence | Conceivable; not derived; not promoted |
+| Route A vs Route B | **Open fork** |
+| Occurrence is primitive | **Not earned** |
 | Transition is irreducibly temporal | **Not earned** |
 | What forces an admissible `R` to occur | **Not asked** |
 | Mover / time primitive / `C_*` / `Σ` | **Untouched** |
 
-## 9. Next pressure
+## 11. Next pressure
 
-Do not invent a mover, a time primitive, or a favorite synonym for becoming.
+Do not invent a mover or a time primitive.
 
-Either:
+Do not promote Route B because Route A has not yet succeeded.
 
-1. exhibit one non-synonymous middle primitive `T` and attack it; or
-2. attempt a genuine exhaustion argument that every contentful reading of "transition" reintroduces succession.
+The next legitimate test is whether occurrence itself can be represented without collapsing into either:
 
-Do not treat (2) as already earned by this first battery. Candidate-family failure is not a universal negative.
+1. a static redescription of a possible transition, or
+2. temporal succession under another name.
 
-Do not return to `C_*` merely to keep the identity sequence moving.
+Candidate-family failure is still not a universal negative. The Cut still does not generate the missing fact.
