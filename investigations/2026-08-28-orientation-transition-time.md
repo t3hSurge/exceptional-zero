@@ -222,6 +222,10 @@ $$
 \boxed{\text{static relation}\neq\text{execution trace}\neq\text{occurrence}}
 $$
 
+$$
+\boxed{\text{possible history}\neq\text{actual happening}}
+$$
+
 Identity work remains downstream and is not closed or promoted by this file.
 
 ---
@@ -377,23 +381,42 @@ The Cut has not been shown to generate occurrence.
 | Cut `⇒` distinction | Earned (canonical) |
 | Subsequent arrows on the map | Investigative only |
 | Orientation can be specified without time | **Yes** |
-| static relation = execution trace = occurrence | **No** |
+| possible history = actual happening | **No** |
 | Route A vs Route B | **Open fork** |
 | Occurrence is primitive | **Not earned** |
 | Route A exhausted | **Not earned** |
-| Transition is irreducibly temporal | **Not earned** |
+| Cut has dynamical consequence | **Not shown** |
 | Mover / time primitive / `C_*` / `Σ` | **Untouched** |
 
 ## 11. Next pressure
 
-Do not invent another synonym for occurrence. Do not promote Route B because Route A has not succeeded.
+A complete static description can encode every admissible transition, every counterfactual path, and even an ordered execution trace. None of that selects one trajectory as occurring.
 
-Attack the A/B fork itself:
+A successful reduction of occurrence would therefore have to introduce something previous candidates lacked:
 
 $$
-\boxed{\text{What would a successful reduction of occurrence have to contain that is not already merely a representation of possibility?}}
+\boxed{\text{actuality-selecting power}}
 $$
 
-That is the difference between a world containing possible histories and a world in which one history is actually happening.
+without defining that power as "what occurs."
 
-The Cut still does not generate the missing fact.
+Any proposed `R` must answer: what distinguishes an actualized relation from a merely possible relation, while adding no temporal order and no disguised occurrence predicate?
+
+Four attack families, none selected:
+
+$$
+\text{constraint}\quad|\quad\text{selection}\quad|\quad\text{instantiation}\quad|\quad\text{primitive fact}
+$$
+
+- **Constraint** can mark which histories are admissible. The Actualization Boundary says admissibility is not occurrence.
+- **Selection** can pick one admissible history. Then what performs the selection without already presupposing actuality?
+- **Instantiation** can say a possibility is realized in a stronger ontological sense. Then "realized" is the word that needs analysis.
+- **Primitive fact** is Route B. Not promoted.
+
+Live question:
+
+$$
+\boxed{\text{What could select one admissible possibility as actual without itself being an occurrence?}}
+$$
+
+That is the difference between generation of possibilities and selection of actuality. It is also the point at which the Cut either acquires a genuinely dynamical consequence or definitively does not. Neither verdict is earned.
