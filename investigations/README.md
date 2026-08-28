@@ -7,7 +7,7 @@ Open files are not equally live. This index distinguishes **current frontier**, 
 ## Active — current frontier
 
 - [2026-08-28-orientation-transition-time.md](2026-08-28-orientation-transition-time.md)  
-  **Austere middle-arrow test.** Orientation can be specified without time; orientation is not transition. Tested middle definitions of transition fall into static structure, hidden succession, or off-target phenomenology. No tested `T` is stronger than orientation and weaker than temporal succession without disguise. Existence of such a `T` remains Open. Time is not derived from the Cut. No mover, no `C_*`.
+  **Occurrence battery (M9–M18).** Orientation can be specified without time; orientation is not transition. Generability, enablement, LTS semantics, exclusive actuality, and execution traces all yield static representations of transition or import occurrence as a primitive. Earned: no tested atemporal construction derives actual transition. Not earned: occurrence is primitive; transition is irreducibly temporal. Live question: can occurrence be reduced, or must it be primitive? The Cut does not generate it. No mover, no `C_*`.
 
 ## Active — downstream open investigations
 
@@ -70,19 +70,8 @@ These files remain part of the derivational chain. They are not the current fron
 
 ## Current research bottleneck
 
-**The middle arrow from atemporal structure to actual transition.**
+**Can the fact of occurrence be represented without static redescription or temporal succession?**
 
-The Cut yields distinction, not movement. Orientation (directed edges, functions, posets) can be specified without time and is not thereby a transition. Tested attempts to define transition as something stronger than orientation and weaker than temporal succession fall into static structure, hidden succession, or off-target phenomenology. The existence question
+No tested atemporal construction (orientation, functions, enablement, LTS, exclusive actuality, execution traces) derives actual transition. Every construction so far either represents a possible transition or introduces occurrence as a primitive. Occurrence-as-primitive is conceivable and not promoted. Transition is not shown to be irreducibly temporal. The Cut does not generate the missing fact.
 
-`∃ T [ T > orientation ∧ T < temporal succession ∧ T is not temporal in disguise ] ?`
-
-remains Open. "Transition is irreducibly temporal" is not earned. What forces an admissible relation to occur has not been asked. Time is not derived from the Cut.
-
-Identity work remains downstream and incomplete:
-
-- `G*_1` failed as a candidate; selective `G*` remains open; exhaustive `G*` remains untested; `Σ` remains untouched.
-- Bare Joint 3 does not entail propositional interest. History-mediated interest remains open only as `J3 + H_R + L → I`. The ownership filter that would specify `H_R` / `R_t^*` is unresolved; `L` is not to be constructed first.
-- Interest-relative identity remains unpromoted. The five-way fork remains unranked.
-- For-this does not supply a determinate `C_*` under the tested formulations; for-this itself remains unchanged in status.
-
-Do not invent a mover or a time primitive. Do not construct `G*_2` merely to continue the prior sequence.
+Identity work remains downstream and incomplete. Do not invent a mover or a time primitive. Do not construct `G*_2` merely to continue the prior sequence.
