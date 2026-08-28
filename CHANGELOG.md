@@ -4,6 +4,13 @@ Significant conceptual and structural changes are recorded here. Routine wording
 
 ## 2026-08-28
 
+### Active-index sequencing
+
+- Split `investigations/README.md` further into current frontier versus downstream open investigations versus retained derivational record.
+- Moved Track 2 (`2026-08-20-recurring-signature-track2-survivor-search.md`) to retained derivational record without rewriting its historical contents. Later UCL batteries control the present assessment: perfect-counterfeit survives; `C_*` is underdetermined.
+- Corrected the history-mediated bridge file so its locked next pressure is the ownership filter, not construction of `L`.
+- Left Track 1 active only for the narrower internal-relational theorem; its earlier UCL-origin worklist is already completed elsewhere.
+
 ### Canonical pointer and index hygiene
 
 - Added a narrow Part Eleven pointer: the diachronic-identity program remains incomplete at `C_*` / `G*`, and subsequent investigation has exposed an upstream question about distinction, orientation, and actual transition.
