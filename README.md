@@ -10,7 +10,14 @@ The current canonical formulation is:
 
 The canonical document on `main` is the authoritative formulation. Material elsewhere in the repository may propose, test, criticize, or supersede parts of it without thereby becoming canonical.
 
-The current live bottleneck is diachronic identity: UCL remains a provisional architecture-level survivor, Ship of Theseus leaves `C_*` underdetermined, and the representation-invariance investigation is testing whether an identity-neutral common structure `G*` can support a later selection principle `Σ`. The first concrete selective candidate, `G*_1`, failed; the selective class remains open and the exhaustive branch remains untested.
+## Current Research
+
+The repository currently contains two linked live investigative layers:
+
+- **Upstream — transition / succession:** the Cut yields distinction, but orientation does not yet yield actual transition. The current question is whether an atemporal transition primitive exists without importing temporal succession.
+- **Downstream — diachronic identity:** UCL remains a provisional architecture-level survivor; `C_*` remains underdetermined; the representation-invariance program has isolated `G*`; the first concrete selective candidate `G*_1` failed, while the selective and exhaustive branches remain open separately.
+
+The upstream transition question currently has priority because it sits beneath the identity sequence. The downstream identity investigation remains active rather than closed.
 
 ## Epistemic Discipline
 
@@ -33,6 +40,6 @@ The normal cycle is:
 
 **question → investigation → critique → revision → status check → deliberate acceptance → `main`**
 
-When open investigations exist and no separate framework question has been posed, substantive critique should first examine those investigations rather than manufacture a new question.
+When open investigations exist and no separate framework question has been posed, substantive critique should first examine those investigations rather than manufacture a new question. An investigation may instead terminate by opening a deeper question; that question becomes a new bounded investigation without automatically revising the canonical framework.
 
 Git history is the detailed record of revisions. The archive is reserved for documents whose historical or conceptual identity matters independently of that history.
