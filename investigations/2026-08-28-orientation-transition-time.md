@@ -97,7 +97,7 @@ $$
 \qquad
 \mathrm{distinction}\nRightarrow\mathrm{orientation}
 \qquad
-\mathrm{orientation}\nRightarrow\mathrm{transition}
+\mathrm{orientation}\nRightarrow\text{transition}
 $$
 
 The Actualization Boundary still blocks:
@@ -156,7 +156,7 @@ A subject cannot not reach across the pair. Off-target: this may describe the ph
 
 A possible middle primitive would combine orientation with an independently defined fact that exactly one member of the oriented pair is realized.
 
-**Status after M15:** the natural construction (`R(A,B)` plus exclusive actuality of `B`) fails. Actuality difference is not passage. See §10.
+**Status after M15:** the natural construction (`R(A,B)` plus exclusive actuality of `B`) fails. Actuality difference is not passage. See §8 M15.
 
 ---
 
@@ -206,26 +206,20 @@ $$
 
 ## 7. Map
 
+Only the first arrow is earned in the framework. The rest are investigative.
+
 $$
-\begin{array}{c}
-\text{Cut}\\
-\downarrow\\
-\text{Distinction}\\
-\downarrow\;?\\
-\text{Orientation}\\
-\downarrow\;?\\
-\text{Transition / occurrence}\\
-\downarrow\;?\\
-\text{Time}\\
-\downarrow\\
-\text{Physical causal histories}\\
-\downarrow\\
-P,\;M,\;\ldots\\
-\downarrow\;?\\
-C_*\\
-\downarrow\;?\\
-\text{Diachronic identity}
-\end{array}
+\mathrm{Cut}\rightarrow\mathrm{distinction}
+\rightarrow?\ \mathrm{orientation}
+\rightarrow?\ \mathrm{transition}
+\rightarrow?\ \mathrm{occurrence}
+\rightarrow?\ \mathrm{time}
+$$
+
+Locked contrast:
+
+$$
+\boxed{\text{static relation}\neq\text{execution trace}\neq\text{occurrence}}
 $$
 
 Identity work remains downstream and is not closed or promoted by this file.
@@ -344,9 +338,9 @@ $$
 
 Two genuinely different remaining possibilities:
 
-**Route A — transition is reducible.** Some atemporal structure `R` plus independently specified principles yields actual occurrence without importing temporal succession. No such `R` has been found.
+**Route A — reduction.** Some as-yet-unidentified atemporal structure `R` plus independently specified conditions constitutes occurrence without importing temporal succession. No such `R` has been found. Route A is not exhausted.
 
-**Route B — transition is primitive.** There is an irreducible fact `T(A,B)` or event-token `e: A \leadsto B`. It is not temporal by definition. It is also not derivable from orientation, actuality, exclusion, dependence, functions, or other static resources tested so far. Then the ontology contains something genuinely dynamic in addition to static structure.
+**Route B — primitive occurrence.** Occurrence is an irreducible fact added to the ontology, potentially without being temporal itself. This is not "giving up." It would be a legitimate result if A were eventually exhausted. That exhaustion is **not earned**.
 
 Neither route is selected.
 
@@ -354,25 +348,17 @@ Neither route is selected.
 
 ## 9. Sharper negative and live question
 
-The first battery showed that the obvious candidates do not work. The deeper battery shows something more specific:
+The investigation has moved from "can orientation become transition?" to:
 
 $$
-\boxed{\text{Every attempted construction so far either produces a static representation of transition}}
+\boxed{\text{Can occurrence itself be represented without time or mere description?}}
 $$
-
-or
-
-$$
-\boxed{\text{introduces occurrence/execution as a new primitive.}}
-$$
-
-The operative contrast is therefore not merely static vs dynamic structure. It is:
 
 $$
 \boxed{\text{description of possibility}\quad\text{vs}\quad\text{fact of occurrence}}
 $$
 
-**Not earned:** actual transition is primitive. That would be the error the project refuses.
+**Not earned:** actual transition is primitive.
 
 **Earned:**
 
@@ -382,23 +368,6 @@ $$
 
 The Cut has not been shown to generate occurrence.
 
-Live question, now narrower than the original `∃ T` form:
-
-$$
-\boxed{\text{Can occurrence itself be reduced, or must occurrence be primitive?}}
-$$
-
-equivalently:
-
-> Can the fact of occurrence be represented without either static redescription or temporal succession?
-
-Relation to time remains open both ways:
-
-- If occurrence can be primitive without being temporal, `transition \nRightarrow time` remains alive; time might emerge from ordered occurrence.
-- If every account of occurrence requires succession, transition already presupposes temporality, and deriving time from transition would be backwards.
-
-Neither horn is earned.
-
 ---
 
 ## 10. Status
@@ -406,29 +375,25 @@ Neither horn is earned.
 | Question | Status |
 |---|---|
 | Cut `⇒` distinction | Earned (canonical) |
-| Cut `⇒` movement / time | Not licensed |
+| Subsequent arrows on the map | Investigative only |
 | Orientation can be specified without time | **Yes** |
-| Orientation = transition | **No** |
-| M1–M8 middle definitions | Fail by thinness or hidden succession |
-| M8 exclusive-actuality construction | **Fails** (M15) |
-| M9–M12 generability / enablement / LTS | Static representation only |
-| M16 execution trace | Order without occurrence |
-| M13 / M17 primitive occurrence | Conceivable; not derived; not promoted |
+| static relation = execution trace = occurrence | **No** |
 | Route A vs Route B | **Open fork** |
 | Occurrence is primitive | **Not earned** |
+| Route A exhausted | **Not earned** |
 | Transition is irreducibly temporal | **Not earned** |
-| What forces an admissible `R` to occur | **Not asked** |
 | Mover / time primitive / `C_*` / `Σ` | **Untouched** |
 
 ## 11. Next pressure
 
-Do not invent a mover or a time primitive.
+Do not invent another synonym for occurrence. Do not promote Route B because Route A has not succeeded.
 
-Do not promote Route B because Route A has not yet succeeded.
+Attack the A/B fork itself:
 
-The next legitimate test is whether occurrence itself can be represented without collapsing into either:
+$$
+\boxed{\text{What would a successful reduction of occurrence have to contain that is not already merely a representation of possibility?}}
+$$
 
-1. a static redescription of a possible transition, or
-2. temporal succession under another name.
+That is the difference between a world containing possible histories and a world in which one history is actually happening.
 
-Candidate-family failure is still not a universal negative. The Cut still does not generate the missing fact.
+The Cut still does not generate the missing fact.
