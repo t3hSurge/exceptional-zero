@@ -6,8 +6,11 @@ Open files are not equally live. This index distinguishes **current frontier**, 
 
 ## Active — current frontier
 
+- [2026-08-28-occurrence-performance-atemporality.md](2026-08-28-occurrence-performance-atemporality.md)  
+  **Atemporality / actuality continuation.** Candidate C separates concrete event existence (`O_1`) from passage (`O_2`). P9–P19, S, N, U, P, D, supervenience, and AT batteries found no tested atemporal construction that supplies actual passage/performance without static redescription or imported temporal content. The latest open object is the admissibility of “atemporal” itself; no universal negative is earned.
+
 - [2026-08-28-orientation-transition-time.md](2026-08-28-orientation-transition-time.md)  
-  **Selection vs instantiation.** Admissibility, orientation, and execution order are not enough. Constraint is already blocked (`admissible ⇏ actual`). Pressure now falls on whether selection and instantiation are separable: can anything be selected as actual without that selection already constituting actualization? `possible ≠ selected ≠ actual` is not to be collapsed. The Cut still generates none of this.
+  **Parent transition investigation.** Orientation can be specified without time; orientation is not transition. M1–M18 established the initial static/hidden/off-target partition and isolated actuality-selecting power as the next deeper problem. This file remains the parent derivational record for the continuation above.
 
 ## Active — downstream open investigations
 
@@ -49,6 +52,15 @@ These files remain part of the derivational chain. They are not the current fron
 
 ## Current research bottleneck
 
-**Can anything be selected as actual without that selection itself already constituting the actualization?**
+**Can “atemporal” be specified without presupposing the temporal/performance content it is meant to exclude?**
 
-If no, selection and instantiation may be two names for the same missing primitive. If yes, a further layer `possibility → selection → actuality` would be earned. Neither is shown. The Cut still has not been shown to generate any of this.
+The latest occurrence/performance continuation has established only bounded results: concreteness can model actual existence of event tokens; no tested atemporal construction yields passage or performance distinct from temporal succession; performance is not definable or supervenient relative to the tested atemporal vocabulary; and no tested non-circular criterion for atemporality has been found. A universal statement about every conceivable atemporal ontology is not earned.
+
+This layer is upstream of the identity sequence. That sequence remains in place and is not closed:
+
+- `G*_1` failed as a candidate; selective `G*` remains open; exhaustive `G*` remains untested; `Σ` remains untouched.
+- Bare Joint 3 does not entail propositional interest. History-mediated interest remains open only as `J3 + H_R + L → I`, with ownership filter and `L` unconstructed.
+- Interest-relative identity remains unpromoted. The five-way fork remains unranked.
+- For-this does not supply a determinate `C_*` under the tested formulations; for-this itself remains unchanged in status.
+
+Do not invent a mover or a time primitive. Do not construct `G*_2` merely to continue the prior sequence. Do not treat the AT-battery's constructive failures as a universal impossibility theorem.
