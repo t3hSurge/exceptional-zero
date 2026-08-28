@@ -21,7 +21,7 @@ The upstream transition question currently has priority because it sits beneath 
 
 ## Epistemic Discipline
 
-The framework distinguishes among **Derived**, **Believed**, **Boundary**, **Open**, and **Regulative Principle**. Repository structure preserves the same distinction: an investigation, branch, or archived document is not automatically an accepted claim.
+The framework distinguishes among **Derived**, **Believed**, **Boundary**, **Open**, and **Regulative Principle**. Repository structure preserves the same distinction: an investigation or branch is not automatically an accepted claim.
 
 > Nothing is stronger than its status.
 
@@ -29,8 +29,7 @@ The framework distinguishes among **Derived**, **Believed**, **Boundary**, **Ope
 
 - `exceptional-zero.md` — canonical framework
 - `investigations/` — bounded questions, tests, counterexamples, and formal checks
-- `archive/` — historically significant superseded formulations and artifacts
-- `CHANGELOG.md` — significant conceptual revisions
+- `CHANGELOG.md` — significant conceptual and structural changes
 - `WORKFLOW.md` — how work moves from investigation to accepted framework
 - `BRANCHING.md` — branch naming and merge policy
 
@@ -42,4 +41,4 @@ The normal cycle is:
 
 When open investigations exist and no separate framework question has been posed, substantive critique should first examine those investigations rather than manufacture a new question. An investigation may instead terminate by opening a deeper question; that question becomes a new bounded investigation without automatically revising the canonical framework.
 
-Git history is the detailed record of revisions. The archive is reserved for documents whose historical or conceptual identity matters independently of that history.
+Git history is the authoritative record of revisions and superseded work.
