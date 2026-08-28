@@ -6,9 +6,9 @@ This repository is the working record of the Exceptional Zero framework: its cur
 
 `exceptional-zero.md` is the canonical framework.
 
-A claim is not part of the canonical framework merely because it appears in an investigation, branch, issue, or archived document. Canonical status is conferred only by incorporation into `exceptional-zero.md` on `main`.
+A claim is not part of the canonical framework merely because it appears in an investigation or branch. Canonical status is conferred only by incorporation into `exceptional-zero.md` on `main`.
 
-Git history is the authoritative revision history. The archive is for material worth preserving as a standalone historical artifact, not for every superseded version of the canonical document.
+Git history is the authoritative revision history of the repository, including superseded formulations and ordinary document changes.
 
 ## 2. Main branch
 
@@ -20,7 +20,7 @@ Bounded investigations, status/index synchronization, and other repository maint
 
 ## 3. Working branches
 
-Branches are temporary workspaces for work that benefits from isolation or a reviewable proposed diff. Use descriptive names such as:
+Branches are temporary workspaces for work that benefits from isolation or from a reviewable proposed diff. Use descriptive names such as:
 
 - `investigation/relational-vocabulary`
 - `proposal/status-table`
@@ -50,17 +50,7 @@ An investigation may end by resolving its question, by showing that a candidate 
 
 The repository may therefore contain several linked investigations that form a derivational sequence. Their relationship should be explicit, while their epistemic statuses remain distinct.
 
-## 5. Archive
-
-`archive/` contains superseded formulations or other historical artifacts that are useful to preserve as documents in their own right.
-
-Do **not** copy every old version of `exceptional-zero.md` into the archive. Git already preserves those versions and their diffs.
-
-Archive a document when its historical or conceptual identity matters independently of Git history—for example, a substantially different framework formulation, a discarded formalization, or a milestone report.
-
-Archived material is not authoritative unless the canonical framework explicitly incorporates a result from it.
-
-## 6. Changelog
+## 5. Changelog
 
 `CHANGELOG.md` records significant conceptual and structural changes, not routine wording edits.
 
@@ -75,7 +65,7 @@ Use it for changes such as:
 
 Git commit history remains the detailed record of all edits.
 
-## 7. Suggested work cycle
+## 6. Suggested work cycle
 
 For a substantive investigation or proposed change:
 
@@ -88,7 +78,7 @@ For a substantive investigation or proposed change:
 7. **Accept deliberately.** Only then incorporate an accepted conclusion into `exceptional-zero.md` on `main`.
 8. **Record the milestone.** Add a concise entry to `CHANGELOG.md` when the conceptual or structural change is significant.
 
-## 8. Epistemic discipline
+## 7. Epistemic discipline
 
 The repository follows the same discipline as the framework itself:
 
