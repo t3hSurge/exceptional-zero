@@ -47,8 +47,7 @@ Locked distinctions:
 
 $$
 \boxed{\text{orientation}\neq\text{transition}}
-\qquad
-\boxed{\text{transition}\neq\text{time}}
+\qquad\boxed{\text{transition}\neq\text{time}}
 $$
 
 until those bridges are earned.
@@ -153,6 +152,12 @@ The actuality of `B` depends on the actuality of `A`, not conversely. This can b
 
 A subject cannot not reach across the pair. Off-target: this may describe the phenomenology of undergoing a transition already granted. It does not define transition in the stripped structural vocabulary, and by earlier work it does not select `A → B` rather than some other pair.
 
+### M8. Exclusive realization
+
+A possible middle primitive would combine orientation with an independently defined fact that exactly one member of the oriented pair is realized.
+
+**Status:** not constructed. If "realized" reduces to temporal occurrence, the proposal is hidden succession. If it is genuinely atemporal, an independent realization rule is still required.
+
 ---
 
 ## 5. Partition of the search space
@@ -194,9 +199,7 @@ This is not ontological evidence that no such fact exists.
 ## 6. Live existence question
 
 $$
-\boxed{
-\exists T\;[\,T>\text{orientation}\;\land\;T<\text{temporal succession}\;\land\;T\text{ is not temporal in disguise}\,]\;?
-}
+\boxed{\exists T\;[\,T>\text{orientation}\;\land\;T<\text{temporal succession}\;\land\;T\text{ is not temporal in disguise}\,]\;?}
 $$
 
 If a later exhaustion argument answered this with no, then explaining time by appealing to transition would be backwards: transition would already contain the temporal structure under investigation. That conditional is **not earned**. It is only what a negative answer would mean.
