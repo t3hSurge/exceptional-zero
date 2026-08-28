@@ -12,6 +12,9 @@ Open files are not equally live. This index distinguishes **current frontier**, 
 - [2026-08-28-orientation-transition-time.md](2026-08-28-orientation-transition-time.md)  
   **Parent transition investigation.** Orientation can be specified without time; orientation is not transition. M1–M18 established the initial static/hidden/off-target partition and isolated actuality-selecting power as the next deeper problem. This file remains the parent derivational record for the continuation above.
 
+- [2026-08-28-verb-first-fixed-point-test.md](2026-08-28-verb-first-fixed-point-test.md)  
+  **Foundational verb-first line.** Tests whether genuinely verb-first ontology can exclude self-exhausting relational fixed points. Relation-first plus finitude does not force a hinge; a cyclic/processive fixed point remains a counterpressure. Verb-first has not yet been specified strongly enough to derive non-self-exhaustion or the Exceptional Zero.
+
 ## Active — downstream open investigations
 
 These remain genuinely open. They are not the current overall bottleneck.
@@ -63,4 +66,6 @@ This layer is upstream of the identity sequence. That sequence remains in place 
 - Interest-relative identity remains unpromoted. The five-way fork remains unranked.
 - For-this does not supply a determinate `C_*` under the tested formulations; for-this itself remains unchanged in status.
 
-Do not invent a mover or a time primitive. Do not construct `G*_2` merely to continue the prior sequence. Do not treat the AT-battery's constructive failures as a universal impossibility theorem.
+The verb-first line is foundational and parallel to the current frontier, not a replacement for it: relation-first plus finitude does not force a hinge, and the stronger verb-first condition remains to be made formally discriminating. No conclusion about the Exceptional Zero has been promoted from that line.
+
+Do not invent a mover or a time primitive. Do not construct `G*_2` merely to continue the prior sequence. Do not treat the AT-battery's constructive failures as a universal impossibility theorem. Do not treat the verb-first fixed-point counterpressure as a hinge derivation.
