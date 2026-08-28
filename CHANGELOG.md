@@ -4,6 +4,21 @@ Significant conceptual and structural changes are recorded here. Routine wording
 
 ## 2026-08-28
 
+### Repository workflow and structure
+
+- Removed the obsolete `ai-reviews/` review subsystem and its source-specific folder structure. Review provenance is preserved by Git history and by the investigation records themselves; no separate AI-review archive is part of the repository workflow.
+- Updated `WORKFLOW.md` and `BRANCHING.md` to distinguish canonical acceptance from workspace mechanics: bounded investigations and repository maintenance may be committed directly to `main` when explicitly scoped, while canonical framework changes still require deliberate acceptance.
+- Clarified that an investigation may terminate by isolating a deeper question, which should be recorded as a new bounded investigation rather than treated as failure of the preceding investigation.
+- Removed the obsolete `review/` branch type.
+- Synchronized the root and investigations READMEs with the current two-layer research architecture: upstream transition/succession and downstream diachronic identity.
+
+### For-this as a `C_*` candidate
+
+- Added `investigations/2026-08-28-for-this-selector-test.md`.
+- Tested for-this as a candidate identity selector against circularity, target-shift, phenomenal remainder, Theseus, fission, counterfeit, and representation pressures.
+- Found no tested formulation that supplies a determinate `C_*`: identity-bearing formulations are circular, memory-based formulations shift to already-tested informational continuity, and content-free phenomenal flow remains third-person underdetermined.
+- Recorded the result as a candidate failure only. For-this itself receives no status change.
+
 ### Distinction / orientation / transition / time
 
 - Added `investigations/2026-08-28-orientation-transition-time.md`.
@@ -28,6 +43,14 @@ Significant conceptual and structural changes are recorded here. Routine wording
 - Causal ancestry alone does not determine a unique present interest. A separate learning, reinforcement, preference-update, or other causal mechanism would be required to map history to present propositional interest.
 - History-mediated interest formation is therefore a **live auxiliary hypothesis**, not a consequence of Joint 3 and not a promoted solution to diachronic identity.
 - The bridge from interest to identity selection remains separately unresolved. No `G*_2`, no `Σ`, no process/material preference, and no Boundary are introduced.
+
+### Joint 3 → ownership-filter pressure
+
+- Added `investigations/2026-08-23-joint3-ownership-filter-pressure.md`.
+- Pressure-tested the remaining ownership filter required to turn raw causal ancestry into a subject/system-specific reaching history.
+- Same-self ownership is circular; an independent physical/system boundary remains possible only conditionally and no survivor has been exhibited; causal-role filtering leaves mixed continuity unresolved; unrestricted ancestry is too broad to determine a present interest.
+- Recorded the result narrowly: an identity-free history object is possible in form, but an identity-free ownership filter remains unshown.
+- Even a successful ownership filter would establish a history object, not a process/material identity selector or the bridge from interest to `C_*`.
 
 ## 2026-08-22
 
@@ -54,10 +77,9 @@ Significant conceptual and structural changes are recorded here. Routine wording
 
 ### Repository-wide review
 
-- Reviewed the current Git tree, canonical framework, investigations, AI-review records, and repository documentation for internal consistency.
-- Removed the repository documentation's reference to a nonexistent standalone `reviews/` tree; substantive review records remain under `ai-reviews/<source>/` with source provenance explicit.
-- Updated the investigation and ChatGPT-review indexes to reflect the completed UCL sequence and the current representation-invariance bottleneck.
-- Preserved dated AI reviews as historical records rather than rewriting earlier assessments merely because later investigations superseded them.
+- Reviewed the current Git tree, canonical framework, investigations, and repository documentation for internal consistency.
+- Updated the investigation index to reflect the completed UCL sequence and the then-current representation-invariance bottleneck.
+- Preserved dated investigation records as historical artifacts rather than rewriting earlier assessments merely because later investigations superseded them.
 
 ### Diachronic identity / battery correction
 
@@ -100,7 +122,7 @@ Significant conceptual and structural changes are recorded here. Routine wording
 
 ### Repository structure
 
-- Established `WORKFLOW.md` to codify the path from investigation and adversarial review to accepted canonical text.
+- Established `WORKFLOW.md` to codify the path from investigation and adversarial critique to accepted canonical text.
 - Established `BRANCHING.md` to distinguish exploratory work from the accepted `main` branch.
 - Clarified the role of `archive/`: preserve historically significant standalone artifacts rather than every superseded version of the canonical document.
 - Clarified that Git history, rather than the archive, is the authoritative record of ordinary document revisions.
