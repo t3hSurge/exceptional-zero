@@ -7,11 +7,17 @@ Bounded questions, tests, counterexamples, and formal checks. An investigation d
 - [2026-08-28-orientation-transition-time.md](2026-08-28-orientation-transition-time.md)  
   **Austere middle-arrow test.** Orientation can be specified without time; orientation is not transition. Tested middle definitions of transition fall into static structure, hidden succession, or off-target phenomenology. No tested `T` is stronger than orientation and weaker than temporal succession without disguise. Existence of such a `T` remains Open. Time is not derived from the Cut. No mover, no `C_*`.
 
+- [2026-08-28-for-this-selector-test.md](2026-08-28-for-this-selector-test.md)  
+  **For-this as `C_*` selector:** tested circularity, target-shift, phenomenal remainder, Theseus, fission, counterfeit, and representation pressures. No tested formulation yields a determinate `C_*`. Failure is specific to the candidate; for-this itself receives no status change.
+
 - [2026-08-23-joint3-history-mediated-interest-bridge.md](2026-08-23-joint3-history-mediated-interest-bridge.md)  
   **History-mediated Joint 3 bridge:** bare `I cannot not reach` does not entail propositional interest. A personal-history formulation is circular, but causal ancestry of the present state can be specified without identity in principle. An independently specified learning/update mechanism could therefore mediate `J3 + history → interest`; no such mechanism is yet constructed or promoted. Open.
 
+- [2026-08-23-joint3-ownership-filter-pressure.md](2026-08-23-joint3-ownership-filter-pressure.md)  
+  **Ownership-filter pressure:** identity-free causal ancestry is possible in form, but extracting “this system's reaching history” requires either a circular same-self filter, an independently bounded system boundary not yet exhibited, a causal-role rule that leaves mixed continuity unresolved, or an ancestry bucket too broad to determine interest. Open auxiliary.
+
 - [2026-08-22-interest-relative-diachronic-identity.md](2026-08-22-interest-relative-diachronic-identity.md)  
-  **New hypothesis:** Ship of Theseus may expose a category error rather than a missing physical identity fact. Physical history contains multiple continuities; a reaching subject may select a causal thread for a purpose of tracking. Open.
+  **New hypothesis:** physical history contains multiple legitimate continuities; a reaching subject may select a causal thread for a purpose of tracking. Open and unpromoted.
 
 - [2026-08-22-joint3-tracking-bridge-test.md](2026-08-22-joint3-tracking-bridge-test.md)  
   **Joint 3 bridge test:** `I cannot not reach` does not entail unique identity-thread selection. Finitude, bounded tracking, and purpose/interest remain possible auxiliary principles but are not derived from Joint 3. The interest-relative thesis remains Open.
@@ -49,6 +55,9 @@ Bounded questions, tests, counterexamples, and formal checks. An investigation d
 - [2026-08-20-diachron-identity-variable-selection.md](2026-08-20-diachron-identity-variable-selection.md)  
   Variable/outcome selection battery: initial target-independent selectors fail by overgeneration, non-uniqueness, scale dependence, or representation dependence. The next theorem-shaped test is representation invariance under refinement/coarse-graining.
 
+- [diachronic-identity-ucl-battery.md](diachronic-identity-ucl-battery.md)  
+  Detailed UCL battery: formalized the previously asserted persistence tests, exposed the Ship of Theseus / `C_*` underdetermination, and narrowed the robust result to perfect-counterfeit / implanted-memory distinction and related structural cases.
+
 ## Current research bottleneck
 
 **The middle arrow from atemporal structure to actual transition.**
@@ -64,6 +73,7 @@ This layer is upstream of the identity sequence. That sequence remains in place 
 - `G*_1` failed as a candidate; selective `G*` remains open; exhaustive `G*` remains untested; `Σ` remains untouched.
 - Bare Joint 3 does not entail propositional interest. History-mediated interest remains open only as `J3 + H_R + L → I`, with ownership filter and `L` unconstructed.
 - Interest-relative identity remains unpromoted. The five-way fork remains unranked.
+- For-this does not supply a determinate `C_*` under the tested formulations; for-this itself remains unchanged in status.
 
 Do not invent a mover or a time primitive. Do not construct `G*_2` merely to continue the prior sequence.
 
