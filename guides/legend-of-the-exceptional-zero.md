@@ -674,7 +674,80 @@ This section is part of the legend because several symbols are easy to overread.
 
 ---
 
-## 22. Research notation beyond the canonical document
+## 22. The canonical framework, in one page
+
+The canonical symbolic spine is:
+
+$$
+\boxed{
+\operatorname{Particularity}(S)
+\Rightarrow
+Z(S)
+}
+$$
+
+with:
+
+$$
+\boxed{
+Z(S)=\neg\mathrm{Transitive}(\mathrm{Aut}(S)).
+}
+$$
+
+The central boundaries are:
+
+$$
+\boxed{\text{Intrinsic Particularity}\not\Rightarrow\text{For-This}}
+$$
+
+$$
+\boxed{\text{possible}\not\Rightarrow\text{actual}}
+$$
+
+$$
+\boxed{\text{representation-useful}\neq\text{identity-useful}}
+$$
+
+The diachronic identity architecture is:
+
+$$
+\boxed{
+O
+\rightarrow
+[\text{identity-relevant causal selection}]
+\rightarrow
+C_*
+\rightarrow
+J_{\mathrm{cut}}
+}
+$$
+
+with:
+
+$$
+\boxed{
+G_P,G_M
+\rightarrow
+[\sim]
+\rightarrow
+[G^*]
+\rightarrow
+\Sigma.
+}
+$$
+
+And the governing reading discipline remains:
+
+$$
+\boxed{G^*_1\text{ failed as a construction}}
+\qquad\text{does not imply}
+\qquad
+\boxed{\text{selective }G^*\text{ is impossible}.}
+$$
+
+---
+
+## 23. Research notation beyond the canonical document
 
 The repository's later investigations introduce additional symbols. They are useful, but they are **not canonical ontology** merely because this guide names them.
 
@@ -822,7 +895,7 @@ This chain remains an auxiliary hypothesis. It is not a canonical derivation fro
 
 ---
 
-## 23. Research diagrams and the meaning of “?”
+## 24. Research diagrams and the meaning of “?”
 
 Later research uses diagrams such as:
 
@@ -858,7 +931,7 @@ The repository's investigations repeatedly use this notation to prevent exactly 
 
 ---
 
-## 24. The current symbolic discipline in one table
+## 25. The current symbolic discipline in one table
 
 | Distinction | What is allowed | What is not licensed |
 |---|---|---|
@@ -875,7 +948,7 @@ The repository's investigations repeatedly use this notation to prevent exactly 
 
 ---
 
-## 25. The legend's single-page mnemonic
+## 26. The legend's single-page mnemonic
 
 If you remember only one symbolic sequence from the canonical framework, remember this:
 
@@ -945,7 +1018,7 @@ $$
 
 ---
 
-## 26. Reading rule for future investigations
+## 27. Reading rule for future investigations
 
 When a new symbol appears, ask four questions before assigning it metaphysical weight:
 
