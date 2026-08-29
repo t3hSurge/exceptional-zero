@@ -167,7 +167,7 @@ This equality is a **reading aid** that abbreviates the canonical prose definiti
 The central derived implication is:
 
 $$
-\boxed{\operatorname{Particularity}(S)\Rightarrow Z(S)}.
+\boxed{\mathrm{Particularity}(S)\Rightarrow Z(S)}.
 $$
 
 This means intrinsic particularity requires broken structural symmetry.
@@ -175,7 +175,7 @@ This means intrinsic particularity requires broken structural symmetry.
 The converse
 
 $$
-Z(S)\Rightarrow\operatorname{Particularity}(S)
+Z(S)\Rightarrow\mathrm{Particularity}(S)
 $$
 
 is **not unconditional**. The canonical document explicitly makes it depend on what counts as an admissible property. Under a broad invariant-property reading the converse can hold; under restricted expressive languages it can fail. Therefore this symbol should never be quoted as an unconditional theorem without that qualification.
@@ -881,7 +881,7 @@ If you remember only one symbolic sequence from the canonical framework, remembe
 
 $$
 \boxed{
-\operatorname{Particularity}(S)
+\mathrm{Particularity}(S)
 \Rightarrow
 Z(S)
 }
