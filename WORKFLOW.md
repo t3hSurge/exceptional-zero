@@ -110,6 +110,21 @@ This rendering standard applies to canonical documents, guides, repository polic
 
 The **Legend of the Exceptional Zero** is the notation guide for what symbols mean; this section is the repository guide for how those symbols are written and rendered in Markdown.
 
+### 5.4 Patch-first editing
+
+For a surgical change to an existing document, edit the current file by patch rather than reconstructing the entire document from conversational text.
+
+The required sequence is:
+
+1. **Fetch the current file.** Work from the exact current revision, not from a remembered or copied earlier version.
+2. **Apply the smallest textual change.** Prefer a line- or hunk-level patch for a local edit.
+3. **Inspect the diff.** Confirm that every changed line is intentional before committing.
+4. **Commit the verified result.** The committed snapshot should contain only the requested change and any explicitly accompanying documentation change.
+
+A large canonical document must **not** be regenerated or pasted through an LLM write operation merely to make a local edit. Whole-file replacement is reserved for deliberate document rewrites where the complete replacement has itself been independently verified.
+
+For canonical documents, preserving the existing text is a higher priority than convenience. If a requested edit can be expressed as a small patch, the repository should record it as a small patch in Git history.
+
 ## 6. Changelog
 
 `CHANGELOG.md` records significant conceptual and structural changes, not routine wording edits.
