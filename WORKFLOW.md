@@ -65,14 +65,32 @@ Use Markdown math syntax that renders consistently on GitHub and in common MathJ
 For example:
 
 ```markdown
-The central implication is $\operatorname{Particularity}(S)\Rightarrow Z(S)$.
+The central implication is $\mathrm{Particularity}(S)\Rightarrow Z(S)$.
 
 $$
-\boxed{\operatorname{Particularity}(S)\Rightarrow Z(S)}
+\boxed{\mathrm{Particularity}(S)\Rightarrow Z(S)}
 $$
 ```
 
 Use `\boxed{...}` only inside a math block when a visual box is actually part of the intended mathematical presentation.
+
+**Prefer display math for Markdown-sensitive expressions.** If an inline mathematical expression contains characters that can be interpreted by Markdown—especially `_`, `*`, backticks, or similar syntax—promote the expression to a `$$...$$` block rather than escaping those characters inside `$...$`. For example:
+
+```markdown
+The live architecture is:
+
+$$
+G_P,G_M\rightarrow[\sim]\rightarrow[G^*]\rightarrow\Sigma
+$$
+```
+
+This is preferred to forcing a dense expression such as `$G_P,G_M\rightarrow[\sim]\rightarrow[G^*]\rightarrow\Sigma$` inline.
+
+For simple inline identifiers with subscripts or superscripts, ordinary `$...$` is acceptable when the surrounding Markdown parser will not reinterpret the notation. When in doubt, use a display block.
+
+**Do not rely on `\operatorname{...}` in repository mathematics.** GitHub's math renderer is stricter than a full MathJax environment. Use portable forms such as `\mathrm{...}` instead. For example, write `$\mathrm{Aut}(S)$` rather than `$\operatorname{Aut}(S)$`.
+
+**Do not unnecessarily escape LaTeX subscripts inside math delimiters.** In mathematical mode, write `$G^*_1$` rather than `$G^*\_1$`. The escaped underscore can render incorrectly when mixed with Markdown parsing. If the expression is too Markdown-sensitive for safe inline use, move it to a display block instead.
 
 Prefer mathematical delimiters over raw Unicode for formal expressions when the expression contains operators, superscripts, subscripts, or other structure that benefits from consistent rendering. Unicode is fine for ordinary prose and standalone symbols where it improves readability.
 
