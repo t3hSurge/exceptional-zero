@@ -100,15 +100,15 @@ The particularity argument asks whether some `P` can distinguish one element fro
 
 Thus:
 
-\[
+$$
 P(x)
-\]
+$$
 
 means “`x` has property `P`,” while:
 
-\[
+$$
 \neg P(y)
-\]
+$$
 
 means “`y` does not have property `P`.”
 
@@ -122,17 +122,17 @@ means “`y` does not have property `P`.”
 
 A typical preservation statement is:
 
-\[
+$$
 P(x)\iff P(\varphi(x)).
-\]
+$$
 
 The exact content is that a genuine structural property cannot distinguish an object from its image under a symmetry of the structure.
 
 ### `Aut(S)`
 
-\[
+$$
 \operatorname{Aut}(S)
-\]
+$$
 
 is the automorphism group of `S`: all structure-preserving self-maps of `S` under composition.
 
@@ -142,9 +142,9 @@ The group action is transitive when every element can be carried to every other 
 
 Informally:
 
-\[
+$$
 \forall x,y\in S\;\exists\varphi\in\operatorname{Aut}(S):\varphi(x)=y.
-\]
+$$
 
 The canonical document usually states this in prose rather than insisting on one fixed symbolic rendering.
 
@@ -152,9 +152,9 @@ The canonical document usually states this in prose rather than insisting on one
 
 The formal correspondent of the Exceptional Zero is:
 
-\[
+$$
 Z(S)=\neg\operatorname{Transitive}(\operatorname{Aut}(S)).
-\]
+$$
 
 Read this as:
 
@@ -166,17 +166,17 @@ This equality is a **reading aid** that abbreviates the canonical prose definiti
 
 The central derived implication is:
 
-\[
+$$
 \boxed{\operatorname{Particularity}(S)\Rightarrow Z(S)}.
-\]
+$$
 
 This means intrinsic particularity requires broken structural symmetry.
 
 The converse
 
-\[
+$$
 Z(S)\Rightarrow\operatorname{Particularity}(S)
-\]
+$$
 
 is **not unconditional**. The canonical document explicitly makes it depend on what counts as an admissible property. Under a broad invariant-property reading the converse can hold; under restricted expressive languages it can fail. Therefore this symbol should never be quoted as an unconditional theorem without that qualification.
 
@@ -209,15 +209,15 @@ is **not unconditional**. The canonical document explicitly makes it depend on w
 
 The framework repeatedly learned to distinguish these:
 
-\[
+$$
 A\rightarrow B
-\]
+$$
 
 as a **formal directed relation**, from:
 
-\[
+$$
 A\Rightarrow B
-\]
+$$
 
 as **logical entailment**, and from prose in which “A leads to B” may suggest causation.
 
@@ -247,9 +247,9 @@ It has appeared in several closely related formulations:
 
 The crucial logical restriction is:
 
-\[
+$$
 \text{finitude}\not\Rightarrow\text{reaching}.
-\]
+$$
 
 Joint 3 is a belief about a particular first-person condition. It does not establish a universal law governing every finite thing, and it does not by itself provide a selector among competing causal continuities.
 
@@ -265,29 +265,29 @@ It is not formalized by a single canonical operator.
 
 Part Six then separates three concepts that must not be collapsed:
 
-\[
+$$
 \boxed{\text{Correlation}}
-\]
+$$
 
-\[
+$$
 \boxed{\text{Response}}
-\]
+$$
 
-\[
+$$
 \boxed{\text{Interiority}}
-\]
+$$
 
 with the non-entailments:
 
-\[
+$$
 \text{Correlation}\not\Rightarrow\text{Response}
-\]
+$$
 
 and:
 
-\[
+$$
 \text{Response}\not\Rightarrow\text{Interiority}.
-\]
+$$
 
 These are conceptual distinctions used in the investigation, not a new formal ontology of minds or fields.
 
@@ -297,9 +297,9 @@ These are conceptual distinctions used in the investigation, not a new formal on
 
 The framework's standing modal discipline is summarized by:
 
-\[
+$$
 \boxed{\text{possible}\not\Rightarrow\text{actual}}.
-\]
+$$
 
 In prose:
 
@@ -326,9 +326,9 @@ The consciousness investigation uses four conceptual levels:
 
 The important non-entailment is:
 
-\[
+$$
 \boxed{\mathrm{III}\not\Rightarrow\mathrm{IV}}.
-\]
+$$
 
 The framework does **not** claim that this proves an eternal metaphysical separation between particularity and subjectivity. It claims that the current derivation does not get from III to IV.
 
@@ -348,17 +348,17 @@ The five-status table gives Subjectivity / For-This the status **Boundary**.
 
 A separate evidence boundary records three failure modes in attempted third-person bridges:
 
-\[
+$$
 \boxed{\text{circularity}}
-\]
+$$
 
-\[
+$$
 \boxed{\text{target-shift}}
-\]
+$$
 
-\[
-\boxed{\text{underdetermination}}.
-\]
+$$
+\boxed{\text{underdetermination}}
+$$
 
 ---
 
@@ -378,9 +378,9 @@ The main candidate families were:
 
 The canonical conclusion is:
 
-\[
+$$
 \boxed{\text{No non-circular reductive analysis of truth has succeeded.}}
-\]
+$$
 
 That is an Open research result, not the assertion that truth is irreducible.
 
@@ -398,9 +398,9 @@ It is not a universal theory of origins. The canonical document requires any suc
 
 ### `C_*`
 
-\[
+$$
 C_*
-\]
+$$
 
 is the unresolved criterion selecting **which causal features are identity-relevant**.
 
@@ -408,7 +408,7 @@ This is not a completed identity criterion. It is precisely the missing selector
 
 The canonical architecture is:
 
-\[
+$$
 O
 \;\rightarrow\;
 [\text{selection of identity-relevant causal features}]
@@ -416,15 +416,15 @@ O
 C_*
 \;\rightarrow\;
 J_{\mathrm{cut}}.
-\]
+$$
 
 The brackets matter: the selection step is still unresolved.
 
 ### `J_cut`
 
-\[
+$$
 J_{\mathrm{cut}}
-\]
+$$
 
 is the causal-graph partitioning machinery used by UCL once the relevant causal graph and junction conditions have been fixed.
 
@@ -436,23 +436,23 @@ It is a **provisional mathematical partition**, not a proof of diachronic identi
 
 Two competing causal descriptions are represented as:
 
-\[
+$$
 G_P
-\]
+$$
 
 for process-continuity emphasis, and:
 
-\[
+$$
 G_M
-\]
+$$
 
 for material-provenance emphasis.
 
 The important conceptual result is not that one wins. It is:
 
-\[
+$$
 \boxed{\text{process continuity}\neq\text{material continuity}}.
-\]
+$$
 
 The framework's Theseus analysis uses the fact that both can be independently specified as causal descriptions while leaving the identity selector underdetermined.
 
@@ -464,9 +464,9 @@ No process/material ranking is established.
 
 The notation
 
-\[
+$$
 G\sim H
-\]
+$$
 
 stands for a **candidate admissibility/equivalence relation** between representations.
 
@@ -478,15 +478,15 @@ The whole point of the representation-invariance investigation is to ask whether
 
 ## 15. `G*`
 
-\[
+$$
 G^*
-\]
+$$
 
 is the placeholder for a proposed **representation-independent common structure** from which competing causal descriptions might be recovered.
 
 The intended architecture is:
 
-\[
+$$
 G_P,\;G_M
 \;\longrightarrow\;
 [\sim]
@@ -494,7 +494,7 @@ G_P,\;G_M
 [G^*]
 \;\longrightarrow\;
 \Sigma.
-\]
+$$
 
 The brackets indicate unresolved machinery.
 
@@ -506,13 +506,13 @@ The brackets indicate unresolved machinery.
 
 The investigation distinguishes three possibilities for a candidate `G*`:
 
-\[
+$$
 \boxed{\text{insufficient}}
 \qquad
 \boxed{\text{selective}}
 \qquad
 \boxed{\text{exhaustive}}.
-\]
+$$
 
 ### Insufficient
 
@@ -538,9 +538,9 @@ This remains **Open and untested**.
 
 The first concrete selective candidate was:
 
-\[
+$$
 \boxed{G^*_{\mathrm{phys}}=(V,E,\tau)}.
-\]
+$$
 
 Its components were:
 
@@ -554,15 +554,15 @@ Its components were:
 
 Therefore:
 
-\[
+$$
 \boxed{G^*_1\text{ failed as a construction}}
-\]
+$$
 
 but:
 
-\[
+$$
 \boxed{\text{selective }G^*\text{ is not thereby impossible}.}
-\]
+$$
 
 This distinction is foundational to reading the investigation correctly.
 
@@ -570,9 +570,9 @@ This distinction is foundational to reading the investigation correctly.
 
 ## 18. `Σ`
 
-\[
+$$
 \Sigma
-\]
+$$
 
 is the placeholder for the still-later **identity-selection layer** in the representation architecture.
 
@@ -580,9 +580,9 @@ It has deliberately not been filled in.
 
 Therefore:
 
-\[
+$$
 \boxed{\Sigma\text{ remains untouched}.}
-\]
+$$
 
 Whenever a candidate starts selecting features because they “matter for identity,” the framework treats that as a danger sign: the supposedly prior representation structure may simply be hiding `Σ` inside itself.
 
@@ -596,9 +596,9 @@ This is a named architecture rather than a primitive symbol.
 
 The conceptual ingredients are:
 
-\[
+$$
 O + \text{causal provenance} + \text{non-branching continuation}.
-\]
+$$
 
 UCL earned a robust local result against the perfect-counterfeit / implanted-memory case and a workable junction-partitioning architecture.
 
@@ -612,7 +612,7 @@ The canonical status is explicitly provisional.
 
 The safest compact rendering is:
 
-\[
+$$
 \boxed{
 O
 \rightarrow
@@ -622,11 +622,11 @@ C_*
 \rightarrow
 J_{\mathrm{cut}}
 }
-\]
+$$
 
 and, beneath the selection problem:
 
-\[
+$$
 \boxed{
 G_P,G_M
 \rightarrow
@@ -636,19 +636,19 @@ G_P,G_M
 \rightarrow
 \Sigma
 }
-\]
+$$
 
 with:
 
-\[
+$$
 \boxed{\text{representation-useful}\neq\text{identity-useful}}
-\]
+$$
 
 and:
 
-\[
+$$
 \boxed{G^*_1\text{ failed as a concrete selective construction}}.
-\]
+$$
 
 This is the symbolic skeleton of the canonical diachronic-identity discussion.
 
@@ -682,21 +682,21 @@ The repository's later investigations introduce additional symbols. They are use
 
 These labels are used for:
 
-\[
+$$
 P=\text{process-continuity relation/family}
-\]
+$$
 
-\[
+$$
 M=\text{material-continuity relation/family}.
-\]
+$$
 
 A de-loaded causal construction showed that a bare physical description can contain both kinds of continuity before an identity question is asked.
 
 The important result is:
 
-\[
+$$
 P,M\subseteq G
-\]
+$$
 
 in the investigation's shorthand, not a canonical assertion that one relation determines identity.
 
@@ -704,15 +704,15 @@ in the investigation's shorthand, not a canonical assertion that one relation de
 
 Later occurrence/performance work separates:
 
-\[
+$$
 O_1=\text{actual/concrete existence of an event token}
-\]
+$$
 
 from:
 
-\[
+$$
 O_2=\text{actual passage/becoming from }A\text{ to }B.
-\]
+$$
 
 Candidate C showed that atemporal concreteness can represent `O_1` without thereby yielding `O_2`.
 
@@ -722,9 +722,9 @@ These are investigation symbols, not canonical additions to the framework.
 
 A primitive candidate relation:
 
-\[
+$$
 \operatorname{Pass}(A,B)
-\]
+$$
 
 intended to mean actual passage.
 
@@ -734,9 +734,9 @@ The investigations found that a formal relation can be atemporal while the inten
 
 In later investigations, `S` may also be reused for **formal succession**, often as the transitive closure of primitive passage:
 
-\[
+$$
 S=\operatorname{TC}(\operatorname{Pass}).
-\]
+$$
 
 Do not confuse this later use with the foundational `S` used for “structure.” Context is decisive.
 
@@ -744,15 +744,15 @@ Do not confuse this later use with the foundational `S` used for “structure.�
 
 Later performance investigations use predicates such as:
 
-\[
+$$
 P(e)
-\]
+$$
 
 for “event `e` is actually performed,” and:
 
-\[
+$$
 Occ(e)
-\]
+$$
 
 for occurrence.
 
@@ -762,15 +762,15 @@ These were deliberately kept as candidate primitives or research predicates rath
 
 Research notation also experiments with:
 
-\[
+$$
 Act(x)
-\]
+$$
 
 for actuality and:
 
-\[
+$$
 Conc(x)
-\]
+$$
 
 for atemporal concreteness.
 
@@ -780,9 +780,9 @@ The Candidate C investigation showed the useful distinction between concrete exi
 
 In the transition/time investigations:
 
-\[
+$$
 T(A,B)
-\]
+$$
 
 may denote a candidate **temporal succession** relation, while `T` in another context may simply be a metavariable for a proposed transition structure.
 
@@ -796,7 +796,7 @@ Later work uses `Unfold` for a candidate actual-unfolding primitive. No canonica
 
 The Joint 3 history-mediated investigations use shorthand for an auxiliary architecture such as:
 
-\[
+$$
 J3
 \rightarrow
 A(s_t)
@@ -806,7 +806,7 @@ R_t^*
 L
 \rightarrow
 I.
-\]
+$$
 
 The intended roles are roughly:
 
@@ -826,7 +826,7 @@ This chain remains an auxiliary hypothesis. It is not a canonical derivation fro
 
 Later research uses diagrams such as:
 
-\[
+$$
 \mathrm{Cut}
 \to
 \mathrm{distinction}
@@ -840,7 +840,7 @@ Later research uses diagrams such as:
 \mathrm{temporal\ succession}
 \to?
 \mathrm{time}.
-\]
+$$
 
 The `?` is important.
 
@@ -879,39 +879,39 @@ The repository's investigations repeatedly use this notation to prevent exactly 
 
 If you remember only one symbolic sequence from the canonical framework, remember this:
 
-\[
+$$
 \boxed{
 \operatorname{Particularity}(S)
 \Rightarrow
 Z(S)
 }
-\]
+$$
 
 where:
 
-\[
+$$
 \boxed{
 Z(S)=\neg\operatorname{Transitive}(\operatorname{Aut}(S)).
 }
-\]
+$$
 
 Then remember the three central boundaries:
 
-\[
+$$
 \boxed{\text{Intrinsic Particularity}\not\Rightarrow\text{For-This}}
-\]
+$$
 
-\[
+$$
 \boxed{\text{possible}\not\Rightarrow\text{actual}}
-\]
+$$
 
-\[
+$$
 \boxed{\text{representation-useful}\neq\text{identity-useful}}
-\]
+$$
 
 And the canonical identity architecture:
 
-\[
+$$
 \boxed{
 O
 \rightarrow
@@ -921,11 +921,11 @@ C_*
 \rightarrow
 J_{\mathrm{cut}}
 }
-\]
+$$
 
 with the representation layer beneath `C_*`:
 
-\[
+$$
 \boxed{
 G_P,G_M
 \rightarrow
@@ -935,13 +935,13 @@ G_P,G_M
 \rightarrow
 \Sigma.
 }
-\]
+$$
 
 Finally, the status lock:
 
-\[
-\boxed{G^*_1\text{ failed}\neq\boxed{\text{selective }G^*\text{ impossible}}.
-\]
+$$
+\boxed{G^*_1\text{ failed}}\neq\boxed{\text{selective }G^*\text{ impossible}}.
+$$
 
 ---
 
