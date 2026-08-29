@@ -24,9 +24,9 @@ The repository distinguishes five epistemic statuses:
 
 The same rule applies here: a symbol explained in this guide does not thereby become an ontological commitment.
 
----
-
 ## 2. The fastest possible reading card
+
+### Canonical / framework notation
 
 | Symbol / phrase | Read it as | Core meaning | Canonical status |
 |---|---|---|---|
@@ -35,28 +35,48 @@ The same rule applies here: a symbol explained in this guide does not thereby be
 | `P` | property / predicate | A structural property used in the particularity argument | Formal placeholder |
 | `φ` | phi | An automorphism of `S` | Formal placeholder |
 | `Aut(S)` | automorphisms of S | The automorphism group of `S` | Formal construction |
-| `Z(S)` | Z of S | Failure of transitivity of `Aut(S)` on `S` | **Derived**, condition-dependent in the converse direction |
-| `O` | origin | An independently specified origin condition in the UCL architecture | Investigation placeholder |
-| `C_*` | C-star | The unresolved selector of identity-relevant causal features | **Open** |
-| `J_cut` | J-cut | A causal-graph partition once the relevant graph is fixed | Provisional mathematical construction |
-| `G_P` | G-sub-P | Representation privileging process continuity | Investigation notation |
-| `G_M` | G-sub-M | Representation privileging material provenance | Investigation notation |
-| `G ~ H` | G is admissible/equivalent to H | Candidate representation-equivalence relation | Investigation placeholder |
-| `G*` | G-star | Proposed representation-independent common structure | **Open** |
-| `G*_1` | G-star-one | First concrete selective `G*` candidate; failed as construction | Candidate failure |
-| `Σ` | Sigma | Unresolved identity-selection layer in the representation architecture | **Untouched / Open** |
+| `Z(S)` | Z of S | Failure of transitivity of `Aut(S)` on `S` | **Derived**, with converse scope-dependent |
+| `J_cut` | J-cut | A causal-graph partition once the relevant graph is fixed | **Provisional mathematical partition** |
 | `J3` | Joint 3 | “I cannot not reach” | **Believed** |
 | `J6` | Joint 6 | “The world does not want back” | **Believed** |
 | `For-This` | for-this | Level-IV subjectivity: something it is like for a particular to be itself | **Boundary** |
-| `→` | implies / points toward | Meaning depends on context; never assume causal force from the arrow alone | Contextual |
+| `→` | directed / architectural arrow | Context-sensitive; never assume causal force from the arrow alone | Contextual |
 | `⇒` | entails | Logical implication | Logical operator |
 | `⇏` / `↛` | does not entail | Failure of implication / entailment | Logical notation |
 | `≠` | is not equal to | Non-identity / non-equivalence | Logical operator |
 | `↔` / `iff` | if and only if | Biconditional | Logical operator |
 | `∈` | is an element of | Membership | Set-theoretic operator |
 | `⊆` | subset of | Inclusion | Set-theoretic operator |
+| `possible ⇏ actual` | possible does not entail actual | Compact form of the Actualization Boundary | **Regulative Principle** |
 
-The remainder explains these items precisely and separates **formal mathematics**, **framework shorthand**, and **investigation scaffolding**.
+### Investigation notation
+
+The following symbols occur in later research and are **not additional canonical ontology** merely because this guide names them:
+
+| Symbol / phrase | Read it as | Role in the investigations | Status |
+|---|---|---|---|
+| `O` | origin | UCL origin-condition placeholder | Investigation placeholder |
+| `C_*` | C-star | Selector of identity-relevant causal features | **Open** |
+| `G_P` | G-sub-P | Process-continuity representation | Investigation notation |
+| `G_M` | G-sub-M | Material-provenance representation | Investigation notation |
+| `G ~ H` | G admissible/equivalent to H | Candidate representation-equivalence relation | Investigation placeholder |
+| `G*` | G-star | Proposed representation-independent common structure | **Open** |
+| `G*_1` | G-star-one | First concrete selective `G*` candidate; failed as construction | Candidate failure |
+| `Σ` | Sigma | Later identity-selection layer | **Untouched / Open** |
+
+### Colliding letters
+
+Single letters are **context-sensitive** across the canonical document and later investigations. Do not assume that a repeated letter has a single global meaning.
+
+| Letter / form | Canonical use | Later investigation use |
+|---|---|---|
+| `S` | Structure | Formal succession, typically `TC(Pass)` |
+| `P` | Structural property/predicate in the particularity proof | Process continuity; also `P(e)` for candidate actual performance |
+| `O` | UCL origin condition | `O_1` = concrete event-token existence; `O_2` = passage/becoming |
+| `I` | Level I: Existence | Present propositional interest in the Joint 3 history-mediated bridge |
+| `T` | No fixed canonical role | Candidate transition or temporal-succession relation, depending on the investigation |
+
+The remainder explains these items precisely and separates **formal mathematics**, **framework shorthand**, and **investigation scaffolding**. The word “legend” is used in the ordinary map sense: this document tells you how to read the symbols without itself becoming another map of the territory.
 
 ---
 
@@ -140,6 +160,8 @@ Read this as:
 
 > The automorphism group of `S` is not transitive on `S`.
 
+This equality is a **reading aid** that abbreviates the canonical prose definition; it is not a new official formula added by the legend.
+
 `Z` is **not an element of `S`**. It is not a location, object, region, or hidden observer. It is a structural fact about the transformation group.
 
 The central derived implication is:
@@ -171,6 +193,7 @@ is **not unconditional**. The canonical document explicitly makes it depend on w
 | `∨` | disjunction | “Or.” |
 | `⇒` | implication | The left proposition entails the right. |
 | `⇔` / `↔` | biconditional | Both directions hold. |
+| `⇏` / `↛` | non-entailment | The left does not entail the right in the stated context. |
 | `∀` | universal quantifier | “For every…” |
 | `∃` | existential quantifier | “There exists…” |
 | `∈` | membership | Element belongs to a set/domain. |
@@ -653,7 +676,7 @@ This section is part of the legend because several symbols are easy to overread.
 
 ## 22. Research notation beyond the canonical document
 
-The repository's later investigations introduce additional symbols. They are useful, but they are **not canonical ontology** merely because they appear here.
+The repository's later investigations introduce additional symbols. They are useful, but they are **not canonical ontology** merely because this guide names them.
 
 ### `P` and `M` in the Theseus investigations
 
