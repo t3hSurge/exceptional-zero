@@ -4,6 +4,16 @@ Significant conceptual and structural changes are recorded here. Routine wording
 
 ## 2026-08-29
 
+### Repository editing workflow
+
+- Codified patch-first editing in `WORKFLOW.md`: maintained documents should be edited from the exact current revision by the smallest practical patch, with the diff inspected before commit.
+- Prohibited reconstructing large canonical documents from conversational text for surgical edits; whole-file replacement is reserved for deliberate rewrites whose complete replacement has been independently verified.
+
+### Canonical math-rendering cleanup
+
+- Corrected remaining GitHub/MathJax rendering edge cases in `exceptional-zero.md` by using `\ast` for starred mathematical symbols and moving the dense representation-invariant architecture expression to a display-math block.
+- Preserved the canonical wording and epistemic content; this was a formatting-only maintenance pass.
+
 ### Legend refinement
 
 - Tightened `guides/legend-of-the-exceptional-zero.md` into a canonical-framework-only companion to `exceptional-zero.md`.
