@@ -58,15 +58,15 @@ $Z$ is **not** an element, location, region, hidden observer, or causal agent. I
 The central theorem is:
 
 $$
-\boxed{\operatorname{Particularity}(S)\Rightarrow Z(S)}
+\boxed{\mathrm{Particularity}(S)\Rightarrow Z(S)}
 $$
 
-Here $\operatorname{Particularity}(S)$ means that some element of $S$ is intrinsically singled out by a property expressible from the structure itself.
+Here $\mathrm{Particularity}(S)$ means that some element of $S$ is intrinsically singled out by a property expressible from the structure itself.
 
 The converse
 
 $$
-Z(S)\Rightarrow\operatorname{Particularity}(S)
+Z(S)\Rightarrow\mathrm{Particularity}(S)
 $$
 
 is **scope-dependent**. Under a broad invariant-property reading it can hold; under a restricted expressive language it can fail. Do not quote the converse without that qualification.
@@ -124,19 +124,13 @@ The first is not, by itself, a proof of the second.
 
 Joint 3 is a first-person belief, deliberately scoped to the particular self making the claim.
 
-Important distinctions:
+The framework does **not** derive reaching from finitude:
 
 $$
-\text{finitude}\not\Rightarrow\text{reaching}
+\text{finitude}\not\Rightarrow\text{reaching}.
 $$
 
-and:
-
-$$
-\boxed{\text{I cannot not reach}}
-$$
-
-is not a universal law governing all finite things.
+The statement is not a universal law governing all finite things.
 
 ### Joint 6 — “The world does not want back”
 
@@ -158,17 +152,7 @@ A structural condition can make something possible without making its occurrence
 
 This is the **Actualization Boundary** and its status is **Regulative Principle**.
 
-It is a guard against silently moving from:
-
-$$
-\text{what a structure permits}
-$$
-
-to:
-
-$$
-\text{what actually occurs}.
-$$
+It is a guard against silently moving from what a structure permits to what actually occurs.
 
 ---
 
@@ -189,7 +173,7 @@ $$
 
 The framework does not derive Level IV from Level III.
 
-For-This remains a **Boundary**: attempts to bridge the gap by third-person means encounter circularity, target-shift, or underdetermination.
+For-This remains a **Boundary**: attempted third-person bridges encounter circularity, target-shift, or underdetermination.
 
 ---
 
@@ -198,8 +182,6 @@ For-This remains a **Boundary**: attempts to bridge the gap by third-person mean
 The framework investigated several candidate reductions of truth, including correspondence, causal tracking, pragmatic success, causal provenance, and distinction-preservation.
 
 No non-circular reductive analysis succeeded.
-
-The canonical status is therefore:
 
 $$
 \boxed{\text{No non-circular reductive analysis of truth has succeeded.}}
@@ -293,7 +275,7 @@ $$
 G^*_{\mathrm{phys}}=(V,E,\tau).
 $$
 
-It is recorded as:
+Its status is:
 
 $$
 \boxed{G^*_1\text{ failed as a construction}}
@@ -307,13 +289,11 @@ $$
 
 ---
 
-## 11. What the legend does not contain
+## 11. Reading rule for investigations
 
-Later investigations develop their own local notation, hypotheses, and test objects. They are deliberately **not catalogued here**.
+Later investigations develop their own local notation, hypotheses, and test objects. They are deliberately **not catalogued in this legend**.
 
-A research symbol does not become canonical merely because it is reused or given a name.
-
-Read each investigation on its own terms and use its own definitions and status labels.
+A research symbol does not become canonical merely because it is reused or given a name. Read each investigation on its own terms and use its own definitions and status labels.
 
 > **This is the map legend, not the archive of every road explored beyond the map.**
 
@@ -324,7 +304,7 @@ Read each investigation on its own terms and use its own definitions and status 
 If you remember only the canonical symbolic spine, remember:
 
 $$
-\boxed{\operatorname{Particularity}(S)\Rightarrow Z(S)}
+\boxed{\mathrm{Particularity}(S)\Rightarrow Z(S)}
 $$
 
 with:
@@ -347,7 +327,7 @@ $$
 \boxed{\text{representation-useful}\neq\text{identity-useful}}
 $$
 
-The canonical identity architecture remains:
+The identity architecture remains:
 
 $$
 O
@@ -358,7 +338,5 @@ C_*
 \rightarrow
 J_{\mathrm{cut}}.
 $$
-
-And the governing discipline remains:
 
 > **Do not turn a question mark into an answer by notation alone.**
