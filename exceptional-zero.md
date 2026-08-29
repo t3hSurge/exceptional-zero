@@ -166,7 +166,7 @@ A precise ladder was built to separate ideas that are usually blurred together:
 
 ### 4.2 The Word "For-This"
 
-A deliberately awkward term was coined for level IV, precisely *because* of its awkwardness. "Experience," "consciousness," and "subjectivity" were all rejected as names, because each one already assumes an answer the investigation refuses to presuppose. "For-this" says only: something exists, and there is a "for" associated with that particular — nothing more, no theory of what that "for" ultimately is.
+A deliberately awkward term was coined for level IV, precisely *because* of its awkwardness. "Experience," "consciousness," and "subjectivity" were all rejected as names, because each one already assumes an answer the investigation refuses to presuppose. "For-this" says only: something exists, and there is a "for" associated with it — nothing more, no theory of what that "for" ultimately is.
 
 The grammatical point beneath this: mass, charge, and causal relation are all sayable in third-person language, about an object, without loss. "There is something it is like for this particular to be this particular" does not appear to be that kind of claim. It may not be a *property* at all, in the ordinary sense — a possibility, not yet a conclusion.
 
@@ -200,7 +200,7 @@ One further subtlety was isolated and correctly contained: having a for-this *ab
 
 ### 5.1 The Question
 
-Truth was investigated separately from consciousness: what makes a statement true, beyond being believed, useful, or causally connected to reality — and is there an account that doesn't just collapse into one of those?
+Separately from consciousness: what makes a statement true, beyond being believed, useful, or causally connected to reality — and is there an account that doesn't just collapse into one of those?
 
 ### 5.2 Candidates Tested
 
