@@ -131,7 +131,7 @@ The exact content is that a genuine structural property cannot distinguish an ob
 ### `Aut(S)`
 
 $$
-\operatorname{Aut}(S)
+\mathrm{Aut}(S)
 $$
 
 is the automorphism group of `S`: all structure-preserving self-maps of `S` under composition.
@@ -143,7 +143,7 @@ The group action is transitive when every element can be carried to every other 
 Informally:
 
 $$
-\forall x,y\in S\;\exists\varphi\in\operatorname{Aut}(S):\varphi(x)=y.
+\forall x,y\in S\;\exists\varphi\in\mathrm{Aut}(S):\varphi(x)=y.
 $$
 
 The canonical document usually states this in prose rather than insisting on one fixed symbolic rendering.
@@ -153,7 +153,7 @@ The canonical document usually states this in prose rather than insisting on one
 The formal correspondent of the Exceptional Zero is:
 
 $$
-Z(S)=\neg\operatorname{Transitive}(\operatorname{Aut}(S)).
+Z(S)=\neg\mathrm{Transitive}(\mathrm{Aut}(S)).
 $$
 
 Read this as:
@@ -723,7 +723,7 @@ These are investigation symbols, not canonical additions to the framework.
 A primitive candidate relation:
 
 $$
-\operatorname{Pass}(A,B)
+\mathrm{Pass}(A,B)
 $$
 
 intended to mean actual passage.
@@ -735,7 +735,7 @@ The investigations found that a formal relation can be atemporal while the inten
 In later investigations, `S` may also be reused for **formal succession**, often as the transitive closure of primitive passage:
 
 $$
-S=\operatorname{TC}(\operatorname{Pass}).
+S=\mathrm{TC}(\mathrm{Pass}).
 $$
 
 Do not confuse this later use with the foundational `S` used for “structure.” Context is decisive.
@@ -751,7 +751,7 @@ $$
 for “event `e` is actually performed,” and:
 
 $$
-Occ(e)
+\mathrm{Occ}(e)
 $$
 
 for occurrence.
@@ -763,13 +763,13 @@ These were deliberately kept as candidate primitives or research predicates rath
 Research notation also experiments with:
 
 $$
-Act(x)
+\mathrm{Act}(x)
 $$
 
 for actuality and:
 
 $$
-Conc(x)
+\mathrm{Conc}(x)
 $$
 
 for atemporal concreteness.
@@ -891,7 +891,7 @@ where:
 
 $$
 \boxed{
-Z(S)=\neg\operatorname{Transitive}(\operatorname{Aut}(S)).
+Z(S)=\neg\mathrm{Transitive}(\mathrm{Aut}(S)).
 }
 $$
 
@@ -940,7 +940,7 @@ $$
 Finally, the status lock:
 
 $$
-\boxed{G^*_1\text{ failed}}\neq\boxed{\text{selective }G^*\text{ impossible}}.
+\boxed{G^*_1\text{ failed as a concrete selective construction}}\neq\boxed{\text{selective }G^*\text{ impossible}}.
 $$
 
 ---
