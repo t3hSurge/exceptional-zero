@@ -4,6 +4,14 @@ Significant conceptual and structural changes are recorded here. Routine wording
 
 ## 2026-08-28
 
+### Notation legend / educational guide layer
+
+- Added `guides/legend-of-the-exceptional-zero.md` as a companion legend for the framework's symbolic language.
+- Designed the legend as a navigational document rather than a second canonical formulation: canonical notation is separated from later investigative scaffolding, and placeholders are explicitly distinguished from established ontology.
+- Documented the core symbols `S`, `P`, `φ`, `Aut(S)`, `Z(S)`, `O`, `C_*`, `J_cut`, `G_P`, `G_M`, `G ~ H`, `G*`, `G*_1`, and `Σ`, together with logical operators and the framework's status labels.
+- Added an explicit warning that arrows, brackets, and research symbols are context-sensitive and do not acquire stronger epistemic status by repetition.
+- Updated the root `README.md` to add `guides/` as the educational/bridging document layer and link the new legend.
+
 ### Verb-first / fixed-point investigation
 
 - Added `investigations/2026-08-28-verb-first-fixed-point-test.md` to formalize the new verb-first line of questioning.
