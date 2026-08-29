@@ -2,6 +2,15 @@
 
 Significant conceptual and structural changes are recorded here. Routine wording edits remain in Git history.
 
+## 2026-08-29
+
+### Legend refinement
+
+- Tightened `guides/legend-of-the-exceptional-zero.md` into a canonical-framework-only companion to `exceptional-zero.md`.
+- Removed later investigation notation and research-local symbols from the legend rather than allowing it to become a second research index.
+- Kept the legend focused on canonical symbols, epistemic statuses, logical distinctions, the Actualization Boundary, and the canonical diachronic-identity architecture.
+- Preserved the GitHub/MathJax-compatible formatting standard: `$...$` for inline mathematics and `$$...$$` for display mathematics.
+
 ## 2026-08-28
 
 ### Notation legend / educational guide layer
