@@ -214,7 +214,7 @@ Separately from consciousness: what makes a statement true, beyond being believe
 
 ### 5.3 The Regress That Dissolved
 
-An attempt was made to find a *unifying proof* — a Bradley-style regress showing that any relational account of truth must fail structurally, the way totality was proven incapable of containing a "this." This was tested rigorously and did **not** survive: the escape ("relating is simply what a relation does, without needing a further fact to ground it") was found valid. The regress never actually got started. This closed off the tempting hope that truth's difficulties were a clean echo of the Cut's. They are not shown to share that structure. **Same family, not the same edge** — a phrase used deliberately to resist a poetic-but-unearned unification.
+An attempt was made to find a *unifying proof* — a Bradley-style regress showing that any relational account of truth must fail structurally, the way totality was proven incapable of containing a "this." This was tested rigorously and did **not** survive: the escape ("relating is simply what a relation does, without needing a further fact to ground it") was found valid. The regress never actually got started. This closed off the tempting hope that truth's difficulties were a clean echo of the Cut's. They are not shown to share that structure. **Same family, not yet the same edge** — a phrase used deliberately to resist a poetic-but-unearned unification.
 
 ### 5.4 Primitivism, Tested Rather Than Assumed
 
@@ -390,7 +390,7 @@ Several standing tools were developed over the course of the investigation and a
 - **The target-shift check.** Before accepting that a candidate succeeds, check whether it actually explains something *adjacent* to the question rather than the question itself.
 - **The diagnostic rerun.** An already-derived result can be transplanted into an unfamiliar domain specifically to surface hidden assumptions its original proof never had to confront. This is how diachronic identity was found.
 - **Honest labeling of beliefs.** When something cannot be derived but survives repeated testing, it is held openly as belief — never dressed up as proof, and never dismissed as arbitrary.
-- **Resisting premature unification.** Structural resemblances between separate results (the Cut and III→IV; the Cut and diachronic identity; the shape of truth's failures and the shape of for-this's failures) are named as resemblances and then specifically tested for whether they're the same underlying fact. Several were found not to be. "Same family, not the same edge" is the standing phrase for this distinction.
+- **Resisting premature unification.** Structural resemblances between separate results (the Cut and III→IV; the Cut and diachronic identity; the shape of truth's failures and the shape of for-this's failures) are named as resemblances and then specifically tested for whether they're the same underlying fact. Several were found not to be. "Same family, not yet the same edge" is the standing phrase for this distinction.
 
 ---
 
