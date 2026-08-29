@@ -322,7 +322,11 @@ $$
 
 A selective $G^*$ can constrain admissible representations without deciding the Theseus verdict. What remains unproved is concrete existence of a selectively bounded structure satisfying the full conjunction of independent bounding, representation usefulness, and identity neutrality.
 
-### 7.7 First Concrete Common-Structure Candidate: $G^*_1$
+### 7.7 First Concrete Common-Structure Candidate: 
+
+$$
+G^*_1
+$$
 
 The first concrete candidate was **Typed Physical Causal History**:
 
@@ -435,7 +439,7 @@ The investigation has deliberately not promoted a replacement for $G^*_1$, ranke
 
 ### Distinction, orientation, and actual transition
 
-The diachronic-identity program remains incomplete at $C_*$ / $G^*$. Subsequent investigation has exposed an upstream question concerning the relation between distinction, orientation, and actual transition. The Cut yields distinction; orientation can be specified without time and is not thereby transition. This pointer records that exposure only. It does not establish a theory of time or movement, does not alter Joint 3, and does not add a row to the status table.
+The diachronic-identity program remains incomplete at $C_*$ / $G^*$. Subsequent investigation has exposed an upstream question concerning the relation between distinction, orientation, and actual transition. This pointer records that exposure only. It does not establish a theory of time or movement, does not alter Joint 3, and does not add a row to the status table.
 
 ---
 
