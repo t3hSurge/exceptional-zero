@@ -352,7 +352,7 @@ $$
 \boxed{G^*_1\text{ fails as a concrete selective construction}}\qquad\text{but not}\qquad\boxed{\text{the selective class is impossible}}.
 $$
 
-What $G^*_1$ establishes is narrower and useful: **"typed physical causal history" is not, by itself, an independently bounded, representation-invariant selective common structure.** The selective branch remains open. No $G^*_2$ has been constructed, and the exhaustive branch remains separately open and untested.
+What $G^\ast_1$ establishes is narrower and useful: **"typed physical causal history" is not, by itself, an independently bounded, representation-invariant selective common structure.** The selective branch remains open. No $G^\ast_2$ has been constructed, and the exhaustive branch remains separately open and untested.
 
 ### 7.8 Standing Anti-Circularity and Representation Rule
 
@@ -422,7 +422,13 @@ Several standing tools were developed over the course of the investigation and a
 
 - **Truth** — an active, unfinished search. No proof that reduction is impossible; no successful reduction found.
 - **Diachronic identity** — UCL remains a provisional architecture-level survivor, not a completed reductive theory. The perfect-counterfeit / implanted-memory result is earned and robust; $J_{\text{cut}}$ is a workable partition once a causal graph is fixed; Ship of Theseus shows that $C_*$ is not yet independently determined.
-- **Representation-invariant causal selection** — can the missing selection of identity-relevant causal features be specified target-independently and remain stable under admissible refinement or coarse-graining? The live architecture is $G_P,G_M\rightarrow[\sim]\rightarrow[G^*]\rightarrow\Sigma$. Test A isolated the common-structure problem; Test B leaves selective and exhaustive $G^*$ branches open. The selective branch is abstractly viable but its first concrete candidate, $G^*_1$, failed. The exhaustive branch remains untested. $\Sigma$ remains untouched.
+- **Representation-invariant causal selection** — can the missing selection of identity-relevant causal features be specified target-independently and remain stable under admissible refinement or coarse-graining? The live architecture is:
+
+$$
+G_P,G_M\rightarrow[\sim]\rightarrow[G^\ast]\rightarrow\Sigma
+$$
+
+  Test A isolated the common-structure problem; Test B leaves selective and exhaustive $G^\ast$ branches open. The selective branch is abstractly viable but its first concrete candidate, $G^\ast_1$, failed. The exhaustive branch remains untested. $\Sigma$ remains untouched.
 - **The suffering-to-value bridge** — whether "suffering is the gap between wanting and non-reciprocation" licenses any route to "suffering is bad," without simply asserting the value rather than deriving it. Flagged early. Never yet tested.
 - **The recurring signature itself** — its broad exceptionless form is broken by the local UCL result. What remains open is whether a narrower, principled class of internal relational descriptions exhibits a provable counterfeit/non-isolation boundary, and whether further genuine survivors exist.
 
