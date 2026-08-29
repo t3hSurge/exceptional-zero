@@ -325,7 +325,7 @@ A selective $G^*$ can constrain admissible representations without deciding the 
 ### 7.7 First Concrete Common-Structure Candidate:
 
 $$
-G^*_1
+G^\ast_1
 $$
 
 The first concrete candidate was **Typed Physical Causal History**:
@@ -390,7 +390,7 @@ Several standing tools were developed over the course of the investigation and a
 - **The target-shift check.** Before accepting that a candidate succeeds, check whether it actually explains something *adjacent* to the question rather than the question itself.
 - **The diagnostic rerun.** An already-derived result can be transplanted into an unfamiliar domain specifically to surface hidden assumptions its original proof never had to confront. This is how diachronic identity was found.
 - **Honest labeling of beliefs.** When something cannot be derived but survives repeated testing, it is held openly as belief — never dressed up as proof, and never dismissed as arbitrary.
-- **Resisting premature unification.** Structural resemblances between separate results (the Cut and III→IV; the Cut and diachronic identity; the shape of truth's failures and the shape of for-this's failures) are named as resemblances and then specifically tested for whether they're the same underlying fact. Several were found not to be. "Same family, not yet the same edge" is the standing phrase for this distinction.
+- **Resisting premature unification.** Structural resemblances between separate results (the Cut and III→IV; the Cut and diachronic identity; the shape of truth's failures and the shape of for-this's failures) are named as resemblances and then specifically tested for whether they're the same underlying fact. Several were found not to be. "Same family, not the same edge" is the standing phrase for this distinction.
 
 ---
 
@@ -442,7 +442,7 @@ The investigation has deliberately not promoted a replacement for $G^*_1$, ranke
 The diachronic-identity program remains incomplete at:
 
 $$
-C_*/G^*
+C_\ast/G^\ast
 $$
 
 Subsequent investigation has exposed an upstream question concerning the relation between distinction, orientation, and actual transition. This pointer records that exposure only. It does not establish a theory of time or movement, does not alter Joint 3, and does not add a row to the status table.
