@@ -50,7 +50,47 @@ An investigation may end by resolving its question, by showing that a candidate 
 
 The repository may therefore contain several linked investigations that form a derivational sequence. Their relationship should be explicit, while their epistemic statuses remain distinct.
 
-## 5. Changelog
+## 5. Documentation and rendering standard
+
+Repository documentation is authored in **GitHub-compatible Markdown**. GitHub rendering is the baseline human-readable presentation; local editors such as Obsidian or Typora may provide enhanced rendering but are not required to read the documentation.
+
+### 5.1 Mathematical notation
+
+Use Markdown math syntax that renders consistently on GitHub and in common MathJax-based Markdown readers:
+
+- **Inline mathematics:** `$...$`
+- **Display/block mathematics:** `$$...$$`
+- **LaTeX commands:** use standard MathJax/LaTeX inside those delimiters.
+
+For example:
+
+```markdown
+The central implication is $\operatorname{Particularity}(S)\Rightarrow Z(S)$.
+
+$$
+\boxed{\operatorname{Particularity}(S)\Rightarrow Z(S)}
+$$
+```
+
+Use `\boxed{...}` only inside a math block when a visual box is actually part of the intended mathematical presentation.
+
+Prefer mathematical delimiters over raw Unicode for formal expressions when the expression contains operators, superscripts, subscripts, or other structure that benefits from consistent rendering. Unicode is fine for ordinary prose and standalone symbols where it improves readability.
+
+### 5.2 Markdown versus literal code
+
+Use backticks for filenames, paths, literal identifiers, code, and repository structure, for example `exceptional-zero.md` or `C_*` when the identifier itself is being discussed as code/literal text. Use math delimiters when the item is being presented as mathematics, for example $C_*$.
+
+Do not use editor-specific extensions for essential meaning or presentation. Core content should remain understandable in raw Markdown and readable in the GitHub-rendered view.
+
+### 5.3 Scope of the standard
+
+This rendering standard applies to canonical documents, guides, repository policy, and other maintained human-facing documentation.
+
+`investigations/` is a historical research layer. Existing investigation files do not need to be reformatted merely to conform to this standard. New or substantially revised investigation documents should prefer the common syntax when practical, but preserving historical wording and formatting is more important than cosmetic normalization.
+
+The **Legend of the Exceptional Zero** is the notation guide for what symbols mean; this section is the repository guide for how those symbols are written and rendered in Markdown.
+
+## 6. Changelog
 
 `CHANGELOG.md` records significant conceptual and structural changes, not routine wording edits.
 
@@ -65,7 +105,7 @@ Use it for changes such as:
 
 Git commit history remains the detailed record of all edits.
 
-## 6. Suggested work cycle
+## 7. Suggested work cycle
 
 For a substantive investigation or proposed change:
 
@@ -78,7 +118,7 @@ For a substantive investigation or proposed change:
 7. **Accept deliberately.** Only then incorporate an accepted conclusion into `exceptional-zero.md` on `main`.
 8. **Record the milestone.** Add a concise entry to `CHANGELOG.md` when the conceptual or structural change is significant.
 
-## 7. Epistemic discipline
+## 8. Epistemic discipline
 
 The repository follows the same discipline as the framework itself:
 
