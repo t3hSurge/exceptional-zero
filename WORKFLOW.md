@@ -88,9 +88,11 @@ This is preferred to forcing a dense expression such as `$G_P,G_M\rightarrow[\si
 
 For simple inline identifiers with subscripts or superscripts, ordinary `$...$` is acceptable when the surrounding Markdown parser will not reinterpret the notation. When in doubt, use a display block.
 
+**Use `\ast` instead of a raw `*` for starred mathematical symbols.** GitHub's Markdown preprocessing can reinterpret raw asterisks even inside otherwise valid math. Write `$G^\ast$`, `$G^\ast_1$`, and `$C_\ast$` rather than `$G^*$`, `$G^*_1$`, or `$C_*$`. This is especially important for symbols combining stars with subscripts, and it keeps the source portable across GitHub and MathJax-based readers.
+
 **Do not rely on `\operatorname{...}` in repository mathematics.** GitHub's math renderer is stricter than a full MathJax environment. Use portable forms such as `\mathrm{...}` instead. For example, write `$\mathrm{Aut}(S)$` rather than `$\operatorname{Aut}(S)$`.
 
-**Do not unnecessarily escape LaTeX subscripts inside math delimiters.** In mathematical mode, write `$G^*_1$` rather than `$G^*\_1$`. The escaped underscore can render incorrectly when mixed with Markdown parsing. If the expression is too Markdown-sensitive for safe inline use, move it to a display block instead.
+**Do not unnecessarily escape LaTeX subscripts inside math delimiters.** In mathematical mode, write `$G^\ast_1$` rather than `$G^*\_1$`. The escaped underscore can render incorrectly when mixed with Markdown parsing. If the expression is too Markdown-sensitive for safe inline use, move it to a display block instead.
 
 Prefer mathematical delimiters over raw Unicode for formal expressions when the expression contains operators, superscripts, subscripts, or other structure that benefits from consistent rendering. Unicode is fine for ordinary prose and standalone symbols where it improves readability.
 
