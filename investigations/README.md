@@ -15,6 +15,9 @@ Open files are not equally live. This index distinguishes **current frontier**, 
 - [2026-08-28-verb-first-fixed-point-test.md](2026-08-28-verb-first-fixed-point-test.md)  
   **Foundational verb-first line.** Tests whether genuinely verb-first ontology can exclude self-exhausting relational fixed points. Relation-first plus finitude does not force a hinge; a cyclic/processive fixed point remains a counterpressure. Verb-first has not yet been specified strongly enough to derive non-self-exhaustion or the Exceptional Zero.
 
+- [2026-09-03-methodological-enclosure.md](2026-09-03-methodological-enclosure.md)  
+  **Third-order methodological enclosure.** M1–M3 (internal error, overreach, missing candidate) are already within reach. M4 asks whether the methodology can detect a missing *category*, not merely a missing candidate. Meta-Boundary is an unadopted candidate label. No canonical status change.
+
 ## Active — downstream open investigations
 
 These remain genuinely open. They are not the current overall bottleneck.
@@ -55,17 +58,10 @@ These files remain part of the derivational chain. They are not the current fron
 
 ## Current research bottleneck
 
-**Can “atemporal” be specified without presupposing the temporal/performance content it is meant to exclude?**
+**Object-level:** Can “atemporal” be specified without presupposing the temporal/performance content it is meant to exclude?
 
-The latest occurrence/performance continuation has established only bounded results: concreteness can model actual existence of event tokens; no tested atemporal construction yields passage or performance distinct from temporal succession; performance is not definable or supervenient relative to the tested atemporal vocabulary; and no tested non-circular criterion for atemporality has been found. A universal statement about every conceivable atemporal ontology is not earned.
+**Method-level (parallel, not a replacement):** Can the methodology establish a non-circular criterion by which its own admissibility conditions could be shown inadequate?
 
-This layer is upstream of the identity sequence. That sequence remains in place and is not closed:
+The occurrence/performance continuation has established only bounded results. The verb-first line remains parallel and has not derived the hinge. The enclosure investigation has isolated M4 and has not constructed $M'$, $Q$, or a sixth status.
 
-- `G*_1` failed as a candidate; selective `G*` remains open; exhaustive `G*` remains untested; `Σ` remains untouched.
-- Bare Joint 3 does not entail propositional interest. History-mediated interest remains open only as `J3 + H_R + L → I`, with ownership filter and `L` unconstructed.
-- Interest-relative identity remains unpromoted. The five-way fork remains unranked.
-- For-this does not supply a determinate `C_*` under the tested formulations; for-this itself remains unchanged in status.
-
-The verb-first line is foundational and parallel to the current frontier, not a replacement for it: relation-first plus finitude does not force a hinge, and the stronger verb-first condition remains to be made formally discriminating. No conclusion about the Exceptional Zero has been promoted from that line.
-
-Do not invent a mover or a time primitive. Do not construct `G*_2` merely to continue the prior sequence. Do not treat the AT-battery's constructive failures as a universal impossibility theorem. Do not treat the verb-first fixed-point counterpressure as a hinge derivation.
+Identity work remains downstream and incomplete. Do not invent a mover or a time primitive. Do not construct `G*_2`. Do not treat the AT-battery as a universal impossibility theorem. Do not adopt Meta-Boundary as a canonical status.
