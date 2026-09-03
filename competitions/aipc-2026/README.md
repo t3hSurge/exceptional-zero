@@ -1,4 +1,4 @@
-# AIPC 2026 — workspace
+# AIPC 2026 — public apparatus
 
 **Competition:** [AI Philosophy Competition, 1st edition](https://www.zacharygoodsell.com/ai-philosophy-competition)  
 **Rules:** [Detailed rules](https://www.zacharygoodsell.com/ai-philosophy-competition-rules)  
@@ -17,36 +17,37 @@ The competition is an external stress test. It is not validation of the framewor
 |---|---|
 | `exceptional-zero.md` | Frozen for this project. Not a submission. |
 | `investigations/` | Prior research record. Not copied into essays. |
-| `competitions/aipc-2026/` | Only place competition essays, logs, and the methodology report live. |
+| `competitions/aipc-2026/` | Public apparatus only: protocol, topics, contracts, ledger. |
+| `t3hSurge/aipc-2026` (private) | Essay bodies and full generation logs. |
 
-An essay distilled from the existing repo would import arguments produced under rigorous human–AI critique. The rules list that as **not permitted**.
+An essay distilled from the public research record would import arguments produced under rigorous human–AI critique. The rules list that as **not permitted**.
 
-So the essays in this folder must be generated under the protocol in [`PROTOCOL.md`](PROTOCOL.md): the AI is the sole author of positions and arguments; the human may choose topics, apply generic method constraints, select among drafts, and give permitted corrective direction.
-
-The methodology report may describe the prior Exceptional Zero process as **why these topics were chosen**. It may not treat that process as the source of the essay’s arguments.
-
----
-
-## Publication risk
-
-Submissions must be unpublished. This repository is public. Drafts committed here may count as publication.
-
-Until that is resolved: keep essay bodies out of `main` if possible, or treat anything committed as already public and therefore risky. Logs and protocol documents are less sensitive than finished essays.
+Essays are generated under [`PROTOCOL.md`](PROTOCOL.md). The methodology report may say *why* the questions were chosen. It may not treat Exceptional Zero as the source of the essay arguments.
 
 ---
 
-## Contents
+## Publication
 
-- [`PROTOCOL.md`](PROTOCOL.md) — generation rules that track the competition’s permitted / not-permitted lists
-- [`TOPICS.md`](TOPICS.md) — candidate questions only; no arguments
-- [`METHODOLOGY-OUTLINE.md`](METHODOLOGY-OUTLINE.md) — skeleton for the required report
-- `essays/` — empty until a generation pass is run under the protocol
-- `logs/` — retain chat logs as the rules request
+“Off `main`” is not privacy. This repository is public; every branch is public.
+
+Essay text and generation logs go in the **private** repository `t3hSurge/aipc-2026` until the organizers confirm that a public GitHub commit is not prior publication.
 
 ---
 
-## Immediate human tasks (not essay work)
+## Contents (this public folder)
 
-1. Create an OpenReview account now. Registration can take up to two weeks without institutional affiliation.
-2. Decide whether finished essays stay off `main` until submission.
-3. Do not treat a prize, or the lack of one, as a status change for Exceptional Zero.
+- [`PROTOCOL.md`](PROTOCOL.md)
+- [`PROVENANCE.md`](PROVENANCE.md)
+- [`RULES-LOCK.md`](RULES-LOCK.md)
+- [`TOPICS.md`](TOPICS.md)
+- [`RUN-CONTRACT.md`](RUN-CONTRACT.md)
+- [`METHODOLOGY-OUTLINE.md`](METHODOLOGY-OUTLINE.md)
+- [`LEDGER.md`](LEDGER.md)
+
+---
+
+## Immediate human tasks
+
+1. Finish OpenReview signup.
+2. Confirm access to private `t3hSurge/aipc-2026`.
+3. Do not treat a prize as a status change for Exceptional Zero.
