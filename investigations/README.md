@@ -2,7 +2,7 @@
 
 Bounded questions, tests, counterexamples, and formal checks. An investigation does not automatically alter the canonical framework.
 
-Open files are not equally live. This index distinguishes **current frontier**, **active dependencies**, and **retained derivational record**.
+Open files are not equally live. This index distinguishes **current frontier**, **active dependencies**, **complete at this level**, and **retained derivational record**.
 
 ## Active — current frontier
 
@@ -15,8 +15,12 @@ Open files are not equally live. This index distinguishes **current frontier**, 
 - [2026-08-28-verb-first-fixed-point-test.md](2026-08-28-verb-first-fixed-point-test.md)  
   **Foundational verb-first line.** Relation-first plus finitude does not force a hinge. Verb-first is not yet strong enough to derive the Exceptional Zero.
 
+## Complete at this level
+
+These files identified a precise stopping point. Further work would require machinery they have no independent warrant to introduce. Completion at this level is not a solution and not a sixth status.
+
 - [2026-09-03-methodological-enclosure.md](2026-09-03-methodological-enclosure.md)  
-  **Third-order methodological enclosure.** Evidence trilemma isolated as a symptom. $A$'s event inventory has no row for failure of the representation-level itself. Next: does $A$ contain a level-ascent event-type? Meta-Boundary remains unadopted.
+  Self-audit bottoms out without distinguishing boundary from unfinished method. The `?` is empty. Meta-Boundary is unadopted. Not representable by $A$ implies neither falsity of $X$ nor inadequacy of $A$.
 
 ## Active — downstream open investigations
 
@@ -47,6 +51,4 @@ These remain genuinely open. They are not the current overall bottleneck.
 
 **Object-level:** Can “atemporal” be specified without presupposing the temporal/performance content it is meant to exclude?
 
-**Method-level:** Does $A$ contain an event-type for recognizing failure of the level at which the current failure is being represented?
-
-Do not adopt Meta-Boundary. Do not construct $M'$ or $Q$ to fill the missing inventory row. Do not treat accumulation of lower-level failures as automatic ascent. Do not invent a mover, time primitive, or `G*_2`.
+The methodological-enclosure investigation is complete at this level. Do not invent a meta-methodology merely because self-audit bottomed out. Do not treat “unknown which” as a sixth status. Do not invent a mover, time primitive, or `G*_2`.
