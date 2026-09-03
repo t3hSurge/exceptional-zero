@@ -244,12 +244,17 @@ $$
 
 Two illegitimate ascents:
 
-- “We found something $A$ cannot represent, therefore $A$ is inadequate.”
-- “$A$ does not recognize model-space failure, therefore model-space failure is not real.”
+$$
+A \not\supseteq X \;\not\Rightarrow\; A\text{ is inadequate}.
+$$
+
+$$
+X \notin A \;\not\Rightarrow\; X\text{ is unreal}.
+$$
 
 ---
 
-## 16. Current result
+## 16. Current result before the self-audit lock
 
 $$
 \boxed{
@@ -271,28 +276,60 @@ $$
 
 ---
 
-## 17. Next pressure — representational self-audit
-
-Do not fill the $?$. Do not construct $M'$ or $Q$. Do not add a sixth status.
+## 17. Representational self-audit — three preserved outcomes
 
 $$
 \boxed{
-\text{Can a methodology detect a failure of its own representational level without presupposing a representational level capable of expressing that failure?}
+\text{Can }A\text{ detect failure of the representational level on which }A\text{ itself operates?}
 }
 $$
 
-This is not a conclusion. It is the next pressure.
+The detecting level cannot be $A$ wearing a different hat.
 
-If yes: the detecting level must be specified independently of the failed level, without becoming a disguised restatement of $A$, and without an escape hatch.
+Three outcomes worth preserving. None is selected.
 
-If no among tested formulations: self-audit bottoms out. That stall would not yet tell us whether the bottom is an epistemic boundary or an unfinished method.
+1. **Independent detector exists.** Then model-space failure can actually be tested.
+2. **Every proposed detector presupposes the representational capacity under examination.** Then there is a genuine self-audit stall.
+3. **Something else emerges.** Record it without forcing it into (1) or (2).
 
-If the question cannot even be posed without already using a level that can express “representational failure,” the question exhibits the same shape it is asking about. Record that shape. Do not promote it.
+Even outcome 2 does not establish:
+
+$$
+\text{self-audit bottoms out}\;\Rightarrow\; A\text{ is inadequate}.
+$$
+
+It would establish only that the present investigation cannot discriminate “boundary” from “unfinished method.” That is a methodological result precisely because it refuses to become a metaphysical result.
 
 ---
 
-## 18. Discipline
+## 18. Recursion boundary, kind unknown
 
-Accumulation of stalls is not automatic ascent. The $?$ stays empty.
+Potential recursion:
+
+$$
+\text{candidate}\ \rightarrow\ \text{class}\ \rightarrow\ \text{vocabulary}\ \rightarrow\ \text{methodology}\ \rightarrow\ \text{detector of methodology}\ \rightarrow\ \cdots
+$$
+
+Adding a rung merely because the previous rung stalled is forbidden by $A$'s own rules.
+
+The investigation has encountered something like a recursion boundary without yet knowing whether that boundary is intrinsic, contingent, methodological, or an artifact of this test.
+
+$$
+\boxed{\text{unknown which}}
+$$
+
+is the correct result about the kind of boundary. It is not a filling of the $?$.
+
+---
+
+## 19. Endpoint
+
+The $?$ stays empty. This line is the current endpoint because the refusal to call it an answer is the successful outcome of the test, not because it is the answer:
+
+$$
+\boxed{
+\text{Self-audit bottoms out here without yet distinguishing boundary from unfinished method.}
+}
+$$
 
 No sixth status. No escape hatch. No canonical edit. No Meta-Boundary.
