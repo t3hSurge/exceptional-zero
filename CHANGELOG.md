@@ -4,6 +4,20 @@ Significant conceptual and structural changes are recorded here. Routine wording
 
 ## 2026-09-03
 
+### The Open Cut
+
+- Added `investigations/2026-09-03-open-cut.md` as a pressure reversal of the enclosure investigation, not a rewrite of its stall.
+- Treated $R$ and $H_{\mathrm{OC}}$ as unadopted candidates. Cut-identification was a hypothesis to kill.
+- Ran OC1–OC5.
+- OC1: no tested candidate converts usefulness of stopping into necessity of terminal closure.
+- OC2: no tested requirement for inquiry demands more than revisable provisional stopping. Frame-relative finality (proof-in-$S$, institutional verdict) is real and is not Final(inquiry).
+- OC3: no genuine contradiction isolated among the tested formulations of indefinite revisability. Accepted_t(X) does not imply X is permanently true.
+- OC4: no tested final criterion survived its own reassessment as permanently beyond reassessment. Frame-decisive sufficiency was found; permanent exemption was not produced from it.
+- OC5: the demand for a final boundary was not shown to be the Cut. $H_{\mathrm{OC}}$ fails in the wide reading and is not a substantial theorem in the narrow reading. Terminal closure was not shown illicit or impossible.
+- Standing distinction of the investigation: Complete(I) does not imply Final(I). Particularity is not terminality.
+- Shape of the result: necessity of a terminal boundary remains unestablished — not “inquiry is necessarily open.”
+- Enclosure endpoint left intact. Canonical document untouched.
+
 ### Methodological enclosure (third-order)
 
 - Added `investigations/2026-09-03-methodological-enclosure.md`.
