@@ -1,9 +1,9 @@
 # Act Behind Structure
 
 **Date:** 2026-09-03  
-**Status:** Open — construction pass + AB6 run  
-**Related:** `2026-09-03-description-as-act-metaphysical-test.md` (parent intuition; not a premise)  
-**Not in scope:** canonical edit; AT conclusions as lemmas; verb-first as lemmas; “actuality must be an act”; mover; time primitive; `G*_2`; AIPC essays
+**Status:** Open — A/B/C + AB6 + AB7 run  
+**Related:** `2026-09-03-description-as-act-metaphysical-test.md` (not a premise)  
+**Not in scope:** canonical edit; AT or verb-first as lemmas; “actuality must be an act”; $Z(S)$ as particularity; mover; time primitive; `G*_2`; AIPC essays
 
 Target:
 
@@ -11,133 +11,119 @@ $$
 \boxed{\text{Can we construct genuinely actual, structurally determinate, act-free reality?}}
 $$
 
-Anti-redescription rule:
-
 $$
 \boxed{\text{Redescription is not evidence of metaphysical dependence.}}
 $$
 
-Noun-to-verb paraphrase does not prove an act. Refusal of act-vocabulary does not prove act-freedom.
+$$
+\boxed{\text{particularity}\;\neq\; Z(S)}
+$$
 
-AT and verb-first results are **not premises** here.
+for this investigation.
 
 ---
 
-## Construction pass (A/B/C)
+## Locked
 
-### A. Actual-by-designation
+A: designation $\neq$ metaphysical actuality.
 
-$$\mathcal{M}=(W,S,@)$$
+B: primitive $\operatorname{Exists}$ live and unearned after AB6.
 
-One world designated actual. No primitive act, performance, execution, transition, or process.
+C: timeless completeness proves neither act-freedom nor act-dependence.
 
-Formally coherent and static. $@$ selects. It does not explain why $w^*$ is metaphysically actual rather than labelled.
-
-$$
-\boxed{\text{designation of actuality}\;\neq\;\text{metaphysical actuality}}
-$$
-
-### B. Actual-as-primitive-existence
-
-Drop the modal apparatus. Structurally determinate $S$ with $\operatorname{Exists}(S)$. No act-like primitive.
-
-Strongest initial act-free candidate. Completeness not earned until $\operatorname{Exists}$ has content other than “$S$ is actual.”
-
-### C. Eternal completed structure
-
-A complete timeless relational structure that exists. No becoming primitive.
-
-$$
-\text{timeless completeness}\;\neq\;\text{act-freedom proven}
-$$
-
-$$
-\text{timeless completeness}\;\neq\;\text{act-dependence proven}
-$$
-
-Isolated:
-
-$$
-\boxed{\text{actuality-as-designation}\;\neq\;\text{actuality-as-existence}}
-$$
-
-$$
-\boxed{\text{primitive actuality}\;\neq\;\text{explained actuality}}
-$$
-
-No theorem for or against the act hypothesis from A/B/C alone.
+AB6: $\operatorname{Exists}(S)$ acquired no tested content beyond actuality, apart from an unresolved particularity remainder. Primitive existence was not shown unintelligible. Actuality was not shown to be an act.
 
 ---
 
-## AB6 — Primitive Existence Attack
+## AB7 — Particularity-as-Existence
 
-Not asked: whether primitive existence is “satisfactory.”
+Attempted construction:
 
-Asked: whether $\operatorname{Exists}(S)$ has content beyond “this structure is actual.”
+$S$ structurally determinate, $S$ actual, $S$ particular, $\mathrm{Act}(S)=\varnothing$, and no temporal, causal, performative, actualizing, or occurrence primitive.
 
-Object remains:
+Irreducibility is not counted as explanation.
+
+Three questions, not collapsed:
+
+**P1.** Does particularity distinguish $S$ from merely possible structures?
+
+**P2.** If yes, what makes that distinction metaphysically substantive?
+
+**P3.** Does that substance require act-like content?
+
+### Strongest act-free case tried
+
+$S$ is this structure by primitive non-act thisness. No realization, selection, instantiation, obtaining, or production is named.
+
+That case is *coherent as a primitive ontology*. Coherence is not yet an account of actuality.
+
+### P1
+
+Particularity distinguishes a token from a type. A fully specified type of $S$ is not yet this $S$.
+
+It does **not** by itself distinguish this $S$ from a merely possible particular. A non-actual world-description can also contain tokens.
+
+P1 is a clean yes only if possible particulars are forbidden. Forbidding them *identifies* particular with actual. That is the rename failure, not a result.
+
+### P2
+
+Contrastive difference (“not those other structures”) is available to possible structures too.
+
+A privileged index in a completed totality is designation (near A).
+
+Primitive thisness is substantive only as a further primitive. AB7 refuses to treat that irreducibility as an explanation of actuality.
+
+Possessing a unique property does not explain why the possessor exists.
+
+### P3
+
+Thisness as a primitive status need not be act-like. No act was forced into the strongest case.
+
+Using thisness to *carry actuality* did force one of the failure modes:
+
+- **Rename:** “this structure is this structure” / “only the actual is a this.”
+- **Designation:** a privileged label or world-index picks $S$ out.
+- **Hidden act:** instantiation, realization, selection, obtaining, being-made-this.
+- **Too strong:** causal or productive powers added to particularity.
+
+### Fork kept
 
 $$
-\boxed{\text{actual structure}+\text{primitive existence}+\text{no act-like ontology}}
+\boxed{\text{particularity as difference}\;\neq\;\text{particularity as actuality}}
 $$
 
-### Characterizations tested
+AB7 tried to make the contrary case. It did not succeed among the tested accounts. The fork is not thereby a theorem that particularity cannot be actuality; the identification was not independently earned.
 
-**Quantificational.** To exist is to be the value of a bound variable. A merely possible structure can be quantified over. Too weak.
-
-**Domain membership.** “In the domain of what there is.” “What there is” restates actuality.
-
-**Mathematical non-emptiness.** A possible $S$ can be non-empty as an abstract object. Too weak.
-
-**Consistency / realizability.** Consistency is possibility, not existence.
-
-**Occupying a manifold / having causal powers.** Adds location or causal role. That is *more* than primitive existence. It may also import process. Too strong for this candidate, and not shown act-free.
-
-**Obtaining / being the case / being real.** Synonyms of actuality. Collapse by paraphrase, not an independent characterization.
-
-**Existence as a real predicate.** If existence adds no property to $S$, $\operatorname{Exists}(S)$ does not distinguish $S$ from a fully specified merely-structural $S$. Then the candidate reduces to inventory-stipulation (near A).
-
-**Particularity / thisness.** $S$ is a token, not a type. This is the only tested characterization that is not immediately too weak, too strong, or a synonym. It is **not** shown here to be act-free, and it is **not** shown to be act-laden. Live remainder. Do not identify thisness with $Z$ in this file.
-
-### Extensional vs conceptual collapse
-
-In candidate B there is only one $S$. Then $\operatorname{Exists}(S)$ and $\operatorname{Actual}(S)$ have the same extension *in the model*. Same extension is not conceptual identity.
-
-Conceptual independence would require a characterization of $\operatorname{Exists}$ that does not use actual / obtain / real / there-is / is-the-case and still separates $S$ from a merely specified structure.
-
-No tested characterization did that except the unanalyzed particularity remainder.
-
-### What would have counted as survival
-
-An independent specification of $\operatorname{Exists}$ that (i) is not a synonym of actuality, (ii) is not mere possibility or mathematical existence, (iii) introduces no act-like primitive, and (iv) still makes $S$ metaphysically actual rather than designated.
-
-### AB6 result
+### AB7 result
 
 $$
 \boxed{
-\operatorname{Exists}(S)\text{ was not given tested content beyond actuality, except an unanalyzed particularity remainder.}
+\text{No tested particularity-as-existence account carried actuality without rename, designation, hidden act, or a too-strong add-on.}
 }
 $$
 
 $$
 \boxed{
-\text{AB6 does not establish that primitive existence is unintelligible, or that actuality is an act.}
+\text{An act-free thisness primitive remains coherent and does not, by itself, account for actuality.}
 }
 $$
 
-Candidate B remains live and unearned as a successful act-free countermodel.
-
-Not earned: act hypothesis; collapse of existence with act; import of AT “atemporal” failure; import of verb-first failure.
+$$
+\boxed{
+\text{AB7 does not establish the act hypothesis, and does not identify particularity with }Z(S).
+}
+$$
 
 ---
 
-## Status
+## Status after AB7
 
 | Item | Status |
 |---|---|
-| A designation | Isolated as representation, not victory |
-| B primitive existence | Live; AB6 leaves it unearned |
-| C block | Neutral on act-freedom |
-| Particularity remainder | Open, unranked |
+| A, B, C | As locked |
+| AB6 | Locked |
+| AB7 | Run. Particularity does not yet carry actuality. |
+| Act-free thisness as ontology | Coherent, unearned as countermodel to the act hypothesis |
 | Act hypothesis | Not adopted |
-| Next | Independently characterize particularity-as-existence without act-vocabulary and without identifying it with $Z$, **or** exhibit another Exists-characterization that survives AB6 |
+| $Z(S)$ | Not imported |
+| Next | Not specified here. Do not manufacture AB8 merely to keep moving. |
