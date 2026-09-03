@@ -68,17 +68,7 @@ Can it detect that the thing sought does not belong to any category it currently
 
 This is the live cut.
 
-Suppose some $X$ is real, but $X$ is not a member of the present candidate class (structures, relations, predicates, bridges, derivations, semantic interpretations, primitives, countermodels, …). Then every proposed $X_i$ fails by import, circularity, static collapse, or other admissibility violation. The methodology correctly records:
-
-- candidate $X_1$ failed;
-- candidate $X_2$ failed;
-- the class is not exhausted.
-
-From inside, the following three situations are not yet distinguished:
-
-1. $X$ has not been found yet;
-2. $X$ cannot be expressed in the current candidate vocabulary;
-3. the candidate vocabulary is itself the obstruction.
+Suppose some $X$ is real, but $X$ is not a member of the present candidate class. Then every proposed $X_i$ fails by import, circularity, static collapse, or other admissibility violation. From inside, “not found yet,” “inexpressible here,” and “the vocabulary is the obstruction” are not yet distinguished.
 
 $$
 \boxed{\text{M1--M3 are already handled.}\qquad\text{M4 is the enclosure test.}}
@@ -88,79 +78,19 @@ $$
 
 ## 4. Three attack families
 
-Do not invent an external authority to make the test pass. First determine whether the blind spot exists.
-
-### M-A. Counterexample methodology
-
-Construct an alternative methodology $M'$ whose admissibility conditions differ from $A$ but which can reproduce all results obtainable by $A$. Ask whether $A$ can discover anything that specifically falsifies $A$ rather than merely underdetermining it against $M'$.
-
-If $A$ and $M'$ agree on all internally licensed results and $A$ cannot isolate a discriminator against itself, that is **methodological underdetermination**, not yet proof that $A$ is false.
-
-**Status:** specified, not constructed.
-
-### M-B. Alien truth
-
-Construct a hypothetical claim $Q$ such that:
-
-- $Q$ is stipulated true in the thought-experiment;
-- $Q$ cannot be represented in the current candidate vocabulary;
-- every translation of $Q$ into that vocabulary distorts or trivializes it.
-
-Then ask what $A$ could observe that distinguishes “$Q$ is false” from “$Q$ is inexpressible here.”
-
-If nothing, the enclosure *mechanism* is isolated. Isolation of a mechanism is not yet a demonstration that any actual $Q$ exists.
-
-**Status:** specified, not constructed.
-
-### M-C. Self-application
-
-Apply the project's own rules to $A$:
-
-| Question | Current machinery |
-|---|---|
-| What counts against a *claim* produced by $A$? | Strong |
-| What would falsify a *result* of $A$? | Strong |
-| What is a hidden assumption *inside* a candidate? | Strong |
-| What is candidate-class failure? | Strong |
-| What is class-*definition* failure? | Weak / untested |
-| What would show the *status vocabulary* itself incomplete? | Weak / untested |
-
-The last two are the dangerous questions. The methodology is good at “this claim has the wrong status.” It has not yet exhibited a procedure for “our status ontology cannot represent the relevant epistemic situation.”
-
-**Status:** the gap is isolated; no procedure is yet exhibited.
+M-A (counterexample methodology), M-B (alien truth), and M-C (self-application) remain specified, not constructed. Do not invent an external authority to make M4 pass.
 
 ---
 
 ## 5. Forbidden escapes
 
-The following are disallowed as solutions to M4:
-
-- external intuition as an independent admissibility source;
-- phenomenology or revelation as a bypass of $A$;
-- adding a sixth status merely to name the discomfort;
-- treating “we feel enclosed” as evidence of enclosure;
-- treating the AT or verb-first results as already proving methodological enclosure.
-
-Those two investigations supply **motive and analogy**. They do not yet supply a self-audit of $A$.
+Disallowed: external intuition; phenomenology or revelation as a bypass of $A$; adding a sixth status to name the discomfort; treating “we feel enclosed” as evidence; treating AT or verb-first as already proving enclosure. Those files supply motive and analogy, not a self-audit of $A$.
 
 ---
 
 ## 6. Candidate label, not adopted status
 
-If a later exhaustion argument showed that no internal experiment can falsify $A$'s entire epistemic grammar, the correct conclusion would be neither “$A$ is sound” nor “$A$ is unsound.” It would be a limit on self-auditability.
-
-A possible name for that result:
-
-> **Meta-Boundary** — a possible limitation of the methodology whose detection cannot currently be performed from within the methodology without presupposing the admissibility conditions under examination.
-
-This label is **not adopted**. It is not added to the canonical five-status system. It is not Open in the ordinary research-question sense either, because the object is the status system itself. Recording the candidate name is not earning the result.
-
-The two valuable outcomes remain:
-
-1. the blind spot is shown to exist, and becomes a Boundary *of the methodology*, not a new object-level theory;
-2. a non-circular detection procedure is found (methodological self-transcendence).
-
-Neither is earned.
+“Meta-Boundary” is not adopted. Neither soundness nor unsoundness of $A$ is earned.
 
 ---
 
@@ -178,96 +108,33 @@ $$
 \boxed{\text{Meta-Boundary is an unadopted candidate label, not a result.}}
 $$
 
-The Cut, Joint 3, Joint 6, UCL, $G^*$, and the occurrence batteries are unchanged.
-
 ---
 
 ## 8. The vicious sentence
 
-The next pressure was:
-
-> What observation would count as evidence that $A$ is inadequate, as opposed to evidence that a claim *inside* $A$ is wrong?
-
-If that specification can be given without already using $A$ as both judge and evidence, the enclosure is escapable in principle. If it cannot, the methodology may contain no internally recognizable event corresponding to its own inadequacy.
-
-That stronger reading is **not** to be adopted merely because the first candidates fail.
+What observation would count as evidence that $A$ is inadequate, as opposed to evidence that a claim *inside* $A$ is wrong? The stronger reading “no internally recognizable inadequacy-event” is not to be adopted merely because first candidates fail.
 
 ---
 
 ## 9. Candidate evidence-types
 
-Let $E$ be a proposed observation that $A$ is inadequate.
-
-### E1. Persistent failure of every tested candidate
-
-This is M3. $A$ already licenses it as incomplete search. It does not discriminate inadequacy of $A$ from a hard problem.
-
-### E2. Recurring same-shape failure across domains
-
-The recurring-signature work already treated this pattern and refused the exceptionless reading. Same-shape failure is compatible with a good method facing structurally similar targets. Not a discriminator.
-
-### E3. Inability to specify a target without circularity
-
-The AT and verb-first results have this shape. They are object-level Bounds or Opens *inside* $A$. Using them as evidence that $A$ itself is inadequate would convert an object-level stall into a methodological verdict without a further rule. Forbidden by §5.
-
-### E4. Existence of an $M'$ that reproduces $A$'s licensed results
-
-This is methodological underdetermination. Underdetermination of $A$ against $M'$ is not inadequacy of $A$ unless a discriminator is independently specified. The discriminator is the original problem.
-
-### E5. A stipulated inexpressible $Q$
-
-To count $Q$ as true-but-inexpressible, one must already treat truth-outside-$A$ as admissible evidence. $A$ will not license that count. The thought-experiment can isolate a *mechanism*, not an observation $A$ can make.
-
-### E6. Felt need for a sixth status
-
-Naming the discomfort “Meta-Boundary” and adding it to the status table is the forbidden escape. Need-for-a-label is not evidence that the previous labels are inadequate; it is evidence that a question is being asked about those labels.
+E1 persistent candidate failure $\to$ M3. E2 same-shape recurrence $\to$ compatible with a hard target. E3 AT/verb-first circularity $\to$ object-level result inside $A$. E4 rival $M'$ $\to$ underdetermination. E5 stipulated inexpressible $Q$ $\to$ $A$ will not count it. E6 sixth status $\to$ forbidden escape.
 
 ---
 
 ## 10. Evidence trilemma
 
-Any proposed $E$ appears to fall into one of three slots:
+Licensed by $A$ $\Rightarrow$ ordinary internal correction. Not licensed by $A$ $\Rightarrow$ $A$ will not count it. Licensed only by $M'$ $\Rightarrow$ underdetermination. Symptom, not theorem.
 
 $$
 \boxed{
-\begin{array}{c}
-\text{licensed by }A\ \Rightarrow\ \text{ordinary internal correction (M1--M3)}\\
-\text{not licensed by }A\ \Rightarrow\ A\text{ will not count }E\text{ as evidence}\\
-\text{licensed only by some }M'\ \Rightarrow\ \text{underdetermination, pending a discriminator}
-\end{array}}
-$$
-
-This is a **symptom**, not a theorem that no fourth slot exists.
-
-What has been shown:
-
-$$
-\boxed{\text{No tested }E\text{ distinguishes inadequacy of }A\text{ from error, overreach, or incomplete search inside }A.}
-$$
-
-What has not been shown:
-
-- that no such $E$ exists;
-- that $A$ is unsound;
-- that $A$ is sound;
-- that the methodology contains no internally recognizable inadequacy-event;
-- that Meta-Boundary should be adopted.
-
-The interesting residue is narrower than enclosure-as-proven:
-
-$$
-\boxed{
-\text{A has no currently specified event-type whose successful detection would mean “}A\text{ is inadequate” rather than “a claim inside }A\text{ failed.”}
+A\text{ has no currently specified event-type whose successful detection would mean “}A\text{ is inadequate” rather than “a claim inside }A\text{ failed.”}
 }
 $$
-
-That is an isolation result about the present specification of $A$, not a limit-theorem about every possible methodology.
 
 ---
 
 ## 11. Inventory of recognized epistemic events
-
-Do not construct $M'$ or $Q$. List the event-types $A$ already treats as detectable.
 
 | # | Event-type | What $A$ currently does with it |
 |---|---|---|
@@ -283,47 +150,19 @@ Do not construct $M'$ or $Q$. List the event-types $A$ already treats as detecta
 | 10 | Deeper-question isolation | The current question exposes an upstream unresolved question. |
 | 11 | Status correction | A claim was assigned too strong a status. |
 
-This inventory is **descriptive of current practice**, not a proof that the list is complete.
-
-Where, exactly, is “the rules for generating this inventory are themselves inadequate”? It is not currently a row.
+“The rules for generating this inventory are themselves inadequate” is not a row.
 
 ---
 
 ## 12. The missing slot is not yet “methodological inadequacy”
 
-The missing recognition-type may be more primitive than “$A$ is inadequate.”
+Better first name: **model-space failure** — the model space has failed to contain the kind of object required by the question. Hypothesis, not result.
 
-A better first name is **model-space failure**:
-
-> The model space itself has failed to contain the kind of object required by the question.
-
-$A$ recognizes failures of objects *inside* a model space. It recognizes incomplete search of a model space. It does not yet have a specified event for: the space does not contain the required kind.
-
-Already in use:
-
-$$
-\text{candidate failure}\neq\text{class failure}.
-$$
-
-Proposed, not assumed:
-
-$$
-\text{class failure}\neq\text{vocabulary failure}.
-$$
-
-$$
-\text{vocabulary failure}\neq\text{methodological failure}.
-$$
-
-Hierarchy under test:
+Already in use: candidate failure $\neq$ class failure. Untested: class failure $\neq$ vocabulary failure; vocabulary failure $\neq$ methodological failure.
 
 $$
 \text{candidate}\ \subset\ \text{candidate class}\ \subset\ \text{admissible vocabulary}\ \subset\ \text{methodology}.
 $$
-
-The project has mechanisms for the lower levels. The open question is whether it has a mechanism for moving up a level when lower-level failures accumulate.
-
-These are hypotheses about a type theory of failure. They are not results. They are not Meta-Boundary.
 
 ---
 
@@ -337,32 +176,92 @@ $$
 
 $$
 \boxed{
-\text{That missing row is not yet shown to be “methodological inadequacy.”}
+\text{That missing row is not yet “}A\text{ is inadequate.”}
 }
 $$
-
-$$
-\boxed{
-\text{class failure}\neq\text{vocabulary failure}\quad\text{and}\quad\text{vocabulary failure}\neq\text{methodological failure}\quad\text{remain untested.}
-}
-$$
-
-The investigation is now a construction of $A$'s type theory of failure, not a hunt for a flaw to declare.
 
 ---
 
-## 14. Next pressure
+## 14. Stall test — AT criterion
+
+This is a stall test, not an escalation test. The stall is the already-recorded AT result: no tested non-circular criterion for “atemporal” has been found, and a universal negative is not earned.
+
+### Step 1. The stall is genuine
+
+The AT file stops with an Open about the admissibility of “atemporal” itself. That is not a misapplied rule (M1) and not an over-promoted Boundary (M2).
+
+### Step 2. What event-types does $A$ assign?
+
+The stall is already classified, in combination, as:
+
+- candidate failure (each AT criterion failed);
+- class underdetermination (the class of criteria is not exhausted);
+- circularity (some criteria import temporal content);
+- representation failure (the word “atemporal” does not independently pick a model class);
+- deeper-question isolation (the domain of admissible atemporal facts is itself un-bounded).
+
+So $A$ *does* assign event-types. The stall is not silent.
+
+### Step 3. Do those assignments capture the phenomenon?
+
+Only partly. Each assigned type treats the model space as given and reports a failure *inside* it, or reports that search of that space is incomplete. None of them is the claim:
+
+> the space in which “atemporal criterion” is being sought may not contain objects of the required kind.
+
+Class underdetermination says: more criteria might work. Model-space failure would say: criteria of this kind may be the wrong kind. $A$ currently has the first sentence. It does not have a specified recognition rule for the second.
+
+### Step 4. Record the inventory gap
 
 $$
 \boxed{
-\text{Does }A\text{ contain an event-type for recognizing failure of the level at which the current failure is being represented?}
+\text{AT stall: assigned as mixed lower-level events; model-space failure names the unassigned remainder.}
 }
 $$
 
-If yes, test that event-type against a concrete lower-level stall without promoting the stall into a verdict on $A$.
+“Model-space failure” here is a description of the gap in the inventory. It is not an event $A$ has detected. It is not a verdict that the AT class is empty. It is not a verdict that $A$ is inadequate.
 
-If no, record the missing slot as a fact about the inventory, not as Meta-Boundary.
+### Step 5. Does $A$ have a rule that recognizes that gap as a gap?
 
-Do not construct $M'$ or $Q$ to fill the slot. Do not treat accumulation of lower-level failures as automatic ascent.
+No specified rule. Deeper-question isolation is the nearest existing type: it licenses moving the question upstream. It does not license concluding that the *level* of representation has failed. Isolation of a deeper question still assumes the new question is askable in the same event ontology.
 
-No sixth status. No escape hatch. No canonical edit.
+### Step 6. Higher-order recognition is not shown to have failed
+
+Because the recognition rule has not been constructed, its failure cannot be observed. Accumulation of AT candidate failures therefore does **not** license ascent to methodological inadequacy.
+
+---
+
+## 15. Ladder after the stall test
+
+$$
+\text{candidate failure}\ \rightarrow\ \text{class failure}\ \rightarrow\ \text{model-space failure}\ \rightarrow\ \text{?}
+$$
+
+The AT stall occupies the first two rungs and leaves a remainder that the third name *describes*. The third name is not yet an event $A$ can fire. The fourth rung is unfilled.
+
+$$
+\boxed{\text{Do not fill the }?\text{.}}
+$$
+
+---
+
+## 16. Current result
+
+$$
+\boxed{
+A\text{ can recognize that its current candidates have failed.}
+}
+$$
+
+$$
+\boxed{
+A\text{ has not yet been shown to recognize that it has stopped representing the thing under investigation.}
+}
+$$
+
+$$
+\boxed{
+\text{“Not yet” is not a failure of the philosophy.}
+}
+$$
+
+No sixth status. No escape hatch. No canonical edit. No Meta-Boundary.
