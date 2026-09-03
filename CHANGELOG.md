@@ -9,8 +9,21 @@ Significant conceptual and structural changes are recorded here. Routine wording
 - Added `investigations/2026-09-03-methodological-enclosure.md`.
 - Isolated Methodological Enclosure as the suspected failure mode: the methodology can detect claim-failures inside its admissible space while remaining unable to detect that its admissibility conditions exclude the relevant truth.
 - Recorded M1–M3 as already handled (internal error, overreach, missing candidate). Isolated M4 (missing category) as the live test.
-- Specified attack families M-A (counterexample methodology), M-B (alien truth), and M-C (self-application) without constructing them.
-- Recorded “Meta-Boundary” as an unadopted candidate label only. No sixth status. No canonical edit. No escape hatch.
+- Specified attack families M-A, M-B, and M-C without constructing them.
+- Recorded “Meta-Boundary” as an unadopted candidate label only.
+- Ran the evidence battery E1–E6 and isolated the evidence trilemma as a symptom, not a theorem.
+- Inventoried A’s recognized epistemic events (claim failure through status correction). No row exists for failure of the representation-level itself.
+- Named “model-space failure” as a description of that inventory remainder, not as a fired event and not as methodological inadequacy.
+- Ran the AT stall test: A assigns mixed lower-level events; those assignments do not capture “this space may not contain the required kind.”
+- Locked the ladder `candidate failure → class failure → model-space failure → ?` with the `?` unfilled.
+- Locked the two prohibited inferences: not representable by A does not imply false; not representable by A does not imply A is inadequate.
+- Marked the investigation **complete at this level**: further ascent would require machinery the investigation has no independent warrant to introduce. Self-audit bottoms out without distinguishing boundary from unfinished method.
+- Did not solve methodological self-audit. Did not adopt a sixth status. Did not edit the canonical document.
+
+### Index
+
+- Added a “Complete at this level” section to `investigations/README.md`.
+- Current frontier remains AT / orientation-transition / verb-first. Identity work remains parked.
 
 ## 2026-08-29
 
@@ -31,6 +44,170 @@ Significant conceptual and structural changes are recorded here. Routine wording
 - Kept the legend focused on canonical symbols, epistemic statuses, logical distinctions, the Actualization Boundary, and the canonical diachronic-identity architecture.
 - Preserved the GitHub/MathJax-compatible formatting standard: `$...$` for inline mathematics and `$$...$$` for display mathematics.
 
-## Prior entries
+## 2026-08-28
 
-The complete 2026-08-28 and earlier changelog text is preserved in commit `31c36df73052f7acdd72d38ec67699c071716dd7` (`CHANGELOG.md` blob `5b684ee587be8188b0b2393e7f9bbc3afaf92369`). It was not rewritten here to avoid another whole-file reconstruction error. Git history remains authoritative for those entries.
+### Notation legend / educational guide layer
+
+- Added `guides/legend-of-the-exceptional-zero.md` as a companion legend for the framework's symbolic language.
+- Designed the legend as a navigational document rather than a second canonical formulation: canonical notation is separated from later investigative scaffolding, and placeholders are explicitly distinguished from established ontology.
+- Documented the core symbols `S`, `P`, `φ`, `Aut(S)`, `Z(S)`, `O`, `C_*`, `J_cut`, `G_P`, `G_M`, `G ~ H`, `G*`, `G*_1`, and `Σ`, together with logical operators and the framework's status labels.
+- Added an explicit warning that arrows, brackets, and research symbols are context-sensitive and do not acquire stronger epistemic status by repetition.
+- Updated the root `README.md` to add `guides/` as the educational/bridging document layer and link the new legend.
+
+### Verb-first / fixed-point investigation
+
+- Added `investigations/2026-08-28-verb-first-fixed-point-test.md` to formalize the new verb-first line of questioning.
+- Distinguished the stronger hypothesis that reality is fundamentally doing from the weaker relation-first claim that relations are ontologically prior to relata.
+- Recorded the countermodel: finite relation-first ontology can contain self-delimiting relational fixed points, so relation-first plus universal finitude does not force a non-occupiable hinge.
+- Tested whether a self-exhausting relational fixed point necessarily collapses verbhood into noun-like structure. A coherent processive fixed point, such as a cyclic relational structure, remains a counterpressure; fixed-point status alone does not establish that a verb has disappeared.
+- Reconnected the question to the previously established representation/occurrence boundary: a static representation of a process does not entail actual process-occurrence.
+- Kept **non-self-exhaustion** and **irreducible processual content** as candidate formal sharpenings of verb-first ontology, not as definitions or derived principles.
+- Current result: verb-first has not yet been specified strongly enough to derive non-self-exhaustion or the Exceptional Zero. No hinge derivation, time primitive, mover, `G*_2`, `L`, or `Σ` introduced.
+
+### Occurrence / performance / atemporality continuation
+
+- Added `investigations/2026-08-28-occurrence-performance-atemporality.md` as the continuation of the orientation/transition investigation.
+- Distinguished `O_1` (actual/concrete existence of an event token) from `O_2` (passage/becoming). Candidate C shows that atemporal concreteness can represent `O_1` without yielding `O_2`.
+- Recorded P9–P19: tested passage definitions, primitive passage, and the derivation of formal succession as transitive closure of primitive passage. Formal succession remains distinct from temporal succession.
+- Recorded the S-battery: no tested truth-conditional atemporal semantics yields actual passage without reducing to static extension/selection or importing temporal content.
+- Recorded the N-battery: no tested non-static semantics distinguishes actual model evolution from represented evolution without relocating the residue into primitive actual performance.
+- Recorded the U-battery: no tested atemporal semantics gives actual unfolding content distinct from static structure or temporal/performative interpretation.
+- Recorded the P-battery: no tested atemporal interpretation of an actual-performance predicate supplies performance distinct from temporal succession; primitive performance remains conceivable but unreduced.
+- Recorded the D-battery: actual performance is not definable from the tested fixed atemporal signature; the result is relative to that signature and not a universal non-definability theorem.
+- Recorded the supervenience battery: performance does not supervene on the tested atemporal vocabulary, while the admissible class of richer atemporal structure remains undefined.
+- Recorded the AT-battery: vocabulary absence, structural invariance, isomorphism invariance, and fixed-model extensionality do not supply a non-circular semantic criterion for “atemporal.”
+- Locked the current meta-problem narrowly: the domain of genuinely admissible atemporal facts has not been independently bounded, so full performance-supervenience cannot yet be tested.
+- No promotion of primitive performance, passage, temporal succession, or time; no Cut-as-cause claim; no mover; no `G*_2`, `L`, or `Σ` introduced.
+
+### Active-index sequencing
+
+- Split `investigations/README.md` further into current frontier versus downstream open investigations versus retained derivational record.
+- Moved Track 2 (`2026-08-20-recurring-signature-track2-survivor-search.md`) to retained derivational record without rewriting its historical contents. Later UCL batteries control the present assessment: perfect-counterfeit survives; `C_*` is underdetermined.
+- Corrected the history-mediated bridge file so its locked next pressure is the ownership filter, not construction of `L`.
+- Left Track 1 active only for the narrower internal-relational theorem; its earlier UCL-origin worklist is already completed elsewhere.
+
+### Canonical pointer and index hygiene
+
+- Added a narrow Part Eleven pointer: the diachronic-identity program remains incomplete at `C_*` / `G*`, and subsequent investigation has exposed an upstream question about distinction, orientation, and actual transition.
+- The pointer explicitly does not establish a theory of time or movement, does not alter Joint 3, and does not add a new status-table row.
+- Split `investigations/README.md` into active investigations versus closed candidate tests / retained derivational record. That split is documentation, not an epistemic promotion.
+
+### Repository workflow and structure
+
+- Removed the obsolete `ai-reviews/` review subsystem and its source-specific folder structure. Review provenance is preserved by Git history and by the investigation records themselves; no separate AI-review archive is part of the repository workflow.
+- Removed the unused `archive/` and `notes/` trees. Git history is the repository's record of superseded work; no separate archival or miscellaneous-notes layer is currently maintained.
+- Updated `WORKFLOW.md` and `BRANCHING.md` to distinguish canonical acceptance from workspace mechanics: bounded investigations and repository maintenance may be committed directly to `main` when explicitly scoped, while canonical framework changes still require deliberate acceptance.
+- Clarified that an investigation may terminate by isolating a deeper question, which should be recorded as a new bounded investigation rather than treated as failure of the preceding investigation.
+- Removed the obsolete `review/` branch type.
+- Synchronized the root and investigations READMEs with the current two-layer research architecture: upstream transition/succession and downstream diachronic identity.
+
+### For-this as a `C_*` candidate
+
+- Added `investigations/2026-08-28-for-this-selector-test.md`.
+- Tested for-this as a candidate identity selector against circularity, target-shift, phenomenal remainder, Theseus, fission, counterfeit, and representation pressures.
+- Found no tested formulation that supplies a determinate `C_*`: identity-bearing formulations are circular, memory-based formulations shift to already-tested informational continuity, and content-free phenomenal flow remains third-person underdetermined.
+- Recorded the result as a candidate failure only. For-this itself receives no status change.
+
+### Distinction / orientation / transition / time
+
+- Added `investigations/2026-08-28-orientation-transition-time.md`.
+- Isolated the identity sequence as downstream of a prior gap: the Cut yields distinction, not movement; distinction does not entail succession. This is the Actualization Boundary applied to becoming, not a new principle.
+- Austere test: `A → B` as oriented edge, function, or partial order can be specified without time. That specifies **orientation**, not transition.
+- Locked `orientation ≠ transition` and `transition ≠ time` until those bridges are earned.
+- Middle-definition battery (exclusion, exclusive actuality, replacement, actualization, world-index shift, asymmetric dependence, Joint 3) partitioned the search space: static structure | hidden succession | off-target phenomenology.
+- Instructive pair: exclusive actuality can be static; asymmetric dependence can be atemporal. Neither is passage.
+- Added the explicit M8 constructive slot: an atemporal exclusive-realization primitive could in principle be stronger than orientation without being temporal, but no such primitive has yet been constructed. If realization reduces to temporal occurrence, it is hidden succession; if genuinely atemporal, an independent realization rule is still required.
+- Earned: no tested middle `T` is stronger than orientation and weaker than temporal succession without disguise. Not earned: no such `T` is possible; transition is irreducibly temporal; time is generated by the Cut.
+- What forces an admissible relation to occur was not asked. No mover, no time primitive, no `C_*`, no `Σ`, no return to identity ranking.
+
+## 2026-08-23
+
+### Joint 3 → history-mediated interest bridge
+
+- Added `investigations/2026-08-23-joint3-history-mediated-interest-bridge.md`.
+- Corrected the scope of the earlier Joint 3 bridge result: bare, pre-propositional `I cannot not reach` does not entail propositional interest, but this does **not** close the possibility that temporally extended reaching-history contributes to interest formation.
+- The obvious formulation, "this self's prior history," is circular if it presupposes which past states belong to the same diachronically persistent self.
+- A non-identity-bearing alternative is available in principle: define history as causal ancestry of the present state, then identify prior reaching events within that ancestry.
+- Causal ancestry alone does not determine a unique present interest. A separate learning, reinforcement, preference-update, or other causal mechanism would be required to map history to present propositional interest.
+- History-mediated interest formation is therefore a **live auxiliary hypothesis**, not a consequence of Joint 3 and not a promoted solution to diachronic identity.
+- The bridge from interest to identity selection remains separately unresolved. No `G*_2`, no `Σ`, no process/material preference, and no Boundary are introduced.
+
+### Joint 3 → ownership-filter pressure
+
+- Added `investigations/2026-08-23-joint3-ownership-filter-pressure.md`.
+- Pressure-tested the remaining ownership filter required to turn raw causal ancestry into a subject/system-specific reaching history.
+- Same-self ownership is circular; an independent physical/system boundary remains possible only conditionally and no survivor has been exhibited; causal-role filtering leaves mixed continuity unresolved; unrestricted ancestry is too broad to determine a present interest.
+- Recorded the result narrowly: an identity-free history object is possible in form, but an identity-free ownership filter remains unshown.
+- Even a successful ownership filter would establish a history object, not a process/material identity selector or the bridge from interest to `C_*`.
+
+## 2026-08-22
+
+### Joint 3 → tracking-selection bridge test
+
+- Added `investigations/2026-08-22-joint3-tracking-bridge-test.md`.
+- Direct pressure established a **non-entailment**: `I cannot not reach` does not by itself entail unique selection of an identity-bearing causal thread.
+- A reaching subject can preserve multiple causal continuities simultaneously without choosing one as metaphysically privileged.
+- Finitude may support bounded tracking, but finitude and bounded capacity are additional premises; they do not follow from Joint 3 as stated.
+- Purpose/interest remains a plausible selection layer but is not entailed by Joint 3 in every act of reaching.
+- The category-error / interest-relative thesis remains Open. Causal underdetermination and subject-relative selection are now explicitly separated.
+- The next pressure is an independently specified bounded-tracking principle, not a stronger reading of Joint 3 and not construction of `G*_2`.
+
+### Interest-relative diachronic identity investigation
+
+- Opened `investigations/2026-08-22-interest-relative-diachronic-identity.md` to test a new interpretation of the Ship-of-Theseus underdetermination.
+- Explicitly separated the new hypothesis from the prior UCL/representation-invariance results. No `Σ` candidate is promoted, no process/material preference is asserted, and no Boundary is claimed.
+- Preserved the distinction between objective causal constraint and interest-relative identity attribution: arbitrary declaration is not permitted merely because an observer wants it; the selected thread must be causally available.
+- Identified the decisive new pressure as the bridge from Joint 3 (`I cannot not reach`) to necessary tracking selection. Joint 3 does not yet entail that bridge, so the interest-relative thesis remains Open.
+
+## 2026-08-21
+
+### Repository-wide review
+
+- Reviewed the current Git tree, canonical framework, investigations, and repository documentation for internal consistency.
+- Updated the investigation index to reflect the completed UCL sequence and the then-current representation-invariance bottleneck.
+- Preserved dated investigation records as historical artifacts rather than rewriting earlier assessments merely because later investigations superseded them.
+
+### Diachronic identity / battery correction
+
+- Added `investigations/diachronic-identity-ucl-battery.md`, which formally runs the previously asserted UCL battery rather than treating the battery as established by status language alone.
+- Corrected the earlier blanket claim that UCL "survives the current Ship-of-Theseus, duplication, fission, convergence, discontinuity, memory-loss, and perfect-counterfeit battery."
+- Recorded that the runnable apparatus required explicit completion choices for `J_cut` (both branch and merge junctions) and for redundant parallel causal mechanisms.
+- Confirmed robust survival only for the perfect-counterfeit / implanted-memory case and cloning/shared-origin separation under the tested causal readings.
+- Confirmed coherent null verdicts for genuine bisection, convergence/fusion, and branch→merge once `J_cut` is explicitly completed; these are not positive persistence results.
+- Found Ship of Theseus to be a genuine unresolved failure of the current UCL architecture: process-continuity and material-continuity readings of `C*` give different identity verdicts, and UCL contains no independent selector between them.
+- Classified remote duplication and reconstruction-after-destruction as inheriting this continuity-selection problem rather than as independent UCL successes.
+- Narrowed the live question from "does UCL survive the battery?" to whether a target-independent principle can select identity-relevant causal continuity without importing the desired identity verdict.
+
+### Diachronic identity / UCL architecture
+
+- The UCL investigation progressed through four distinct layers: admissible origin `O`, junction partition `J_cut`, causal relation `C*`, and variable/outcome selection.
+- `J_cut` survived as a mathematical partition rule once the relevant causal graph is fixed.
+- The fixed counterfactual `C*` semantics failed as a domain-general identity criterion under overdetermination and variable/model dependence.
+- The first variable/outcome-selection battery found no target-independent selector; the current theorem-shaped question is representation invariance under admissible refinement and coarse-graining.
+- UCL remains a **provisional survivor** at the architecture level, not a completed reduction of diachronic identity.
+
+### Diachronic identity / representation invariance — selective `G*` usefulness test
+
+- Ran the complete abstract usefulness battery for the selective `G*` branch against the joint AR-1 / AR-6 burden, without constructing a candidate `G*` or introducing `Σ`.
+- Confirmed that selective structure is not intrinsically identity-selective: independently structural filters can be representation-useful while leaving process-versus-material identity selection open.
+- Distinguished **representation-usefulness** from **identity-usefulness** and recorded that the former can survive AR-1 and AR-6 while the latter would violate AR-6 if installed prematurely.
+- Tested formal/typological, causal-direction, locality, conservation/invariant, and graph-structural classes abstractly, then pressure-tested the surviving pattern against Theseus, refinement, coarse-graining, fission, fusion, counterfeit, redundant causation, irrelevant side-effects, and causal-counterfeit cases.
+- No concrete independently bounded selective `G*` has been exhibited. The selective branch remains open as an abstract possibility, not a demonstrated survivor.
+- No Boundary against selective `G*` was earned. The exhaustive `G*` branch remains independently open and untested.
+
+### Diachronic identity / first concrete selective candidate `G*_1`
+
+- Constructed and attacked `G*_1` = typed physical causal history as the first concrete selective common-structure candidate.
+- Recorded the attack in `investigations/2026-08-22-gstar1-membership-boundary-attack.md`.
+- **Candidate result:** `G*_1` fails. The phrase "physical causal relation" does not independently determine which relations belong in `E` under refinement, coarse-graining, or change of physical factorization.
+- Apparent repairs each leave the intended selective slot: privileged factorization (unprovided ontology-selection rule), all physical dependence (exhaustive branch), direct edges (representation-sensitive), quotient across descriptions (reopens `G ~ H`), identity-motivated exclusion (hidden `Σ`).
+- **Not withdrawn:** Theseus neutrality, perfect-counterfeit provenance distinction, fission/fusion identity-neutrality, and resistance to collapse into `Σ`.
+- **Classification:** candidate failure, not branch failure. Selective `G*` remains open. Exhaustive `G*` remains open and untested. No `G*_2` generated. `Σ` remains untouched. No process/material preference. No Boundary against the selective class.
+
+## 2026-08-20
+
+### Repository structure
+
+- Established `WORKFLOW.md` to codify the path from investigation and adversarial critique to accepted canonical text.
+- Established `BRANCHING.md` to distinguish exploratory work from the accepted `main` branch.
+- Clarified that Git history is the authoritative record of repository revisions and superseded work.
