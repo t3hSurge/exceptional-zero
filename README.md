@@ -30,11 +30,14 @@ The framework distinguishes among **Derived**, **Believed**, **Boundary**, **Ope
 - `exceptional-zero.md` — canonical framework
 - `investigations/` — bounded questions, tests, counterexamples, and formal checks
 - `guides/` — educational and bridging documents; explanatory material is not canonical merely by being collected here
+- `competitions/` — external contest workspaces; not canonical and not a status change for the framework
 - `CHANGELOG.md` — significant conceptual and structural changes
 - `WORKFLOW.md` — how work moves from investigation to accepted framework
 - `BRANCHING.md` — branch naming and merge policy
 
 The first document in `guides/` is [`legend-of-the-exceptional-zero.md`](guides/legend-of-the-exceptional-zero.md), a notation and symbol guide for reading the canonical framework and distinguishing canonical symbols from later investigative scaffolding.
+
+The first competition workspace is [`competitions/aipc-2026/`](competitions/aipc-2026/), for the 2026 AI Philosophy Competition. Essays generated there follow a thinner protocol than the research method and do not revise the canonical document.
 
 ## Development Model
 
