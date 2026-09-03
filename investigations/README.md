@@ -7,42 +7,29 @@ Open files are not equally live. This index distinguishes **current frontier**, 
 ## Active — current frontier
 
 - [2026-08-28-occurrence-performance-atemporality.md](2026-08-28-occurrence-performance-atemporality.md)  
-  **Atemporality / actuality continuation.** Candidate C separates concrete event existence (`O_1`) from passage (`O_2`). P9–P19, S, N, U, P, D, supervenience, and AT batteries found no tested atemporal construction that supplies actual passage/performance without static redescription or imported temporal content. The latest open object is the admissibility of “atemporal” itself; no universal negative is earned.
+  **Atemporality / actuality continuation.** Candidate C separates concrete event existence (`O_1`) from passage (`O_2`). Latest open object: admissibility of “atemporal” itself.
 
 - [2026-08-28-orientation-transition-time.md](2026-08-28-orientation-transition-time.md)  
-  **Parent transition investigation.** Orientation can be specified without time; orientation is not transition. M1–M18 established the initial static/hidden/off-target partition and isolated actuality-selecting power as the next deeper problem. This file remains the parent derivational record for the continuation above.
+  **Parent transition investigation.** Orientation can be specified without time; orientation is not transition.
 
 - [2026-08-28-verb-first-fixed-point-test.md](2026-08-28-verb-first-fixed-point-test.md)  
-  **Foundational verb-first line.** Tests whether genuinely verb-first ontology can exclude self-exhausting relational fixed points. Relation-first plus finitude does not force a hinge; a cyclic/processive fixed point remains a counterpressure. Verb-first has not yet been specified strongly enough to derive non-self-exhaustion or the Exceptional Zero.
+  **Foundational verb-first line.** Relation-first plus finitude does not force a hinge. Verb-first is not yet strong enough to derive the Exceptional Zero.
 
 - [2026-09-03-methodological-enclosure.md](2026-09-03-methodological-enclosure.md)  
-  **Third-order methodological enclosure.** M1–M3 (internal error, overreach, missing candidate) are already within reach. M4 asks whether the methodology can detect a missing *category*, not merely a missing candidate. Meta-Boundary is an unadopted candidate label. No canonical status change.
+  **Third-order methodological enclosure.** Evidence trilemma isolated as a symptom. $A$'s event inventory has no row for failure of the representation-level itself. Next: does $A$ contain a level-ascent event-type? Meta-Boundary remains unadopted.
 
 ## Active — downstream open investigations
 
 These remain genuinely open. They are not the current overall bottleneck.
 
-- [2026-08-23-joint3-ownership-filter-pressure.md](2026-08-23-joint3-ownership-filter-pressure.md)  
-  Ownership-filter pressure. Blocker for history-mediated construction.
-
-- [2026-08-23-joint3-history-mediated-interest-bridge.md](2026-08-23-joint3-history-mediated-interest-bridge.md)  
-  History-mediated Joint 3 bridge. Next test is ownership, not `L`.
-
-- [2026-08-22-joint3-tracking-bridge-test.md](2026-08-22-joint3-tracking-bridge-test.md)  
-  Joint 3 does not entail unique identity-thread selection.
-
-- [2026-08-22-interest-relative-diachronic-identity.md](2026-08-22-interest-relative-diachronic-identity.md)  
-  Interest-relative identity: open, unpromoted, downstream.
-
-- [diachronic-identity-representation-invariance.md](diachronic-identity-representation-invariance.md)  
-  `G*` architecture open and parked. `G*_1` failed. `Σ` untouched.
-
-- [2026-08-20-recurring-signature-track1-structural.md](2026-08-20-recurring-signature-track1-structural.md)  
-  Track 1: narrower internal-relational theorem only.
+- [2026-08-23-joint3-ownership-filter-pressure.md](2026-08-23-joint3-ownership-filter-pressure.md)
+- [2026-08-23-joint3-history-mediated-interest-bridge.md](2026-08-23-joint3-history-mediated-interest-bridge.md)
+- [2026-08-22-joint3-tracking-bridge-test.md](2026-08-22-joint3-tracking-bridge-test.md)
+- [2026-08-22-interest-relative-diachronic-identity.md](2026-08-22-interest-relative-diachronic-identity.md)
+- [diachronic-identity-representation-invariance.md](diachronic-identity-representation-invariance.md)
+- [2026-08-20-recurring-signature-track1-structural.md](2026-08-20-recurring-signature-track1-structural.md)
 
 ## Closed candidate tests / retained derivational record
-
-These files remain part of the derivational chain. They are not the current frontier, and listing them here is not an epistemic promotion.
 
 - [2026-08-20-recurring-signature-track2-survivor-search.md](2026-08-20-recurring-signature-track2-survivor-search.md)
 - [2026-08-28-for-this-selector-test.md](2026-08-28-for-this-selector-test.md)
@@ -60,8 +47,6 @@ These files remain part of the derivational chain. They are not the current fron
 
 **Object-level:** Can “atemporal” be specified without presupposing the temporal/performance content it is meant to exclude?
 
-**Method-level (parallel, not a replacement):** Can the methodology establish a non-circular criterion by which its own admissibility conditions could be shown inadequate?
+**Method-level:** Does $A$ contain an event-type for recognizing failure of the level at which the current failure is being represented?
 
-The occurrence/performance continuation has established only bounded results. The verb-first line remains parallel and has not derived the hinge. The enclosure investigation has isolated M4 and has not constructed $M'$, $Q$, or a sixth status.
-
-Identity work remains downstream and incomplete. Do not invent a mover or a time primitive. Do not construct `G*_2`. Do not treat the AT-battery as a universal impossibility theorem. Do not adopt Meta-Boundary as a canonical status.
+Do not adopt Meta-Boundary. Do not construct $M'$ or $Q$ to fill the missing inventory row. Do not treat accumulation of lower-level failures as automatic ascent. Do not invent a mover, time primitive, or `G*_2`.
