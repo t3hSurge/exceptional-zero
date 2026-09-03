@@ -16,14 +16,17 @@ Open files are not equally live. This index distinguishes **current frontier**, 
   **Foundational verb-first line.** Relation-first plus finitude does not force a hinge. Verb-first is not yet strong enough to derive the Exceptional Zero.
 
 - [2026-09-03-description-as-act-metaphysical-test.md](2026-09-03-description-as-act-metaphysical-test.md)  
-  **Description as act.** Describability/actuality candidate. Not a time derivation. Not a premise of Act Behind Structure.
+  **Description as act.** Describability/actuality candidate. Not a time derivation.
+
+- [2026-09-03-act-upstream-of-actuality.md](2026-09-03-act-upstream-of-actuality.md)  
+  **Reverse arrow.** Can an act be specified without presupposing independently given actuality? No test run yet. Not AB8.
 
 ## Complete at this level
 
 These files identified a precise stopping point. Further work would require machinery they have no independent warrant to introduce. Completion at this level is not a solution and not a sixth status. $\mathrm{Complete}(I)\not\Rightarrow\mathrm{Final}(I)$.
 
 - [2026-09-03-act-behind-structure.md](2026-09-03-act-behind-structure.md)  
-  A/B/C + AB6 + AB7. No tested act-free account of actuality. Act-free thisness is coherent and does not explain actuality. Act hypothesis not adopted. No AB8.
+  A/B/C + AB6 + AB7. No tested act-free account of actuality. That negative is not evidence that act is the missing ingredient. Act hypothesis not adopted. No AB8.
 
 - [2026-09-03-open-cut.md](2026-09-03-open-cut.md)  
   OC1–OC5 run. Necessity of a terminal boundary remains unestablished. Demand for a final boundary was not shown to be the Cut. $R$, $H_{\mathrm{OC}}$, and Cut-identification unadopted. Does not say inquiry is necessarily open.
@@ -60,6 +63,8 @@ These remain genuinely open. They are not the current overall bottleneck.
 
 **Object-level:** Can “atemporal” be specified without presupposing the temporal/performance content it is meant to exclude?
 
-Keep AT, verb-first, and act distinct. They neighbor; none has earned a bridge to the others.
+**Reverse-act line:** Can an act be specified without presupposing independently given actuality?
 
-**Method-level:** Enclosure and Open Cut are both complete at this level. Necessity of a terminal boundary remains unestablished. Do not treat that as “inquiry is necessarily open.” Do not invent a mover, time primitive, or `G*_2`.
+Keep AT, verb-first, and act distinct. A missing explanation is not the proposed explanation.
+
+**Method-level:** Enclosure and Open Cut are both complete at this level. Do not invent a mover, time primitive, or `G*_2`.
