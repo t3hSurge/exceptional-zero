@@ -15,12 +15,15 @@ Open files are not equally live. This index distinguishes **current frontier**, 
 - [2026-08-28-verb-first-fixed-point-test.md](2026-08-28-verb-first-fixed-point-test.md)  
   **Foundational verb-first line.** Relation-first plus finitude does not force a hinge. Verb-first is not yet strong enough to derive the Exceptional Zero.
 
+- [2026-09-03-open-cut.md](2026-09-03-open-cut.md)  
+  **Methodological reversal.** Does unrestricted revisability require a terminal boundary? $R$ and $H_{\mathrm{OC}}$ are unadopted. OC1–OC5 not yet run. Does not reverse the enclosure stall.
+
 ## Complete at this level
 
 These files identified a precise stopping point. Further work would require machinery they have no independent warrant to introduce. Completion at this level is not a solution and not a sixth status.
 
 - [2026-09-03-methodological-enclosure.md](2026-09-03-methodological-enclosure.md)  
-  Self-audit bottoms out without distinguishing boundary from unfinished method. The `?` is empty. Meta-Boundary is unadopted. Not representable by $A$ implies neither falsity of $X$ nor inadequacy of $A$.
+  Self-audit bottoms out without distinguishing boundary from unfinished method. The `?` is empty. Meta-Boundary is unadopted. Not representable by $A$ implies neither falsity of $X$ nor inadequacy of $A$. The Open Cut reassesses the *demand* imposed on this endpoint; it does not delete the stall.
 
 ## Active — downstream open investigations
 
@@ -51,4 +54,6 @@ These remain genuinely open. They are not the current overall bottleneck.
 
 **Object-level:** Can “atemporal” be specified without presupposing the temporal/performance content it is meant to exclude?
 
-The methodological-enclosure investigation is complete at this level. Do not invent a meta-methodology merely because self-audit bottomed out. Do not treat “unknown which” as a sixth status. Do not invent a mover, time primitive, or `G*_2`.
+**Method-level:** Does unrestricted revisability require a terminal boundary? See The Open Cut. Do not treat “complete at this level” as finality until OC1–OC5 have been run.
+
+Do not invent a mover, time primitive, or `G*_2`.
