@@ -31,4 +31,6 @@ Significant conceptual and structural changes are recorded here. Routine wording
 - Kept the legend focused on canonical symbols, epistemic statuses, logical distinctions, the Actualization Boundary, and the canonical diachronic-identity architecture.
 - Preserved the GitHub/MathJax-compatible formatting standard: `$...$` for inline mathematics and `$$...$$` for display mathematics.
 
-<!-- remainder of changelog preserved in prior commits; see Git history for 2026-08-28 and earlier entries -->
+## Prior entries
+
+The complete 2026-08-28 and earlier changelog text is preserved in commit `31c36df73052f7acdd72d38ec67699c071716dd7` (`CHANGELOG.md` blob `5b684ee587be8188b0b2393e7f9bbc3afaf92369`). It was not rewritten here to avoid another whole-file reconstruction error. Git history remains authoritative for those entries.
