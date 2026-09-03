@@ -164,18 +164,14 @@ Neither is earned.
 
 ---
 
-## 7. Current result
+## 7. Locked results before the criterion attack
 
 $$
 \boxed{\text{M1--M3 are already within the methodology's reach.}}
 $$
 
 $$
-\boxed{\text{M4 is isolated and untested.}}
-$$
-
-$$
-\boxed{\text{No non-circular criterion for the inadequacy of }A\text{ has been exhibited.}}
+\boxed{\text{M4 is isolated.}}
 $$
 
 $$
@@ -186,14 +182,98 @@ The Cut, Joint 3, Joint 6, UCL, $G^*$, and the occurrence batteries are unchange
 
 ---
 
-## 8. Next pressure
+## 8. The vicious sentence
 
-Do not construct $M'$ or $Q$ until the success criteria are fixed.
-
-The next legitimate work is to specify, without using $A$ as both judge and evidence:
+The next pressure was:
 
 > What observation would count as evidence that $A$ is inadequate, as opposed to evidence that a claim *inside* $A$ is wrong?
 
-If that specification cannot be given without already using $A$'s admissibility rules, M4 has produced a concrete enclosure *symptom*. That still would not prove that some inexpressible $X$ exists.
+If that specification can be given without already using $A$ as both judge and evidence, the enclosure is escapable in principle. If it cannot, the methodology may contain no internally recognizable event corresponding to its own inadequacy.
+
+That stronger reading is **not** to be adopted merely because the first candidates fail.
+
+---
+
+## 9. Candidate evidence-types
+
+Let $E$ be a proposed observation that $A$ is inadequate.
+
+### E1. Persistent failure of every tested candidate
+
+This is M3. $A$ already licenses it as incomplete search. It does not discriminate inadequacy of $A$ from a hard problem.
+
+### E2. Recurring same-shape failure across domains
+
+The recurring-signature work already treated this pattern and refused the exceptionless reading. Same-shape failure is compatible with a good method facing structurally similar targets. Not a discriminator.
+
+### E3. Inability to specify a target without circularity
+
+The AT and verb-first results have this shape. They are object-level Bounds or Opens *inside* $A$. Using them as evidence that $A$ itself is inadequate would convert an object-level stall into a methodological verdict without a further rule. Forbidden by §5.
+
+### E4. Existence of an $M'$ that reproduces $A$'s licensed results
+
+This is methodological underdetermination. Underdetermination of $A$ against $M'$ is not inadequacy of $A$ unless a discriminator is independently specified. The discriminator is the original problem.
+
+### E5. A stipulated inexpressible $Q$
+
+To count $Q$ as true-but-inexpressible, one must already treat truth-outside-$A$ as admissible evidence. $A$ will not license that count. The thought-experiment can isolate a *mechanism*, not an observation $A$ can make.
+
+### E6. Felt need for a sixth status
+
+Naming the discomfort “Meta-Boundary” and adding it to the status table is the forbidden escape. Need-for-a-label is not evidence that the previous labels are inadequate; it is evidence that a question is being asked about those labels.
+
+---
+
+## 10. Evidence trilemma
+
+Any proposed $E$ appears to fall into one of three slots:
+
+$$
+\boxed{
+\begin{array}{c}
+\text{licensed by }A\ \Rightarrow\ \text{ordinary internal correction (M1--M3)}\\
+\text{not licensed by }A\ \Rightarrow\ A\text{ will not count }E\text{ as evidence}\\
+\text{licensed only by some }M'\ \Rightarrow\ \text{underdetermination, pending a discriminator}
+\end{array}}
+$$
+
+This is a **symptom**, not a theorem that no fourth slot exists.
+
+What has been shown:
+
+$$
+\boxed{\text{No tested }E\text{ distinguishes inadequacy of }A\text{ from error, overreach, or incomplete search inside }A.}
+$$
+
+What has not been shown:
+
+- that no such $E$ exists;
+- that $A$ is unsound;
+- that $A$ is sound;
+- that the methodology contains no internally recognizable inadequacy-event;
+- that Meta-Boundary should be adopted.
+
+The interesting residue is narrower than enclosure-as-proven:
+
+$$
+\boxed{
+\text{A has no currently specified event-type whose successful detection would mean “}A\text{ is inadequate” rather than “a claim inside }A\text{ failed.”}
+}
+$$
+
+That is an isolation result about the present specification of $A$, not a limit-theorem about every possible methodology.
+
+---
+
+## 11. Next pressure
+
+Do not adopt Meta-Boundary. Do not construct an $M'$ or $Q$ yet.
+
+Either:
+
+1. exhibit one $E$ that survives the trilemma without an escape hatch; or
+2. run a bounded exhaustion over the event-types $A$ already recognizes, and state exactly which recognition-type is missing.
+
+Option 2 is the cleaner next move. It asks whether $A$'s own inventory of detectable events contains a slot for self-inadequacy. If the inventory is listed and the slot is absent, that is still only a fact about the current inventory.
 
 No sixth status. No escape hatch. No canonical edit.
