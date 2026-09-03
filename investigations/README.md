@@ -19,7 +19,7 @@ Open files are not equally live. This index distinguishes **current frontier**, 
   **Description as act.** Describability/actuality candidate. Not a time derivation.
 
 - [2026-09-03-act-upstream-of-actuality.md](2026-09-03-act-upstream-of-actuality.md)  
-  **Reverse arrow.** Can an act be specified without presupposing independently given actuality? No test run yet. Not AB8.
+  **Reverse arrow.** Can an act be specified without presupposing independently given actuality? AP1 run; no upstream act specification earned.
 
 ## Complete at this level
 
@@ -33,6 +33,9 @@ These files identified a precise stopping point. Further work would require mach
 
 - [2026-09-03-methodological-enclosure.md](2026-09-03-methodological-enclosure.md)  
   Self-audit bottoms out without distinguishing boundary from unfinished method. The `?` is empty. Meta-Boundary is unadopted. Not representable by $A$ implies neither falsity of $X$ nor inadequacy of $A$. The Open Cut reassesses the demand imposed on this endpoint; it does not delete the stall.
+
+- [2026-09-03-exercise-efficacy.md](2026-09-03-exercise-efficacy.md)  
+  AP2 run. Modal efficacy can be specified act-free but is insufficient for act; exercise has not acquired an earned specification independent of actuality, occurrence, performance, or collapse into disposition/efficacy. No AP3 licensed merely by residue.
 
 ## Active — downstream open investigations
 
@@ -63,7 +66,7 @@ These remain genuinely open. They are not the current overall bottleneck.
 
 **Object-level:** Can “atemporal” be specified without presupposing the temporal/performance content it is meant to exclude?
 
-**Reverse-act line:** Can an act be specified without presupposing independently given actuality?
+**Reverse-act line:** Can an act be specified without presupposing independently given actuality? AP1 has not yielded a non-circular specification; AP2 finds act-free modal efficacy but not act itself in exercise.
 
 Keep AT, verb-first, and act distinct. A missing explanation is not the proposed explanation.
 
