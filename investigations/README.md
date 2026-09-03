@@ -15,6 +15,12 @@ Open files are not equally live. This index distinguishes **current frontier**, 
 - [2026-08-28-verb-first-fixed-point-test.md](2026-08-28-verb-first-fixed-point-test.md)  
   **Foundational verb-first line.** Relation-first plus finitude does not force a hinge. Verb-first is not yet strong enough to derive the Exceptional Zero.
 
+- [2026-09-03-description-as-act-metaphysical-test.md](2026-09-03-description-as-act-metaphysical-test.md)  
+  **Description as act.** Describability/actuality candidate. Not a time derivation.
+
+- [2026-09-03-act-behind-structure.md](2026-09-03-act-behind-structure.md)  
+  **Act-free countermodel search.** A/B/C construction pass + AB6. Primitive existence unearned as independent content. Particularity remainder open. Act hypothesis not adopted.
+
 ## Complete at this level
 
 These files identified a precise stopping point. Further work would require machinery they have no independent warrant to introduce. Completion at this level is not a solution and not a sixth status. $\mathrm{Complete}(I)\not\Rightarrow\mathrm{Final}(I)$.
@@ -53,5 +59,7 @@ These remain genuinely open. They are not the current overall bottleneck.
 ## Current research bottleneck
 
 **Object-level:** Can “atemporal” be specified without presupposing the temporal/performance content it is meant to exclude?
+
+**Construction line:** Can structurally determinate reality plus primitive existence be act-free without $\operatorname{Exists}$ collapsing into “is actual”?
 
 **Method-level:** Enclosure and Open Cut are both complete at this level. Necessity of a terminal boundary remains unestablished. Do not treat that as “inquiry is necessarily open.” Do not invent a mover, time primitive, or `G*_2`.
