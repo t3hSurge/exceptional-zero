@@ -2,72 +2,152 @@
 
 Bounded questions, tests, counterexamples, and formal checks. An investigation does not automatically alter the canonical framework.
 
-Open files are not equally live. This index distinguishes **current frontier**, **active dependencies**, **complete at this level**, and **retained derivational record**.
+The directory is intentionally kept **physically flat for now**. Stable investigation paths are useful historical identifiers, and moving them would create unnecessary link and history churn. Organization is therefore provided by this index rather than by relocating files.
 
-## Active — current frontier
+The index distinguishes four different situations:
+
+- **Current frontier** — questions presently receiving primary pressure.
+- **Active downstream** — open work that depends on earlier results but is not the current bottleneck.
+- **Complete at this level** — a bounded investigation that has reached a justified stopping point.
+- **Retained derivational record** — closed or superseded tests preserved because they document how the present architecture was reached.
+
+## 1. Current frontier
+
+### Atemporality / occurrence
 
 - [2026-08-28-occurrence-performance-atemporality.md](2026-08-28-occurrence-performance-atemporality.md)  
-  **Atemporality / actuality continuation.** Candidate C separates concrete event existence (`O_1`) from passage (`O_2`). Latest open object: admissibility of “atemporal” itself.
+  Continuation of the transition work. Separates actual/concrete event-token existence ($O_1$) from passage/becoming ($O_2$). Current upstream bottleneck: whether “atemporal” itself can be specified non-circularly.
 
 - [2026-08-28-orientation-transition-time.md](2026-08-28-orientation-transition-time.md)  
-  **Parent transition investigation.** Orientation can be specified without time; orientation is not transition.
+  Parent investigation. Establishes the working distinction between atemporal orientation and actual transition; no dynamical consequence of the Cut has been derived.
+
+### Verb-first / processivity
 
 - [2026-08-28-verb-first-fixed-point-test.md](2026-08-28-verb-first-fixed-point-test.md)  
-  **Foundational verb-first line.** Relation-first plus finitude does not force a hinge. Verb-first is not yet strong enough to derive the Exceptional Zero.
+  Tests whether a genuinely verb-first ontology excludes a self-exhausting relational fixed point. Relation-first plus finitude does not force the hinge; verb-first remains insufficiently specified.
+
+### Act / actuality
 
 - [2026-09-03-description-as-act-metaphysical-test.md](2026-09-03-description-as-act-metaphysical-test.md)  
-  **Description as act.** Describability/actuality candidate. Not a time derivation.
+  Tests description-as-act as a route to actuality/instantiation. No bridge to temporal succession or time is promoted.
 
 - [2026-09-03-act-upstream-of-actuality.md](2026-09-03-act-upstream-of-actuality.md)  
-  **Reverse arrow.** Can an act be specified without presupposing independently given actuality? AP1 run; no upstream act specification earned.
+  Reverse-direction act question. AP1 found no tested non-circular specification of act without importing actuality, occurrence, performance, or equivalent content.
 
-## Complete at this level
+## 2. Active downstream
 
-These files identified a precise stopping point. Further work would require machinery they have no independent warrant to introduce. Completion at this level is not a solution and not a sixth status. $\mathrm{Complete}(I)\not\Rightarrow\mathrm{Final}(I)$.
+These investigations remain open, but they are downstream of the present upstream frontier.
+
+### Diachronic identity / causal continuity
+
+- [2026-08-23-joint3-ownership-filter-pressure.md](2026-08-23-joint3-ownership-filter-pressure.md)  
+- [2026-08-23-joint3-history-mediated-interest-bridge.md](2026-08-23-joint3-history-mediated-interest-bridge.md)  
+- [2026-08-22-joint3-tracking-bridge-test.md](2026-08-22-joint3-tracking-bridge-test.md)  
+- [2026-08-22-interest-relative-diachronic-identity.md](2026-08-22-interest-relative-diachronic-identity.md)  
+- [diachronic-identity-representation-invariance.md](diachronic-identity-representation-invariance.md)  
+  These continue the downstream question of what counts as diachronic identity once succession and representation are held apart.
+
+### Recurring-signature line
+
+- [2026-08-20-recurring-signature-track1-structural.md](2026-08-20-recurring-signature-track1-structural.md)  
+  Structural track of the recurring-signature investigation. Remains open as a dependency of the downstream identity work.
+
+## 3. Complete at this level
+
+Completion here means that the bounded investigation identified a precise stopping point. It is not a solution, a final answer, or a sixth epistemic status.
+
+$$
+\mathrm{Complete}(I)\not\Rightarrow\mathrm{Final}(I)
+$$
+
+### Act / closure / method
 
 - [2026-09-03-act-behind-structure.md](2026-09-03-act-behind-structure.md)  
-  A/B/C + AB6 + AB7. No tested act-free account of actuality. That negative is not evidence that act is the missing ingredient. Act hypothesis not adopted. No AB8.
-
-- [2026-09-03-open-cut.md](2026-09-03-open-cut.md)  
-  OC1–OC5 run. Necessity of a terminal boundary remains unestablished. Demand for a final boundary was not shown to be the Cut. $R$, $H_{\mathrm{OC}}$, and Cut-identification unadopted. Does not say inquiry is necessarily open.
-
-- [2026-09-03-methodological-enclosure.md](2026-09-03-methodological-enclosure.md)  
-  Self-audit bottoms out without distinguishing boundary from unfinished method. The `?` is empty. Meta-Boundary is unadopted. Not representable by $A$ implies neither falsity of $X$ nor inadequacy of $A$. The Open Cut reassesses the demand imposed on this endpoint; it does not delete the stall.
+  A/B/C + AB6 + AB7. No tested act-free account of actuality. The negative result is not evidence that act is the missing ingredient; the act hypothesis is not adopted.
 
 - [2026-09-03-exercise-efficacy.md](2026-09-03-exercise-efficacy.md)  
-  AP2 run. Modal efficacy can be specified act-free but is insufficient for act; exercise has not acquired an earned specification independent of actuality, occurrence, performance, or collapse into disposition/efficacy. No AP3 licensed merely by residue.
+  AP2. Modal efficacy can be specified act-free but is insufficient for act; exercise has no earned specification independent of actuality, occurrence, performance, or collapse into disposition/efficacy. No AP3 is licensed merely by residue.
 
-## Active — downstream open investigations
+- [2026-09-03-methodological-enclosure.md](2026-09-03-methodological-enclosure.md)  
+  Self-audit bottoms out without distinguishing boundary from unfinished method. “Model-space failure” describes a gap in the inventory but is not itself a verdict that the methodology is inadequate.
 
-These remain genuinely open. They are not the current overall bottleneck.
+- [2026-09-03-open-cut.md](2026-09-03-open-cut.md)  
+  OC1–OC5. Necessity of a terminal boundary remains unestablished. The demand for final closure was not shown to be the Cut, and inquiry was not shown to be necessarily open.
 
-- [2026-08-23-joint3-ownership-filter-pressure.md](2026-08-23-joint3-ownership-filter-pressure.md)
-- [2026-08-23-joint3-history-mediated-interest-bridge.md](2026-08-23-joint3-history-mediated-interest-bridge.md)
-- [2026-08-22-joint3-tracking-bridge-test.md](2026-08-22-joint3-tracking-bridge-test.md)
-- [2026-08-22-interest-relative-diachronic-identity.md](2026-08-22-interest-relative-diachronic-identity.md)
-- [diachronic-identity-representation-invariance.md](diachronic-identity-representation-invariance.md)
-- [2026-08-20-recurring-signature-track1-structural.md](2026-08-20-recurring-signature-track1-structural.md)
+## 4. Retained derivational record
 
-## Closed candidate tests / retained derivational record
+These are preserved as part of the project's reasoning history. Their inclusion here does not imply that their candidates or conclusions are current.
 
-- [2026-08-20-recurring-signature-track2-survivor-search.md](2026-08-20-recurring-signature-track2-survivor-search.md)
+### Selector / membership / recurrence
+
 - [2026-08-28-for-this-selector-test.md](2026-08-28-for-this-selector-test.md)
 - [2026-08-22-gstar1-membership-boundary-attack.md](2026-08-22-gstar1-membership-boundary-attack.md)
 - [2026-08-21-gstar-selective-usefulness-test.md](2026-08-21-gstar-selective-usefulness-test.md)
+- [2026-08-20-recurring-signature-track2-survivor-search.md](2026-08-20-recurring-signature-track2-survivor-search.md)
+
+### UCL / causal provenance
+
 - [diachronic-identity-ucl-battery.md](diachronic-identity-ucl-battery.md)
 - [2026-08-20-diachron-identity-causal-provenance-survivor.md](2026-08-20-diachron-identity-causal-provenance-survivor.md)
 - [2026-08-20-ucl-origin-axioms.md](2026-08-20-ucl-origin-axioms.md)
 - [2026-08-20-diachron-identity-ucl-junction-rules.md](2026-08-20-diachron-identity-ucl-junction-rules.md)
+
+### $C_*$ / intervention / variable-selection work
+
 - [2026-08-20-diachron-identity-causal-relation-cstar.md](2026-08-20-diachron-identity-causal-relation-cstar.md)
 - [2026-08-20-diachron-identity-cstar-intervention-semantics.md](2026-08-20-diachron-identity-cstar-intervention-semantics.md)
 - [2026-08-20-diachron-identity-variable-selection.md](2026-08-20-diachron-identity-variable-selection.md)
 
-## Current research bottleneck
+## 5. Dependency map
 
-**Object-level:** Can “atemporal” be specified without presupposing the temporal/performance content it is meant to exclude?
+The current upstream architecture is best read as three neighboring lines rather than one forced derivation:
 
-**Reverse-act line:** Can an act be specified without presupposing independently given actuality? AP1 has not yielded a non-circular specification; AP2 finds act-free modal efficacy but not act itself in exercise.
+### Atemporality / occurrence
 
-Keep AT, verb-first, and act distinct. A missing explanation is not the proposed explanation.
+$$
+\mathrm{Cut}
+\rightarrow
+\mathrm{distinction}
+\rightarrow?
+\mathrm{orientation}
+\rightarrow?
+\mathrm{transition}
+\rightarrow?
+\mathrm{occurrence}
+\rightarrow?
+\mathrm{time}
+$$
 
-**Method-level:** Enclosure and Open Cut are both complete at this level. Do not invent a mover, time primitive, or `G*_2`.
+Current bottleneck: **Can “atemporal” itself be specified without presupposing the temporal/performance content it is meant to exclude?**
+
+### Verb-first
+
+Relation-first plus finitude does not force a hinge. A genuinely verb-first account would need an independently discriminating notion of processivity or irreducible doing. That bridge has not been earned.
+
+### Act / actuality
+
+The attempted direction from actuality back to act was rejected as unearned. The reverse question is now:
+
+$$
+\text{act}\rightarrow?\rightarrow\text{structure / actuality}
+$$
+
+AP1 and AP2 have not produced the missing act specification. Modal efficacy survives as act-free, but exercise does not thereby acquire an independent account.
+
+## 6. Method-level results
+
+Methodological Enclosure and Open Cut are complete at this level. They should not be read as proving either methodological inadequacy or necessary openness.
+
+The governing rule remains:
+
+> Nothing is stronger than its status.
+
+A missing candidate is not evidence for the missing candidate. A failed bridge is not its own replacement. A complete bounded investigation is not global closure.
+
+## 7. Navigation rule
+
+Start here when entering `investigations/`.
+
+Read the **current frontier** first. Use **active downstream** for questions that remain live but depend on upstream machinery. Read **complete at this level** when checking what has already been pressure-tested and deliberately stopped. Use the **retained derivational record** when reconstructing how a candidate was eliminated, narrowed, or superseded.
+
+The physical flatness of the directory is intentional for now. Do not move or rename investigation files merely for cosmetic organization; stable paths and Git history are part of the research record.
