@@ -51,7 +51,7 @@ The guiding contrasts remain:
 A third model was tested after designation and primitive occurrence:
 
 \[
-\mathcal M=(W,E,R,\operatorname{Conc})
+\mathcal M=(W,E,R,\mathrm{Conc})
 \]
 
 where `Conc` is a primitive monadic predicate on states and event tokens meaning concrete/actual rather than merely represented.
@@ -65,7 +65,7 @@ This gives a coherent atemporal model of `O_1` if concreteness is admitted as pr
 But a concrete event token carrying orientation does not thereby supply passage:
 
 \[
-\boxed{\text{atemporal concreteness}\nRightarrow O_2}
+\boxed{\text{atemporal concreteness}\not\Rightarrow O_2}
 \]
 
 The battery therefore split “occurrence” into actual existence of an event token and passage/becoming. The latter remains the unresolved target.
@@ -77,7 +77,7 @@ The battery therefore split “occurrence” into actual existence of an event t
 Let the atemporal signature be:
 
 \[
-\sigma=(W,E,\operatorname{Conc},\prec).
+\sigma=(W,E,\mathrm{Conc},\prec).
 \]
 
 Candidate definitions of `Pass(A,B)` were tested using concrete event tokens, atemporal order, actuality contrast, minimality, and immediate-successor structure.
@@ -87,7 +87,7 @@ Every tested definition remained a static relation on the structure. No formula 
 Earned bounded result:
 
 \[
-\boxed{O_1+\text{atemporal order}\nRightarrow O_2}
+\boxed{O_1+\text{atemporal order}\not\Rightarrow O_2}
 \]
 
 No impossibility theorem was claimed. Route A remains open in the sense that a richer atemporal language has not been universally excluded.
@@ -197,7 +197,7 @@ This does not prove that performance is primitive. It isolates the performance r
 A further candidate primitive was:
 
 \[
-\operatorname{Unfold}\subseteq W\times W.
+\mathrm{Unfold}\subseteq W\times W.
 \]
 
 Interpretations through bare relation, concreteness, actualization, primitive process, atemporal generation, and meta-level operation were tested.
@@ -256,7 +256,7 @@ The investigation explicitly avoids the universal claim that every possible atem
 Fix the atemporal signature:
 
 \[
-\sigma=(W,E,\operatorname{Conc},\prec,H_*).
+\sigma=(W,E,\mathrm{Conc},\prec,H_*).
 \]
 
 Construct two interpretations with identical `\sigma`-structure but opposite values of `P(e^*)`.
@@ -369,7 +369,7 @@ This is a constructive failure across the tested families, not a theorem that no
 \]
 
 \[
-\boxed{O_1+\text{atemporal order}\nRightarrow O_2\quad\text{in every construction tested}.}
+\boxed{O_1+\text{atemporal order}\not\Rightarrow O_2\quad\text{in every construction tested}.}
 \]
 
 \[
