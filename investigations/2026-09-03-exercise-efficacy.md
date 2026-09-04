@@ -22,7 +22,7 @@ Exercise and efficacy must be kept separate. An efficacy may be a modal or dispo
 Candidate: define efficacy without actual execution, using counterfactual dependence. Schematically:
 
 $$
-\operatorname{Eff}(C,O)
+\mathrm{Eff}(C,O)
 $$
 
 means that under specified intervention/condition $C$, outcome-description $O$ follows across the relevant admissible models.
@@ -56,7 +56,7 @@ $$
 Candidate:
 
 $$
-\operatorname{Exercise}(P,x)
+\mathrm{Exercise}(P,x)
 $$
 
 where $P$ is a power/disposition of $x$ and Exercise says that the disposition is activated or manifested.
