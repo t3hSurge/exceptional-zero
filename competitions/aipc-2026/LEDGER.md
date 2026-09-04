@@ -15,3 +15,10 @@ Contemporaneous record. One entry per session. Do not wait until the report is w
 - Profile created as an independent researcher. No manufactured institutional affiliation.
 - Profile id: `~Seth_Champion1`.
 - Status: in the moderation queue. T1-A waits for activation.
+
+## 2026-09-04 — OpenReview activation issue
+
+- OpenReview notified that profile `~Seth_Champion1` could not be activated because its affiliation is listed as `Independent Researcher` while all confirmed email addresses are from public email providers.
+- OpenReview requested a confirmed institutional email address associated with the affiliation.
+- Contacted OpenReview through its Contact page, explaining verbatim that the researcher is genuinely independent and has no institutional affiliation or institutional email address, and asking how profile activation should be completed in that case.
+- Status: awaiting OpenReview response; no affiliation misrepresentation introduced.
