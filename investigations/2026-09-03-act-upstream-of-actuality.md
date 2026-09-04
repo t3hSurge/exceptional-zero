@@ -62,7 +62,7 @@ The test is not whether the word *act* can be used. It is whether an act-like on
 Candidate:
 
 $$
-\operatorname{Act}(x,y).
+\mathrm{Act}(x,y).
 $$
 
 As a bare primitive relation, this is formally coherent. But its distinguishing content from an ordinary static relation is absent. Calling the relation an “act” does not make it active.
@@ -117,7 +117,7 @@ $$
 
 ### D. Primitive act
 
-Allow $\operatorname{Act}$ as an irreducible primitive with no reduction to relation, transformation, or disposition.
+Allow $\mathrm{Act}$ as an irreducible primitive with no reduction to relation, transformation, or disposition.
 
 This is not automatically incoherent. But two readings separate:
 
@@ -131,7 +131,7 @@ No third content-bearing specification was isolated in this pass.
 Candidate:
 
 $$
-\operatorname{Act}:=\text{whatever remains after static structure and actuality are removed}.
+\mathrm{Act}:=\text{whatever remains after static structure and actuality are removed}.
 $$
 
 This is explicitly circular for the present investigation. It does not specify act upstream; it defines act as a residue of the very distinction under test.
