@@ -100,17 +100,15 @@ Failure of identification is not by itself failure of existence.
 
 ### Test C — Complete theory versus objectlessness
 
-A complete theory of a structure does not in general erase the structure it describes. The relevant question is instead whether the theory is categorical, whether a given object is definable, and whether the language can distinguish elements or structures.
+A complete theory of a structure does not in general erase the structure it describes. The relevant questions instead concern what the language defines, what it leaves invariant, and whether stronger logics can characterize more of a structure. First-order model theory distinguishes elementary equivalence from isomorphism, while infinitary logic can in suitable cases give a Scott sentence characterizing a countable structure up to isomorphism.
 
-The existing Exceptional Zero investigation already found that a structural difference may be real even when a particular formal language cannot express that difference.
-
-**Result:** Description-language limitations and objecthood must remain separate.
+**Result:** Description-language limitations and objecthood must remain separate. “Complete” is relative to a formal descriptive regime.
 
 ### Test D — The “no contrast” argument
 
 There is, however, a narrower and more interesting observation. Categories gain much of their explanatory force by dividing a domain from what is outside the category. A fully general category has no complement within the relevant totality, which can make it theoretically idle with respect to classification.
 
-This is a known issue in philosophical work on objecthood: a fully general category such as “object” may have no contrast class, making its classificatory role difficult to state. citeturn449059search0
+This is a known issue in philosophical work on objecthood: a fully general category such as “object” may have no contrast class, making its classificatory role difficult to state.
 
 This resembles the present intuition but does **not** establish that the category collapses into Nothing. It establishes at most that absence of contrast can undermine a classification's *carving function*.
 
@@ -120,7 +118,7 @@ This resembles the present intuition but does **not** establish that the categor
 
 A further problem appears if the claim is phrased literally. If Nothing is itself the object of an exhaustive description, then the description appears to have successfully singled out an object—namely Nothing.
 
-But philosophical treatments of Nothing often distinguish the statement “there is nothing” from positing an entity called Nothing. In discussions of ontological nihilism, attempts are made to paraphrase apparently object-involving claims into forms that do not quantify over objects. citeturn449059search1turn449059search0
+Philosophical treatments of Nothing often distinguish the claim that there is nothing from positing an entity called Nothing. In discussions of ontological nihilism, some approaches instead seek ontologically innocent paraphrases that avoid quantifying over objects.
 
 Thus “Nothing” may be functioning here not as an object but as the **failure of object-reference**.
 
@@ -193,3 +191,11 @@ The current result is therefore a narrowing of the problem, not a failure of the
 ## Next pressure
 
 The next investigation should formalize **descriptive contrast** and test whether there is a principled limit at which all object-identifying distinctions are exhausted while ontological commitment remains non-empty.
+
+## Sources consulted
+
+- Stanford Encyclopedia of Philosophy, [“Object”](https://plato.stanford.edu/entries/object/index.html)
+- Stanford Encyclopedia of Philosophy, [“Nothingness”](https://plato.stanford.edu/entries/nothingness/)
+- Stanford Encyclopedia of Philosophy, [“Descriptions”](https://plato.stanford.edu/entries/descriptions/)
+- Cambridge University Press, [“An Introduction to the Scott Complexity of Countable Structures and a Survey of Recent Results”](https://doi.org/10.1017/bsl.2021.62)
+- Stanford Encyclopedia of Philosophy, [“First-order Model Theory”](https://plato.stanford.edu/archives/win2001/entries/modeltheory-fo/)
