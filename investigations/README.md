@@ -34,6 +34,11 @@ The index distinguishes four different situations:
 - [2026-09-03-act-upstream-of-actuality.md](2026-09-03-act-upstream-of-actuality.md)  
   Reverse-direction act question. AP1 found no tested non-circular specification of act without importing actuality, occurrence, performance, or equivalent content.
 
+### Description / objecthood
+
+- [2026-09-04-exhaustive-description-nothing-objecthood.md](2026-09-04-exhaustive-description-nothing-objecthood.md)  
+  Tests whether a description that leaves nothing undescribed must have Nothing as its only possible object. Broad completeness readings are counterexampled; absolute exhaustiveness remains insufficiently specified.
+
 ## 2. Active downstream
 
 These investigations remain open, but they are downstream of the present upstream frontier.
