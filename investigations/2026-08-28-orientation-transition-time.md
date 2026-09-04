@@ -14,11 +14,11 @@ The diachronic-identity work asks which causal continuity counts *through* time.
 $$
 \mathrm{Cut}\Rightarrow\mathrm{distinction}
 \qquad
-\mathrm{Cut}\nRightarrow\mathrm{movement}
+\mathrm{Cut}\not\Rightarrow\mathrm{movement}
 $$
 
 $$
-\mathrm{distinction}\nRightarrow\mathrm{succession}
+\mathrm{distinction}\not\Rightarrow\mathrm{succession}
 $$
 
 This is the Actualization Boundary applied to becoming: a structural condition can make something possible without making its occurrence necessary. `A | B` does not entail `A → B`.
@@ -95,15 +95,15 @@ Chain so far:
 $$
 \mathrm{Cut}\rightarrow\mathrm{distinction}
 \qquad
-\mathrm{distinction}\nRightarrow\mathrm{orientation}
+\mathrm{distinction}\not\Rightarrow\mathrm{orientation}
 \qquad
-\mathrm{orientation}\nRightarrow\text{transition}
+\mathrm{orientation}\not\Rightarrow\text{transition}
 $$
 
 The Actualization Boundary still blocks:
 
 $$
-\text{possible }R(A,B)\nRightarrow\text{actual transition}
+\text{possible }R(A,B)\not\Rightarrow\text{actual transition}
 $$
 
 ---
@@ -199,7 +199,7 @@ If a later exhaustion argument answered this with no, then explaining time by ap
 What is earned:
 
 $$
-\boxed{\text{orientation}\nRightarrow\text{transition}}
+\boxed{\text{orientation}\not\Rightarrow\text{transition}}
 $$
 
 ---
