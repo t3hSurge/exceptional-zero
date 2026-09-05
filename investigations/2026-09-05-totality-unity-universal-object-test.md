@@ -36,6 +36,7 @@ The following must not be conflated:
 3. **Objecthood:** something qualifies as an object under the relevant account.
 4. **Unity:** a collection counts as one thing rather than merely being a plurality or domain.
 5. **Self-membership / same-level objecthood:** the totality is itself a member/object within the domain it exhausts.
+6. **Self-identity:** a thing is identical with itself, without thereby being numerically unique among alternatives.
 
 In particular:
 
@@ -44,6 +45,14 @@ $$
 $$
 
 is a live possibility to be tested, not a conclusion.
+
+The new pressure test also requires separating:
+
+$$
+\text{numerical unity}\neq\text{contrast-free self-identity}.
+$$
+
+The former says that there is one rather than several candidates. The latter says only that the thing is itself. The second does not require an external delimiter and therefore cannot be rejected merely because it fails to establish uniqueness.
 
 ## 4. Falsification criteria
 
@@ -56,6 +65,10 @@ The candidate is weakened or defeated if any of the following can be established
 - “one” turns out to be a stipulation or a restatement of exhaustive membership rather than an independently explained unity.
 
 The candidate is strengthened only if exhaustive inclusion can be shown to entail numerical unity without importing a separate principle of unity.
+
+A secondary positive test is also now recognized:
+
+- if a notion of unity can be grounded in self-identity or indivision without requiring an external contrast, that is a **positive result for contrast-free unity**, even if it does not establish numerical uniqueness.
 
 ## 5. Formal pressure test
 
@@ -97,7 +110,7 @@ $$
 U = \{x : x=x\}.
 $$
 
-Even granting $U$ as an object does not by itself explain why $U$ is **one** in the metaphysical sense under investigation.
+Even granting $U$ as an object does not by itself explain why $U$ is **numerically one** in the sense of being the unique candidate among alternatives.
 
 The explanatory direction appears to be:
 
@@ -115,7 +128,41 @@ $$
 U\text{ is one object}.
 $$
 
-This is the central surviving pressure point.
+This remains the central surviving pressure point **for numerical unity**.
+
+### 5.4 Self-identity as a positive unity result
+
+The preceding formulation was too strong if it treated the inability of self-identity to establish numerical uniqueness as a failure of unity altogether.
+
+Consider:
+
+$$
+U=U.
+$$
+
+This requires no external object, boundary, alternative, or contrast. It is therefore a genuine candidate for **contrast-free unity**: $U$ is not being called one because it has been counted against a plurality; it is simply identical with itself.
+
+This does **not** establish:
+
+$$
+U\text{ is the unique object in the domain}.
+$$
+
+But that is a different claim. The distinction is:
+
+$$
+\text{self-identity}\not\Rightarrow\text{numerical uniqueness}
+$$
+
+while remaining compatible with:
+
+$$
+\text{self-identity}\Rightarrow\text{a candidate for intrinsic, contrast-free unity}.
+$$
+
+The result is therefore not a failure of the unity test. It is a semantic clarification about what “one” is being asked to mean.
+
+This distinction has a close historical analogue in medieval transcendental theories, where the metaphysical “one” is distinguished from the mathematical one that serves as the principle of number. Aquinas treats transcendental unity as the negation of division, rather than the numerical measure used to count things. Aristotle likewise connects the proper meaning of the metaphysical one with indivisibility. citeturn0search0
 
 ## 6. Test results
 
@@ -131,11 +178,11 @@ Alternative set theories can admit a universal set. Therefore the investigation 
 
 **Status:** Earned as a scope restriction.
 
-### Result C — Totality does not yet explain unity
+### Result C — Totality does not yet explain numerical unity
 
-Even if a universal object $U$ is admitted, the fact that $U$ contains everything does not itself provide an independent account of why $U$ counts as numerically one rather than merely being the total domain of discourse.
+Even if a universal object $U$ is admitted, the fact that $U$ contains everything does not itself provide an independent account of why $U$ is **numerically one** rather than merely being the total domain of discourse.
 
-This is not a proof that $U$ lacks unity. It is a failure of the current candidate to explain unity from inclusion alone.
+This is not a proof that $U$ lacks unity. It is a failure of the current candidate to explain **numerical uniqueness from inclusion alone**.
 
 **Status:** Open pressure point.
 
@@ -157,6 +204,14 @@ $$
 
 **Status:** Open.
 
+### Result E — Self-identity survives as a candidate for contrast-free unity
+
+The earlier treatment of self-identity as an “insufficient ground” conflated two different targets. If the target is **numerical uniqueness**, then self-identity is insufficient: $U=U$ does not say that no second candidate exists. If the target is **unity without external delimitation**, however, self-identity is a positive result. It requires no outside, boundary, comparison class, or second term.
+
+This does not yet prove that self-identity *is* unity. It establishes a coherent candidate in which unity need not be contrastive.
+
+**Status:** Earned as a semantic/conceptual distinction; the identification of unity with self-identity remains Open.
+
 ## 7. What has not been established
 
 The investigation does **not** establish:
@@ -170,44 +225,64 @@ The investigation does **not** establish:
 - that totality is necessarily many things;
 - that “Everything” is a mere quantifier rather than a possible metaphysical unity;
 - that the absence of an external contrast entails the absence of objecthood;
+- that self-identity is identical with unity rather than merely a candidate ground for contrast-free unity;
+- that self-identity establishes numerical uniqueness;
 - that any of these results constitute the Cut.
 
 ## 8. Relation to the description/objecthood investigation
 
 The earlier investigation tested the stronger claim that an exhaustive description must have Nothing as its only possible object. That claim was counterexampled under broad readings of exhaustiveness, while absolute exhaustiveness remained insufficiently specified.
 
-The present test is narrower and different. It asks whether **exhaustive inclusion** supplies **numerical unity**.
+The present test is narrower and different. It asks whether **exhaustive inclusion** supplies **numerical unity**, while also testing whether a non-numerical notion of unity can survive without external delimitation.
 
 The current relationship is therefore:
 
 $$
-\text{description exhaustiveness}\neq\text{totality}\neq\text{unity}.
+\text{description exhaustiveness}\neq\text{totality}\neq\text{numerical unity}.
 $$
 
 A successful argument connecting these notions would have to supply the missing bridge rather than treating them as interchangeable.
 
+At the same time, the investigation now has a positive residue:
+
+$$
+\text{self-identity}\quad\text{may supply a model of unity without external contrast.}
+$$
+
+That residue is conceptually prior to the question of whether such unity is numerical, ontological, or metaphysical.
+
 ## 9. Next pressure
 
-The next bounded question is:
+The next bounded question is no longer simply:
 
 > **What, if anything, turns exhaustive inclusion into numerical unity?**
 
-Candidate answers to test include:
+It should be split into two tests:
+
+1. **Numerical unity:**
+   > What, if anything, turns exhaustive inclusion into the claim that there is exactly one candidate?
+
+2. **Intrinsic unity:**
+   > **Is self-identity sufficient for unity, or does “unity” add something beyond being itself?**
+
+The second is especially important because rejecting it merely for failing to establish numerical uniqueness would repeat the original category error.
+
+Candidate answers for the numerical question include:
 
 - boundary;
 - internal structural coherence;
 - common membership/domainhood;
 - causal unity;
-- primitive unity;
-- or no further unity at all.
+- primitive uniqueness;
+- or no numerical unity at all.
 
-A particularly sharp follow-up is:
+Candidate answers for the intrinsic question include:
 
-> **Can there be a totality that is exhaustive but not one thing?**
-
-The converse should also be tested:
-
-> **Can there be a unity that is not an object?**
+- unity is simply indivision;
+- unity is self-identity;
+- unity is a primitive transcendental feature of being;
+- self-identity and unity are distinct but necessarily co-present;
+- or the question still presupposes a distinction that cannot be applied at the absolute level.
 
 No answer is promoted by this investigation.
 
@@ -215,7 +290,9 @@ No answer is promoted by this investigation.
 
 **Open.**
 
-The investigation has ruled out one tempting inference—indefinite enlargement does not by itself entail a maximal set—and has established that universal-objecthood is framework-dependent. It has **not** determined whether metaphysical totality is a unity, a domain, a higher-order object, or something for which the object/domain distinction does not apply.
+The investigation has ruled out one tempting inference—indefinite enlargement does not by itself entail a maximal set—and has established that universal-objecthood is framework-dependent. It has also established a positive conceptual result: self-identity does not require external contrast and therefore survives as a candidate for intrinsic unity, even though it cannot by itself establish numerical uniqueness.
+
+The investigation has **not** determined whether metaphysical totality is a numerical unity, an intrinsic unity, a domain, a higher-order object, or something for which the object/domain distinction does not apply.
 
 The governing rule remains:
 
