@@ -39,6 +39,9 @@ The index distinguishes four different situations:
 - [2026-09-04-exhaustive-description-nothing-objecthood.md](2026-09-04-exhaustive-description-nothing-objecthood.md)  
   Tests whether a description that leaves nothing undescribed must have Nothing as its only possible object. Broad completeness readings are counterexampled; absolute exhaustiveness remains insufficiently specified.
 
+- [2026-09-05-totality-unity-universal-object-test.md](2026-09-05-totality-unity-universal-object-test.md)  
+  Tests whether exhaustive inclusion licenses numerical unity or same-level objecthood. Indefinite enlargement does not entail a maximal set; universal-objecthood is framework-dependent; whether totality itself is a unity remains open.
+
 ## 2. Active downstream
 
 These investigations remain open, but they are downstream of the present upstream frontier.
