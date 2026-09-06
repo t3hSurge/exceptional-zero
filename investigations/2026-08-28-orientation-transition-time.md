@@ -1,9 +1,12 @@
 # Distinction, Orientation, Transition, Time
 
 **Status:** Open investigation  
-**Scope:** Whether $A \rightarrow B$ can be specified without presupposing time, and whether any middle notion of transition is stronger than orientation and weaker than temporal succession  
+**Scope:** Whether $A \rightarrow B$ can be specified without presupposing time, and whether any middle notion of transition is stronger than orientation and weaker than temporal succession. Orientation is treated as independently positively specifiable; atemporality is not treated as an established contrast class.  
 **Depends on:** Actualization Boundary (regulative); Cut as distinction, not movement  
 **Not in scope:** movers, time primitives, $C_*$, $G^*_2$, $\Sigma$, identity ranking
+
+
+> **2026-09-05 update:** The atemporality positive-specification test reached **Boundary**: no tested positive structural gloss specified atemporality rather than a clock-free structural or descriptive condition. The orientation follow-up reached **Derived**: orientation is independently specified here as asymmetric assignment of relata to non-interchangeable positions within a relation. Accordingly, this file no longer relies on an "atemporal orientation" pole; its live distinction is orientation versus transition.
 
 ---
 
@@ -40,7 +43,7 @@ Forbidden as primitives: time, earlier/later, before/after, duration, clock, suc
 Three readings must be kept apart:
 
 1. **Temporal primitive.** $A \rightarrow B$ already means $A \prec_t B$. Time was in the description.
-2. **Atemporal directed relation.** Some $R(A,B)$ is independently specifiable and does not mean temporal order. Then: what turns $R$ into an actual transition?
+2. **Directed relation.** Some $R(A,B)$ is independently specifiable as asymmetric relational role structure and does not by itself mean transition. Then: what turns $R$ into an actual transition?
 3. **Hidden temporal vocabulary.** The word "time" is avoided while succession, change, becoming, replacement, or equivalent content is smuggled back in.
 
 Locked distinctions:
@@ -62,11 +65,11 @@ Let $G=(V,E)$ with $E \subseteq V \times V$. Write $A \rightarrow B$ for $(A,B) 
 
 This specifies orientation: an ordered pair. It does not say that $A$ ceases, that $B$ occurs, or that anything happens. Two co-present nodes plus an arrow are a static fact about a graph.
 
-**Result:** atemporal specification is possible *for orientation*. Transition has not been introduced.
+**Result:** orientation has a positive structural specification without passage contrast. Transition has not been introduced.
 
 ### T2. Functional dependence
 
-$B=f(A)$ is atemporal as mathematics. A lookup table is not a happening.
+$B=f(A)$ is mathematically specifiable without passage vocabulary. A lookup table is not a happening.
 
 **Result:** functional direction $\neq$ transition.
 
@@ -74,7 +77,7 @@ $B=f(A)$ is atemporal as mathematics. A lookup table is not a happening.
 
 A poset can be specified without the word "time." Interpreting $\ll$ as "is succeeded by" reinserts transitional content by reading, not by the axioms.
 
-**Result:** order can be atemporal as syntax; successor-as-happening has not been specified.
+**Result:** order can be structurally specified without passage contrast; successor-as-happening has not been specified.
 
 ### T4. Hidden-vocabulary check
 
@@ -82,9 +85,9 @@ If the definition of $A \rightarrow B$ still needs succession, change, becoming,
 
 ### T5. Consequence
 
-$$
-\boxed{R(A,B)\text{ can be atemporal}}
-$$
+$
+\boxed{R(A,B)\text{ can specify orientation without passage contrast}}
+$
 
 $$
 \boxed{R(A,B)\text{ is not yet a transition}}
@@ -144,7 +147,7 @@ Actuality "moves" from $w_A$ to $w_B$. "Moves" is the target. A directed relatio
 
 ### M6. Asymmetric dependence of actuality
 
-The actuality of $B$ depends on the actuality of $A$, not conversely. This can be wholly atemporal (grounding, mathematical determination). Dependence is not passage. If "depends" is specified as causal production, temporal priority typically re-enters.
+The actuality of $B$ depends on the actuality of $A$, not conversely. This can be specified without passage contrast (grounding, mathematical determination). Dependence is not passage. If "depends" is specified as causal production, temporal priority typically re-enters.
 
 **Can be atemporal; does not yet give transition.**
 
@@ -332,7 +335,7 @@ The sequence gives ordering, and perhaps a formal notion of transition, but not 
 
 Define occurrence using a primitive event-token $e=(A,F,B)$ and stipulate $Occ(e)$.
 
-Formally this can be atemporal. Then the ontology contains events as primitives, and an event is precisely what an actual transition is. Same result as M13 by another route:
+Formally this can be specified without temporal succession vocabulary. Then the ontology contains events as primitives, and an event is precisely what an actual transition is. Same result as M13 by another route:
 
 $$
 \boxed{\text{A non-temporal transition is conceivable as a primitive event.}}
@@ -346,7 +349,7 @@ $$
 
 Two genuinely different remaining possibilities:
 
-**Route A — reduction.** Some as-yet-unidentified atemporal structure $R$ plus independently specified conditions constitutes occurrence without importing temporal succession. No such $R$ has been found. Route A is not exhausted.
+**Route A — reduction.** Some as-yet-unidentified structural condition $R$, specifiable without passage contrast, plus independently specified conditions constitutes occurrence without importing temporal succession. No such $R$ has been found. Route A is not exhausted.
 
 **Route B — primitive occurrence.** Occurrence is an irreducible fact added to the ontology, potentially without being temporal itself. This is not "giving up." It would be a legitimate result if A were eventually exhausted. That exhaustion is **not earned**.
 
@@ -371,7 +374,7 @@ $$
 **Earned:**
 
 $$
-\boxed{\text{No tested atemporal structural construction derives actual transition.}}
+\boxed{\text{No tested structural construction specified without passage contrast derives actual transition.}}
 $$
 
 The Cut has not been shown to generate occurrence.
