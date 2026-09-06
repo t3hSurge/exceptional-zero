@@ -13,16 +13,32 @@ The index distinguishes four different situations:
 
 ## 1. Current frontier
 
-### Atemporality / occurrence
+### Description / objecthood
+
+- [2026-09-05-totality-unity-universal-object-test.md](2026-09-05-totality-unity-universal-object-test.md)  
+  Tests whether exhaustive inclusion licenses numerical unity or same-level objecthood. Indefinite enlargement does not entail a maximal set; universal-objecthood is framework-dependent; whether totality itself is a unity remains open.
+
+### Occurrence line — frozen
 
 - [2026-08-28-occurrence-performance-atemporality.md](2026-08-28-occurrence-performance-atemporality.md)  
-  Continuation of the transition work. Separates actual/concrete event-token existence ($O_1$) from passage/becoming ($O_2$). Current upstream bottleneck: whether “atemporal” itself can be specified non-circularly.
+  Historical record of the occurrence line. The atemporality positive-specification test reached Boundary; no new occurrence file is opened from that result.
 
 - [2026-08-28-orientation-transition-time.md](2026-08-28-orientation-transition-time.md)  
-  Parent investigation. Establishes the working distinction between atemporal orientation and actual transition; no dynamical consequence of the Cut has been derived.
+  Parent investigation, now frozen at orientation. Orientation is Derived as asymmetric role structure; “transition” is retained only as a regulative placeholder, not as a rung.
 
-- [2026-09-05-state-transition-causal-sufficiency-test.md](2026-09-05-state-transition-causal-sufficiency-test.md)  
-  Tests whether transition from $O_n$ to $O_{n+1}$ requires an ontologically external participant. Autonomous transition defeats that inference; a narrower transition-specification residue survives. Actual exercise remains distinct and unresolved.
+- [2026-09-05-atemporality-positive-specification-test.md](2026-09-05-atemporality-positive-specification-test.md)  
+  Boundary: no tested positive structural gloss specified atemporality rather than a clock-free structural or descriptive condition.
+
+- [2026-09-05-orientation-without-atemporal-contrast.md](2026-09-05-orientation-without-atemporal-contrast.md)  
+  Derived: orientation can be positively specified without an atemporal contrast class.
+
+- [2026-09-05-transition-beyond-orientation.md](2026-09-05-transition-beyond-orientation.md)  
+  Boundary: no tested surplus over orientation specified transition without either leaking or changing the target.
+
+- [2026-09-05-status-of-transition.md](2026-09-05-status-of-transition.md)  
+  Regulative placeholder: “transition” is not a licensed predicate of structures and is retained only as a ban on inferring passage from role-structure.
+
+**Occurrence line stopped at orientation. “Transition” retained only as a ban on inferring passage from role-structure.**
 
 ### Verb-first / processivity
 
@@ -41,9 +57,6 @@ The index distinguishes four different situations:
 
 - [2026-09-04-exhaustive-description-nothing-objecthood.md](2026-09-04-exhaustive-description-nothing-objecthood.md)  
   Tests whether a description that leaves nothing undescribed must have Nothing as its only possible object. Broad completeness readings are counterexampled; absolute exhaustiveness remains insufficiently specified.
-
-- [2026-09-05-totality-unity-universal-object-test.md](2026-09-05-totality-unity-universal-object-test.md)  
-  Tests whether exhaustive inclusion licenses numerical unity or same-level objecthood. Indefinite enlargement does not entail a maximal set; universal-objecthood is framework-dependent; whether totality itself is a unity remains open.
 
 ## 2. Active downstream
 
@@ -111,9 +124,11 @@ These are preserved as part of the project's reasoning history. Their inclusion 
 
 ## 5. Dependency map
 
-The current upstream architecture is best read as three neighboring lines rather than one forced derivation:
+The current upstream architecture is best read as neighboring lines rather than one forced derivation.
 
-### Atemporality / occurrence
+### Occurrence line — frozen
+
+The live occurrence chain currently stops at orientation:
 
 $$
 \mathrm{Cut}
@@ -121,15 +136,9 @@ $$
 \mathrm{distinction}
 \rightarrow?
 \mathrm{orientation}
-\rightarrow?
-\mathrm{transition}
-\rightarrow?
-\mathrm{occurrence}
-\rightarrow?
-\mathrm{time}
 $$
 
-Current bottleneck: **Can “atemporal” itself be specified without presupposing the temporal/performance content it is meant to exclude?**
+Atemporality reached Boundary: no tested positive specification survived as atemporality rather than a clock-free structural or descriptive condition. Transition beyond orientation also reached Boundary. “Transition” is therefore retained only as a regulative placeholder, not as a specified rung.
 
 ### Verb-first
 
@@ -144,6 +153,10 @@ $$
 $$
 
 AP1 and AP2 have not produced the missing act specification. Modal efficacy survives as act-free, but exercise does not thereby acquire an independent account.
+
+### Description / objecthood
+
+Totality-as-unity remains open and is the current neighboring line that does not require recovering passage. The present question is whether totality itself can be understood as one rather than merely exhaustive inclusion, and whether same-level objecthood follows.
 
 ## 6. Method-level results
 
