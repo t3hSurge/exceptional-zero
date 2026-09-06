@@ -21,6 +21,9 @@ The index distinguishes four different situations:
 - [2026-08-28-orientation-transition-time.md](2026-08-28-orientation-transition-time.md)  
   Parent investigation. Establishes the working distinction between atemporal orientation and actual transition; no dynamical consequence of the Cut has been derived.
 
+- [2026-09-05-state-transition-causal-sufficiency-test.md](2026-09-05-state-transition-causal-sufficiency-test.md)  
+  Tests whether transition from $O_n$ to $O_{n+1}$ requires an ontologically external participant. Autonomous transition defeats that inference; a narrower transition-specification residue survives. Actual exercise remains distinct and unresolved.
+
 ### Verb-first / processivity
 
 - [2026-08-28-verb-first-fixed-point-test.md](2026-08-28-verb-first-fixed-point-test.md)  
