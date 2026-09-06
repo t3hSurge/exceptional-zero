@@ -4,20 +4,20 @@ Questions only. No arguments. Choosing a topic is permitted. Supplying the answe
 
 Three slots. None is committed.
 
-## T1. Atemporality
+## T1. Symmetry and particularity
 
-Can “atemporal” be specified without presupposing the temporal or performative content it is meant to exclude?
+Can intrinsic particularity be made intelligible in a structure whose automorphisms initially treat its elements as interchangeable?
 
-## T2. Distinction and transition
+## T2. Orientation without passage
 
-Does a structural distinction between states entail, or even license, an actual transition from one to the other?
+What, if anything, distinguishes orientation from transition when a structure contains asymmetric roles but no stipulated temporal or performative process?
 
-## T3. Methodological self-audit
+## T3. Totality and unity
 
-Can a method of philosophical investigation detect a failure of its own representational level without presupposing a further level capable of expressing that failure?
+What makes a totality one thing rather than merely everything?
 
 ---
 
-These questions are chosen because they are live in the surrounding research program. That fact is topic-selection, not essay content.
+Candidate proposal briefs are recorded in [`PROPOSALS.md`](PROPOSALS.md). These are topic-selection artifacts only; they do not supply arguments or conclusions to the essay-generating AI.
 
-A later pass may drop, replace, or reorder them. The AI that writes an essay is not required to reach any result already recorded elsewhere in this repository.
+The AI that writes an essay is not required to reach any result already recorded elsewhere in this repository. Essay generation follows [`PROTOCOL.md`](PROTOCOL.md).
