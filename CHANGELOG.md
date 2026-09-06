@@ -2,6 +2,30 @@
 
 Significant conceptual and structural changes are recorded here. Routine wording edits remain in Git history.
 
+## 2026-09-05
+
+### State-transition / causal-sufficiency test
+
+- Added `investigations/2026-09-05-state-transition-causal-sufficiency-test.md`.
+- Pressure-tested the candidate that a state transition `O_n → O_{n+1}` requires something external to `O_n` to participate in producing the successor.
+- Autonomous transition systems provide a counterexample to the unrestricted claim that transition requires an external participant.
+- Preserved the narrower residue: a bare state is not necessarily a complete transition specification; additional structure `F` may determine the successor without being ontologically outside the larger system.
+- Locked the distinction `state ≠ transition specification` and `beyond the bare state ≠ beyond the Whole`.
+- Kept formal succession distinct from temporal succession, and transition distinct from actual occurrence/performance.
+- No claim that transition requires an ontological outside, that causal closure forbids transition, or that the Cut entails dynamics was adopted.
+- Current frontier pressure is the ontological status of the transition specification `F`: law, disposition, relation, operation, input structure, primitive transition fact, or actual exercise. Renaming `F` is not an explanation.
+
+### Totality / unity / universal-object test
+
+- Added `investigations/2026-09-05-totality-unity-universal-object-test.md`.
+- Pressure-tested whether a domain containing everything can itself be an object of that same domain, and separately what makes totality one thing rather than merely everything.
+- Locked the distinction `ever-larger collections ≠ maximal collection`: indefinite enlargement does not by itself entail a universal or maximal object.
+- Restricted the set-theoretic point: universal-objecthood is not logically impossible simpliciter across all set-theoretic frameworks, while standard ZF does not admit a universal set.
+- Separated totality, collection, objecthood, unity, same-level objecthood, and self-identity.
+- Identified self-identity `U = U` as a surviving candidate for contrast-free unity because it requires no external contrast or boundary, while preserving the distinction `self-identity ≠ numerical uniqueness`.
+- Unity remains unresolved: totality does not yet explain numerical unity, and self-identity has not been shown sufficient for unity.
+- Historical theological/philosophical resonances remain contextual architecture, not evidence or a completed derivation.
+
 ## 2026-09-03
 
 ### The Open Cut
