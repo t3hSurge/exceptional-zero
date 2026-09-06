@@ -1,7 +1,7 @@
 # Distinction, Orientation, Transition, Time
 
 **Status:** Open investigation  
-**Scope:** Whether $A \rightarrow B$ can be specified without presupposing time, and whether any middle notion of transition is stronger than orientation and weaker than temporal succession. Orientation is treated as independently positively specifiable; atemporality is not treated as an established contrast class.  
+**Scope:** Historical record of the orientation/transition specification battery. The live result is narrower: orientation is independently positively specifiable; atemporality reached Boundary; transition beyond orientation reached Boundary and is retained only as a regulative placeholder, not as a predicate of structures.  
 **Depends on:** Actualization Boundary (regulative); Cut as distinction, not movement  
 **Not in scope:** movers, time primitives, $C_*$, $G^*_2$, $\Sigma$, identity ranking
 
@@ -9,6 +9,8 @@
 > **2026-09-05 update:** The atemporality positive-specification test reached **Boundary**: no tested positive structural gloss specified atemporality rather than a clock-free structural or descriptive condition. The orientation follow-up reached **Derived**: orientation is independently specified here as asymmetric assignment of relata to non-interchangeable positions within a relation. Accordingly, this file no longer relies on an "atemporal orientation" pole; its live distinction is orientation versus transition.
 
 ---
+
+> **2026-09-05 status update:** The transition-beyond-orientation test reached **Boundary**. A follow-up status test therefore classified **transition** as a **Regulative placeholder**, not a licensed predicate of structures. It remains only as a boundary marker: do not infer passage, occurrence, or change from orientation. The live map stops at orientation. The occurrence line is not currently reopened from this investigation.
 
 ## 1. Why this is upstream of identity
 
@@ -211,13 +213,13 @@ $$
 
 Only the first arrow is earned in the framework. The rest are investigative.
 
-$$
-\mathrm{Cut}\rightarrow\mathrm{distinction}
-\rightarrow?\ \mathrm{orientation}
-\rightarrow?\ \mathrm{transition}
-\rightarrow?\ \mathrm{occurrence}
-\rightarrow?\ \mathrm{time}
-$$
+$
+\boxed{
+\mathrm{Cut}\rightarrow\mathrm{distinction}\rightarrow?\ \mathrm{orientation}
+}
+$
+
+The terms transition, occurrence, and time remain downstream research problems, but they are not live predicates or arrows supplied by this investigation. “Transition” is retained here only as a regulative warning against reading orientation as passage or occurrence.
 
 Locked contrast:
 
@@ -406,16 +408,12 @@ Four attack families remain distinct. Constraint is already blocked. Pressure no
 
 A selector could choose among already-existing actual candidates. An instantiator could make one candidate actual in the first place.
 
-## 12. Next pressure
+## 12. Historical next pressure — superseded
 
-Do not pick selection or instantiation yet. Ask whether they are separable:
+The selection/instantiation question below was a legitimate downstream pressure under the earlier working use of “transition.” It is **not currently reopened by this file**.
 
-$$
-\boxed{\text{Can anything be selected as actual without that selection itself already constituting the actualization?}}
-$$
+After the 2026-09-05 status verdict, the occurrence line stops upstream at orientation. This historical material is retained as investigation record, not as a live continuation of the map.
 
-If no, they may be two descriptions of the same missing primitive. If yes, a further layer is earned: possibility $\rightarrow$ selection $\rightarrow$ actuality. Neither verdict is shown. Neither family is supplied.
-
-$$
+$
 \boxed{\text{the Cut still has not been shown to generate any of this}}
-$$
+$
