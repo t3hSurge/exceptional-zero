@@ -17,12 +17,14 @@ The competition is an external stress test. It is not validation of the framewor
 |---|---|
 | `exceptional-zero.md` | Frozen for this project. Not a submission. |
 | `investigations/` | Prior research record. Not copied into essays. |
-| `competitions/aipc-2026/` | Public apparatus only: protocol, topics, proposals, contracts, ledger. |
-| `t3hSurge/aipc-2026` (private) | Essay bodies and full generation logs. |
+| `competitions/aipc-2026/` | Public apparatus: workflow, epistemology, protocol, topics, proposals, contracts, ledger. |
+| `t3hSurge/aipc-2026` (private) | Unpublished essay bodies, draft development, and full generation logs. |
+
+The public apparatus is intended to be understandable by a fresh AI instance without importing the substantive conclusions of Exceptional Zero.
 
 An essay distilled from the public research record would import arguments produced under rigorous human–AI critique. The rules list that as **not permitted**.
 
-Essays are generated under [`PROTOCOL.md`](PROTOCOL.md). The methodology report may say *why* the questions were chosen. It may not treat Exceptional Zero as the source of the essay arguments.
+Essays are generated under [`PROTOCOL.md`](PROTOCOL.md) and [`WORKFLOW.md`](WORKFLOW.md). The methodology report may say *why* the questions were chosen and how the epistemic workflow operated. It may not treat Exceptional Zero as the source of the essay arguments.
 
 ---
 
@@ -30,9 +32,19 @@ Essays are generated under [`PROTOCOL.md`](PROTOCOL.md). The methodology report 
 
 “Off `main`” is not privacy. This repository is public; every branch is public.
 
-Essay text and generation logs go in the **private** repository `t3hSurge/aipc-2026` until the organizers confirm that a public GitHub commit is not prior publication.
+Essay text and generation logs belong in the **private** repository `t3hSurge/aipc-2026` until the organizers confirm that a public GitHub commit is not prior publication.
 
 The competition rule is that the **submitted essay** must not be published or under review elsewhere. Whether public GitHub research context counts as prior publication of a newly generated essay has been raised with the organizer and remains pending clarification.
+
+---
+
+## Workflow interface
+
+[`WORKFLOW.md`](WORKFLOW.md) defines how a fresh AI instance enters the project, what context it may receive, how proposal/generation/revision/evaluation roles differ, and how provenance is preserved.
+
+[`EPISTEMOLOGY.md`](EPISTEMOLOGY.md) codifies the epistemic discipline intended for the methodology report: status before rhetoric, preservation of negative results, separation of structural from actual claims, and refusal to smuggle stronger concepts through vocabulary.
+
+These documents define **how to investigate**, not **what conclusion to reach**.
 
 ---
 
@@ -46,10 +58,14 @@ The competition rule is that the **submitted essay** must not be published or un
 
 These are planning artifacts only. They contain questions and scope boundaries, not arguments to be supplied to the essay-generating AI.
 
+The private repository contains the corresponding operational proposal workspace, so proposal selection and unpublished essay development remain private.
+
 ---
 
 ## Contents (this public folder)
 
+- [`WORKFLOW.md`](WORKFLOW.md)
+- [`EPISTEMOLOGY.md`](EPISTEMOLOGY.md)
 - [`PROTOCOL.md`](PROTOCOL.md)
 - [`PROVENANCE.md`](PROVENANCE.md)
 - [`RULES-LOCK.md`](RULES-LOCK.md)
@@ -64,6 +80,6 @@ These are planning artifacts only. They contain questions and scope boundaries, 
 ## Immediate human tasks
 
 1. Wait for the organizer's answer on the public-research/publication boundary.
-2. Confirm access to private `t3hSurge/aipc-2026`.
+2. Use the private workflow interface when beginning unpublished essay work.
 3. Select one candidate question only when ready to begin an independent AI generation run.
 4. Do not treat a prize as a status change for Exceptional Zero.
