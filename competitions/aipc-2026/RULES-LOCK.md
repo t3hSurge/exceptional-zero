@@ -1,10 +1,11 @@
-# Rules lock — checked 2026-09-03
+# Rules lock — checked 2026-09-06
 
 Sources (live pages, this date):
 
 - https://www.zacharygoodsell.com/ai-philosophy-competition
 - https://www.zacharygoodsell.com/ai-philosophy-competition-rules
 - https://openreview.net/group?id=AIPC/2026/Competition
+- Organizer-provided alternative submission form announced for entrants who cannot sign up through OpenReview.
 
 `PROTOCOL.md` is a working interpretation of these pages. If a later organizer update conflicts with the protocol, the organizer page wins.
 
@@ -12,7 +13,7 @@ Sources (live pages, this date):
 
 | Item | Live rule |
 |---|---|
-| Window | Deadline 31 October 2026. OpenReview already shows a submission form. |
+| Window | Deadline 31 October 2026. OpenReview is the primary route; an organizer-provided alternative form exists for entrants blocked from signup. |
 | Count | Up to 3 essays + methodology report. At most one prize-winning essay per entrant. |
 | Length | ≤ 6,000 words per essay. Bibliography excluded; everything else included. |
 | Authorship | Arguments and positions primarily AI-generated. Heuristic: AI sole author. Humans: corrective guidance and direction. |
@@ -21,8 +22,8 @@ Sources (live pages, this date):
 | Review packet | Essay + methodology report anonymized for review. Not anonymous to the editor. |
 | Logs | Recommended as part of the report. Must be retained if not submitted. |
 | Publication after | Organizers will publish essays and methodology reports. Name-attachment optional. |
-| Prior publication | Main page: submissions must not be published or under review elsewhere. GitHub-as-publication is **not defined**. Treat finished essay text on public `main` as risky until clarified. |
-| Account | OpenReview required. Up to two weeks without institutional affiliation. |
+| Prior publication | Submissions must not be published or under review elsewhere. Whether public GitHub research context counts as prior publication of a newly generated competition essay is **not defined by the rule text** and has been raised with the organizer for clarification. |
+| Account | OpenReview signup is the primary route. Alternative form is explicitly available when OpenReview will not allow signup. |
 | Prize-eligibility vs judging | Insufficient AI involvement → ineligible for prize, still judged and published. |
 
-Page last updated August 2026 on the organizer site. Re-check before submission.
+Page last checked September 2026. Re-check organizer pages immediately before submission.
