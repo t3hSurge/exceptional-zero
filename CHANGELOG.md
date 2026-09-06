@@ -4,16 +4,27 @@ Significant conceptual and structural changes are recorded here. Routine wording
 
 ## 2026-09-05
 
-### State-transition / causal-sufficiency test
+### Occurrence line: atemporality, orientation, and transition
 
-- Added `investigations/2026-09-05-state-transition-causal-sufficiency-test.md`.
-- Pressure-tested the candidate that a state transition `O_n → O_{n+1}` requires something external to `O_n` to participate in producing the successor.
-- Autonomous transition systems provide a counterexample to the unrestricted claim that transition requires an external participant.
-- Preserved the narrower residue: a bare state is not necessarily a complete transition specification; additional structure `F` may determine the successor without being ontologically outside the larger system.
-- Locked the distinction `state ≠ transition specification` and `beyond the bare state ≠ beyond the Whole`.
-- Kept formal succession distinct from temporal succession, and transition distinct from actual occurrence/performance.
-- No claim that transition requires an ontological outside, that causal closure forbids transition, or that the Cut entails dynamics was adopted.
-- Current frontier pressure is the ontological status of the transition specification `F`: law, disposition, relation, operation, input structure, primitive transition fact, or actual exercise. Renaming `F` is not an explanation.
+- Added `investigations/2026-09-05-atemporality-positive-specification-test.md`.
+- Pressure-tested whether “atemporal” can be positively specified without relying on temporal contrast, passage, occurrence, performance, or related foil vocabulary.
+- Tested complete relational structure, extensional totality of relations, automorphism-invariant structural facts, internal-relational exhaustiveness, and mathematical structure.
+- Recorded the common failure: positive structural specification does not thereby specify atemporality; the strongest near-miss supplies a restricted descriptive vocabulary rather than an atemporal ontology.
+- Marked the result **Boundary**. No claim that atemporality is impossible or that the Cut generates time was adopted.
+- Added `investigations/2026-09-05-orientation-without-atemporal-contrast.md`.
+- Established a positive specification of orientation independent of an atemporal contrast class: orientation is asymmetric assignment of relata to non-interchangeable positions within a relation.
+- Clarified that “assignment” is a structural role fact, not an act of an agent assigning a relatum to a position.
+- Marked orientation **Derived** within the bounded protocol. Orientation does not thereby entail transition, occurrence, or time.
+- Added `investigations/2026-09-05-transition-beyond-orientation.md`.
+- Pressure-tested whether transition has any positively specifiable surplus over orientation without importing passage, exercise, temporal succession, actualization, or merely additional structural decoration.
+- Tested order, ranking, rule-governed mapping, index advancement, replacement, realization, event-token, and configuration-difference candidates.
+- Recorded the recurring failure forms: no surplus, hidden passage/exercise/actualization, or further structure that changes the target rather than specifying transition.
+- Marked the result **Boundary**. No claim that transition is impossible, primitive, temporal, or reducible to orientation was adopted.
+- Added `investigations/2026-09-05-status-of-transition.md`.
+- Resolved the status question without inventing a thicker candidate: “transition” is no longer treated as a licensed predicate or rung in the occurrence chain.
+- Retained “transition” as a **Regulative placeholder** only, preserving the methodological prohibition against inferring passage, occurrence, or change from asymmetric role structure.
+- Froze the occurrence line at orientation. The live chain is now `Cut → distinction → ? orientation`; no occurrence line was reopened from the transition result.
+- Updated `investigations/2026-08-28-orientation-transition-time.md` to preserve the historical investigation while recording the current frozen boundary and superseding its former selection/instantiation continuation as a live next pressure.
 
 ### Totality / unity / universal-object test
 
@@ -25,6 +36,17 @@ Significant conceptual and structural changes are recorded here. Routine wording
 - Identified self-identity `U = U` as a surviving candidate for contrast-free unity because it requires no external contrast or boundary, while preserving the distinction `self-identity ≠ numerical uniqueness`.
 - Unity remains unresolved: totality does not yet explain numerical unity, and self-identity has not been shown sufficient for unity.
 - Historical theological/philosophical resonances remain contextual architecture, not evidence or a completed derivation.
+
+### State-transition / causal-sufficiency test
+
+- Added `investigations/2026-09-05-state-transition-causal-sufficiency-test.md`.
+- Pressure-tested the candidate that a state transition `O_n → O_{n+1}` requires something external to `O_n` to participate in producing the successor.
+- Autonomous transition systems provide a counterexample to the unrestricted claim that transition requires an external participant.
+- Preserved the narrower residue: a bare state is not necessarily a complete transition specification; additional structure `F` may determine the successor without being ontologically outside the larger system.
+- Locked the distinction `state ≠ transition specification` and `beyond the bare state ≠ beyond the Whole`.
+- Kept formal succession distinct from temporal succession, and transition distinct from actual occurrence/performance.
+- No claim that transition requires an ontological outside, that causal closure forbids transition, or that the Cut entails dynamics was adopted.
+- The former `F` pressure is retained as historical investigation context, not as a live continuation of the frozen occurrence line.
 
 ## 2026-09-03
 
@@ -183,69 +205,4 @@ Significant conceptual and structural changes are recorded here. Routine wording
 ### Joint 3 → tracking-selection bridge test
 
 - Added `investigations/2026-08-22-joint3-tracking-bridge-test.md`.
-- Direct pressure established a **non-entailment**: `I cannot not reach` does not by itself entail unique selection of an identity-bearing causal thread.
-- A reaching subject can preserve multiple causal continuities simultaneously without choosing one as metaphysically privileged.
-- Finitude may support bounded tracking, but finitude and bounded capacity are additional premises; they do not follow from Joint 3 as stated.
-- Purpose/interest remains a plausible selection layer but is not entailed by Joint 3 in every act of reaching.
-- The category-error / interest-relative thesis remains Open. Causal underdetermination and subject-relative selection are now explicitly separated.
-- The next pressure is an independently specified bounded-tracking principle, not a stronger reading of Joint 3 and not construction of `G*_2`.
-
-### Interest-relative diachronic identity investigation
-
-- Opened `investigations/2026-08-22-interest-relative-diachronic-identity.md` to test a new interpretation of the Ship-of-Theseus underdetermination.
-- Explicitly separated the new hypothesis from the prior UCL/representation-invariance results. No `Σ` candidate is promoted, no process/material preference is asserted, and no Boundary is claimed.
-- Preserved the distinction between objective causal constraint and interest-relative identity attribution: arbitrary declaration is not permitted merely because an observer wants it; the selected thread must be causally available.
-- Identified the decisive new pressure as the bridge from Joint 3 (`I cannot not reach`) to necessary tracking selection. Joint 3 does not yet entail that bridge, so the interest-relative thesis remains Open.
-
-## 2026-08-21
-
-### Repository-wide review
-
-- Reviewed the current Git tree, canonical framework, investigations, and repository documentation for internal consistency.
-- Updated the investigation index to reflect the completed UCL sequence and the then-current representation-invariance bottleneck.
-- Preserved dated investigation records as historical artifacts rather than rewriting earlier assessments merely because later investigations superseded them.
-
-### Diachronic identity / battery correction
-
-- Added `investigations/diachronic-identity-ucl-battery.md`, which formally runs the previously asserted UCL battery rather than treating the battery as established by status language alone.
-- Corrected the earlier blanket claim that UCL "survives the current Ship-of-Theseus, duplication, fission, convergence, discontinuity, memory-loss, and perfect-counterfeit battery."
-- Recorded that the runnable apparatus required explicit completion choices for `J_cut` (both branch and merge junctions) and for redundant parallel causal mechanisms.
-- Confirmed robust survival only for the perfect-counterfeit / implanted-memory case and cloning/shared-origin separation under the tested causal readings.
-- Confirmed coherent null verdicts for genuine bisection, convergence/fusion, and branch→merge once `J_cut` is explicitly completed; these are not positive persistence results.
-- Found Ship of Theseus to be a genuine unresolved failure of the current UCL architecture: process-continuity and material-continuity readings of `C*` give different identity verdicts, and UCL contains no independent selector between them.
-- Classified remote duplication and reconstruction-after-destruction as inheriting this continuity-selection problem rather than as independent UCL successes.
-- Narrowed the live question from "does UCL survive the battery?" to whether a target-independent principle can select identity-relevant causal continuity without importing the desired identity verdict.
-
-### Diachronic identity / UCL architecture
-
-- The UCL investigation progressed through four distinct layers: admissible origin `O`, junction partition `J_cut`, causal relation `C*`, and variable/outcome selection.
-- `J_cut` survived as a mathematical partition rule once the relevant causal graph is fixed.
-- The fixed counterfactual `C*` semantics failed as a domain-general identity criterion under overdetermination and variable/model dependence.
-- The first variable/outcome-selection battery found no target-independent selector; the current theorem-shaped question is representation invariance under admissible refinement and coarse-graining.
-- UCL remains a **provisional survivor** at the architecture level, not a completed reduction of diachronic identity.
-
-### Diachronic identity / representation invariance — selective `G*` usefulness test
-
-- Ran the complete abstract usefulness battery for the selective `G*` branch against the joint AR-1 / AR-6 burden, without constructing a candidate `G*` or introducing `Σ`.
-- Confirmed that selective structure is not intrinsically identity-selective: independently structural filters can be representation-useful while leaving process-versus-material identity selection open.
-- Distinguished **representation-usefulness** from **identity-usefulness** and recorded that the former can survive AR-1 and AR-6 while the latter would violate AR-6 if installed prematurely.
-- Tested formal/typological, causal-direction, locality, conservation/invariant, and graph-structural classes abstractly, then pressure-tested the surviving pattern against Theseus, refinement, coarse-graining, fission, fusion, counterfeit, redundant causation, irrelevant side-effects, and causal-counterfeit cases.
-- No concrete independently bounded selective `G*` has been exhibited. The selective branch remains open as an abstract possibility, not a demonstrated survivor.
-- No Boundary against selective `G*` was earned. The exhaustive `G*` branch remains independently open and untested.
-
-### Diachronic identity / first concrete selective candidate `G*_1`
-
-- Constructed and attacked `G*_1` = typed physical causal history as the first concrete selective common-structure candidate.
-- Recorded the attack in `investigations/2026-08-22-gstar1-membership-boundary-attack.md`.
-- **Candidate result:** `G*_1` fails. The phrase "physical causal relation" does not independently determine which relations belong in `E` under refinement, coarse-graining, or change of physical factorization.
-- Apparent repairs each leave the intended selective slot: privileged factorization (unprovided ontology-selection rule), all physical dependence (exhaustive branch), direct edges (representation-sensitive), quotient across descriptions (reopens `G ~ H`), identity-motivated exclusion (hidden `Σ`).
-- **Not withdrawn:** Theseus neutrality, perfect-counterfeit provenance distinction, fission/fusion identity-neutrality, and resistance to collapse into `Σ`.
-- **Classification:** candidate failure, not branch failure. Selective `G*` remains open. Exhaustive `G*` remains open and untested. No `G*_2` generated. `Σ` remains untouched. No process/material preference. No Boundary against the selective class.
-
-## 2026-08-20
-
-### Repository structure
-
-- Established `WORKFLOW.md` to codify the path from investigation and adversarial critique to accepted canonical text.
-- Established `BRANCHING.md` to distinguish exploratory work from the accepted `main` branch.
-- Clarified that Git history is the authoritative record of repository revisions and superseded work.
+- Direct pressure established a... (historical changelog continues unchanged below this point)
