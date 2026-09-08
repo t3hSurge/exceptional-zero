@@ -14,10 +14,10 @@ The canonical document on `main` is the authoritative formulation. Material else
 
 The repository currently contains two linked live investigative layers:
 
-- **Upstream — transition / succession:** the Cut yields distinction, but orientation does not yet yield actual transition. The current continuation asks whether the boundary between atemporal structure and temporal actuality can itself be specified non-circularly, before a full performance-supervenience question can be posed.
+- **Upstream — orientation:** the investigation has derived orientation as asymmetric role structure. No positive specification of atemporality survived, and “transition” has been retained only as a regulative warning against inferring passage from role structure.
 - **Downstream — diachronic identity:** UCL remains a provisional architecture-level survivor; `C_*` remains underdetermined; the representation-invariance program has isolated `G*`; the first concrete selective candidate `G*_1` failed, while the selective and exhaustive branches remain open separately.
 
-The upstream transition/atemporality investigation currently has priority because it sits beneath the identity sequence. The downstream identity investigation remains active rather than closed.
+The upstream occurrence line is currently stopped at orientation; it does not presently support a further transition or passage investigation. The downstream identity investigation remains active rather than closed.
 
 ## Epistemic Discipline
 
@@ -30,14 +30,11 @@ The framework distinguishes among **Derived**, **Believed**, **Boundary**, **Ope
 - `exceptional-zero.md` — canonical framework
 - `investigations/` — bounded questions, tests, counterexamples, and formal checks
 - `guides/` — educational and bridging documents; explanatory material is not canonical merely by being collected here
-- `competitions/` — external contest workspaces; not canonical and not a status change for the framework
 - `CHANGELOG.md` — significant conceptual and structural changes
 - `WORKFLOW.md` — how work moves from investigation to accepted framework
 - `BRANCHING.md` — branch naming and merge policy
 
 The first document in `guides/` is [`legend-of-the-exceptional-zero.md`](guides/legend-of-the-exceptional-zero.md), a notation and symbol guide for reading the canonical framework and distinguishing canonical symbols from later investigative scaffolding.
-
-The first competition workspace is [`competitions/aipc-2026/`](competitions/aipc-2026/), for the 2026 AI Philosophy Competition. Essays generated there follow a thinner protocol than the research method and do not revise the canonical document.
 
 ## Development Model
 
