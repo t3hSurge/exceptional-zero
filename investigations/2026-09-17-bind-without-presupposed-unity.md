@@ -460,3 +460,170 @@ It would establish a precise Boundary around the current vocabulary.
 The governing rule remains:
 
 > **Nothing is stronger than its status.**
+
+
+## 13. First candidate battery — initial results
+
+The first pass should distinguish three possibilities that are easy to blur:
+
+1. **Relation without unity:** (R(x,y)) relates distinct terms but does not make them one.
+2. **Unity encoded as a relation:** a relation is explicitly stipulated to mean that its relata co-belong.
+3. **Unity explained:** the relation is independently characterized, and the fact that it binds generates a new result that deserves the name unity.
+
+Only the third would constitute a successful Bind in the present investigation.
+
+### 13.1 Ordinary relation
+
+Take any binary relation (R(x,y)).
+
+A structure can contain:
+
+[
+x
+eq y
+quad&quad
+R(x,y).
+]
+
+Nothing in that conjunction entails that (x) and (y) constitute one object, scene, count, or ontology.
+
+**Result:** (R) preserves plurality while adding relation. No unity surplus identified.
+
+**Status:** Eliminated as a sufficient Bind by counterexample.
+
+### 13.2 Shared predicate
+
+Take:
+
+[
+P(x)land P(y).
+]
+
+Shared properties do not normally produce numerical unity. Two red objects remain two red objects.
+
+A stronger predicate such as “belongs to (C)” merely shifts attention to (C), leaving the unity of (C) unanswered.
+
+**Result:** shared classification is not sufficient for Bind.
+
+**Status:** Eliminated as a sufficient Bind by counterexample.
+
+### 13.3 Connectedness
+
+Suppose (x) and (y) lie in the same connected component of a graph.
+
+This gives a stronger form of structural co-relation. But it still does not settle the target.
+
+A connected graph can contain arbitrarily many vertices, and the fact that all vertices are connected does not by itself establish that the graph is one *object* rather than a structure satisfying a connectivity property.
+
+Likewise, if the definition of “component” is used to obtain the unity, the explanatory question shifts:
+
+> Why is a connected component one thing?
+
+**Result:** connectedness supplies structural cohesion, but its relation to ontological unity remains unearned.
+
+**Status:** Open as a structural precursor; not yet Bind.
+
+### 13.4 Equivalence relation
+
+An equivalence relation gives:
+
+[
+xsim y
+]
+
+with reflexivity, symmetry, and transitivity.
+
+This is the first candidate that directly resembles the intended “co-belonging” shape. Distinct elements may remain distinct while belonging to the same equivalence class.
+
+But the danger appears immediately:
+
+[
+xsim y
+quadRightarrowquad
+[x]_{sim}
+]
+
+and then the class is treated as the relevant unity.
+
+The explanatory burden has therefore moved from:
+
+> Why do (x) and (y) belong together?
+
+to:
+
+> Why is ([x]_{sim}) one thing?
+
+There is a second concern. If “(xsim y)” is simply stipulated to mean “(x) and (y) are to count as the same co-belonging unit,” then Bind has not been independently specified. The target has entered through the semantic content of the relation.
+
+So two distinct uses must be separated:
+
+- **equivalence as partition structure:** mathematically legitimate, but not yet an explanation of unity;
+- **equivalence as co-belonging:** descriptively close to the target, but at risk of circularity.
+
+**Status:** Survives as the strongest candidate shape so far, but is currently under direct circularity pressure.
+
+### 13.5 Universal relation
+
+Suppose:
+
+[
+orall xorall y,B(x,y).
+]
+
+This guarantees maximal co-relatedness.
+
+But it also destroys the intended weakness of Bind: every distinction is immediately gathered into the same universal relation.
+
+The candidate therefore risks becoming:
+
+[
+	ext{Everything is bound to Everything}
+]
+
+which is not an explanation of unity so much as a direct specification of total unity.
+
+**Result:** fails the non-totalization constraint.
+
+**Status:** Eliminated.
+
+## 14. First intermediate conclusion
+
+The first battery reveals a useful three-way distinction:
+
+[
+oxed{
+	ext{relatedness}
+
+eq
+	ext{co-belonging}
+
+eq
+	ext{explained unity}
+}
+]
+
+Ordinary relations and shared properties clearly occupy the first category.
+
+A relation may be stipulated to have the second character, but that does not yet establish the third.
+
+Equivalence relations are especially instructive because they can preserve plurality while organizing it into classes. They therefore model something very close to “many under a shared unity.” But unless the class's unity is independently accounted for, the candidate appears to relocate rather than resolve the problem.
+
+This produces the first genuine pressure point for Bind:
+
+> **A formal partition can represent co-belonging without explaining why the unit being partitioned is a unit.**
+
+The current result is therefore:
+
+[
+oxed{	ext{No tested candidate has yet earned Bind as an explanatory operator.}}
+]
+
+But:
+
+[
+oxed{	ext{The possibility of a non-circular Bind remains Open.}}
+]
+
+The next test should therefore attack the strongest survivor directly:
+
+> **Can equivalence-class formation provide any unity that was not already encoded in the equivalence relation itself?**
