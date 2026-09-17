@@ -753,3 +753,294 @@ The stopping rule is narrower:
 The governing rule remains:
 
 > **Nothing is stronger than its status.**
+
+
+## 17. Attack: Reification Is Not Yet Explanation
+
+The user's proposed move survives the first obvious objection:
+
+> **Can the relation become a relata itself?**
+
+Yes. There is no immediate logical contradiction in treating a relation-instance as a particular that can itself stand in further relations. Contemporary metaphysics explicitly considers relational tropes as particulars and asks whether such relata-specific relations can halt Bradley's regress. The important point for this investigation is that this move addresses **category** before it addresses **unity**.
+
+### 17.1 Relation-as-relatum is coherent
+
+Suppose two objects (a) and (b) stand in a particular relation-instance (r_{ab}).
+
+The domain may then contain:
+
+[
+a,quad b,quad r_{ab}.
+]
+
+And (r_{ab}) may itself stand in another relation—for example, a relation comparing (r_{ab}) with another relation-instance (r_{cd}).
+
+Nothing in that construction forces:
+
+[
+a=b
+]
+
+and nothing forces (r_{ab}) to be identical with either relatum.
+
+**Result:** the hypothesis that a relation-instance can itself be a relata is not defeated by category alone.
+
+**Status:** Survives.
+
+### 17.2 But reification alone does not produce binding
+
+Starting from:
+
+[
+aRb
+]
+
+and introducing:
+
+[
+r_{ab}
+]
+
+does not yet explain why (r_{ab}) actually relates (a) and (b).
+
+There are now two very different possibilities.
+
+Either the relation-instance is simply declared to have those relata:
+
+[
+r_{ab}mapsto(a,b),
+]
+
+or there is some further relation/adherence relation:
+
+[
+A(r_{ab},a,b).
+]
+
+The first is a stipulation of the relation-instance's identity conditions.
+
+The second introduces precisely the nexus that the Bind investigation is trying to understand.
+
+Therefore:
+
+[
+oxed{
+	ext{reification}
+eq	ext{explanation of relating}
+}
+]
+
+### 17.3 Relata-specificity can terminate regress—but only primitively
+
+Suppose we adopt the strong principle:
+
+> If (r_{ab}) exists, then it necessarily relates exactly (a) and (b).
+
+Formally, the existence of (r_{ab}) entails its specific adherence to (a,b).
+
+This is enough, in principle, to block the immediate Bradley move to another relation (r_1) whose sole task is to attach (r_{ab}) to (a,b).
+
+But notice what has happened.
+
+The unexplained principle is now:
+
+[
+oxed{
+mathrm{Exists}(r_{ab})
+Rightarrow
+mathrm{Adheres}(r_{ab},a,b)
+}
+]
+
+The relating nexus has not been derived. It has been made **primitive**.
+
+Recent criticism of the relata-specific strategy makes exactly this point: treating specific adherence as primitive can stop the formal regress while leaving the constitution of adherence unexplained. See Hakkarainen and Keinänen (2022), *Bradley's Relation Regress and the Inadequacy of the Relata-Specific Answer*: https://link.springer.com/article/10.1007/s12136-022-00516-1
+
+This is not necessarily a fatal objection to primitiveness. A primitive may be a legitimate stopping point.
+
+But its epistemic consequence is crucial:
+
+> **Bind has not been explained. It has been proposed as a primitive nexus.**
+
+That is a materially different result.
+
+### 17.4 The further-binder route regresses
+
+Suppose we refuse to make adherence primitive and instead demand another relation (r_1):
+
+[
+A(r_{ab},a,b)
+]
+
+is explained by:
+
+[
+r_1(r_{ab},a,b).
+]
+
+Then (r_1), if it is itself required to relate its relata, reopens the same question:
+
+[
+r_2(r_1,r_{ab},a,b)
+]
+
+and so on.
+
+The investigation therefore reaches a clean disjunction:
+
+[
+oxed{
+	ext{Further explanation}
+ightarrow
+	ext{regress}
+}
+]
+
+or:
+
+[
+oxed{
+	ext{No regress}
+ightarrow
+	ext{primitive nexus}
+}
+]
+
+subject to the possibility of a third route that has not yet been discovered.
+
+That third-route possibility is important. Do not convert the disjunction into a proof that primitive nexus is unavoidable.
+
+### 17.5 “The relation is the unity” needs a second attack
+
+A tempting response is:
+
+> Perhaps the relation-instance simply **is** the unity.
+
+Let:
+
+[
+s_{ab}:=r_{ab}.
+]
+
+Then (s_{ab}) is one particular relational scene containing—or constituted by—(a) and (b).
+
+This is much closer to the original intuition of “one scene, one count.”
+
+But it still leaves two different senses of “one”:
+
+1. **Numerical identity of the relation-instance:** there is one particular (r_{ab}).
+2. **Unity of the complex:** (a,b,r_{ab}) constitute one unified scene.
+
+The first does not entail the second.
+
+A single thing can have constituents without our having explained what makes those constituents a unified whole.
+
+So:
+
+[
+oxed{
+	ext{one relation-token}
+
+eq
+	ext{explained unity of its relata}
+}
+]
+
+Again the problem can be moved rather than solved.
+
+### 17.6 Mereological closure is not enough
+
+One could instead construct:
+
+[
+C={a,b,r_{ab}}
+]
+
+or the corresponding mereological sum.
+
+But then “(C) is one object” is true because the formalism has already supplied a criterion of objecthood for the sum.
+
+This is precisely the level-shift failure identified earlier:
+
+[
+a,bightarrow r_{ab}ightarrow C
+]
+
+does not explain the unity of (C). It merely changes the object whose unity is being questioned.
+
+### 17.7 What relation-instance reification really buys us
+
+The attack therefore produces a narrower and more useful residue.
+
+Reification shows that the objection:
+
+> “A relation cannot itself be a relata”
+
+is not a sufficient reason to reject Bind.
+
+More importantly, it offers a candidate architecture in which:
+
+[
+a
+eq b
+]
+
+while:
+
+[
+r_{ab}
+eq a,b
+]
+
+and:
+
+[
+r_{ab}
+]
+
+is itself a particular.
+
+That gives the Bind intuition a genuine ontological form.
+
+But the actual explanatory work is concentrated in one question:
+
+> **What makes (r_{ab}) a relation-instance of these relata without a further binder?**
+
+If the answer is an independently intelligible primitive of specific adherence, Bind survives only as a **primitive nexus**.
+
+If the answer requires another relation, the regress returns.
+
+If the answer defines the relation-instance by already using “same,” “one,” “unified,” or equivalent target vocabulary, circularity returns.
+
+### 17.8 Current attack result
+
+The attack does **not** eliminate relation-as-relatum.
+
+It does establish:
+
+[
+oxed{
+	ext{Reification can solve the category problem without solving the nexus problem.}
+}
+]
+
+And:
+
+[
+oxed{
+	ext{Relata-specificity can stop a regress only by making the nexus primitive, unless a further non-circular route is found.}
+}
+]
+
+**Status:** Boundary on the stronger claim that relation-instance reification, by itself, explains unity.
+
+**Status:** Open on the weaker claim that a primitive relata-specific relation-instance could serve as the missing Bind.
+
+The next test is therefore not “Can relations be relata?” That has survived.
+
+It is:
+
+> **Can specific adherence be characterized positively without either presupposing unity or collapsing into an unexplained primitive?**
+
+That is the next attack surface.
+
