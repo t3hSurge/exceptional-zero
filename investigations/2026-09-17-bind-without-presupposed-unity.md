@@ -1686,3 +1686,273 @@ The next investigation should therefore ask:
 
 That is now a smaller and cleaner target than “what makes Everything one?”
 
+
+
+## 22. Attack: Complex Unity vs. Independent Existence
+
+The previous section separated:
+
+[
+	ext{one relation-instance}
+]
+
+from:
+
+[
+	ext{one relational complex}.
+]
+
+A further distinction is now necessary.
+
+The user's broader formulation of the unity problem was:
+
+> **What licenses the independent existence of any given thing, without external reference?**
+
+That is stronger than the compositional question.
+
+A thing can be **one complex** while being wholly dependent on its constituents.
+
+This means Bind may solve a weaker problem than the user's most general “independent existence” question.
+
+### 22.1 Formal example
+
+Let:
+
+[
+r_{ab}:=langle R,a,bangle
+]
+
+and:
+
+[
+C_{ab}:=langle a,b,r_{ab}angle.
+]
+
+A formal system can treat both as single objects with precise identity conditions.
+
+Then:
+
+[
+a
+eq b,
+qquad
+r_{ab}
+eq a,b,
+qquad
+C_{ab}
+eq a,b,r_{ab}.
+]
+
+We therefore have nested unities:
+
+[
+a,b
+ightarrow
+r_{ab}
+ightarrow
+C_{ab}.
+]
+
+Nothing about this hierarchy requires collapse.
+
+But each higher-level entity can remain dependent on what constitutes it.
+
+For example:
+
+[
+mathrm{Exists}(r_{ab})
+Rightarrow
+mathrm{Exists}(a)landmathrm{Exists}(b),
+]
+
+and:
+
+[
+mathrm{Exists}(C_{ab})
+Rightarrow
+mathrm{Exists}(a)landmathrm{Exists}(b)landmathrm{Exists}(r_{ab}).
+]
+
+So:
+
+[
+oxed{
+	ext{unity}
+eq	ext{independence}
+}
+]
+
+### 22.2 Why this matters
+
+If Bind only means:
+
+> distinct constituents can constitute one relational complex,
+
+then Bind may have succeeded without answering:
+
+> Why can anything exist without external reference?
+
+The latter is an ontological-dependence or grounding question.
+
+The former is a compositional-unity question.
+
+They may be related, but the project should not assume:
+
+[
+	ext{compositional unity}
+Rightarrow
+	ext{independent existence}.
+]
+
+No such implication has been earned.
+
+### 22.3 The Whole case
+
+This distinction becomes especially sharp for Everything.
+
+Suppose the Whole (W) is a single complex containing everything.
+
+Then:
+
+[
+	ext{Unity}(W)
+]
+
+could be explained by some compositional rule.
+
+But if:
+
+[
+mathrm{Exists}(W)
+Rightarrow
+mathrm{DependsOn}(a,b,r,ldots),
+]
+
+then (W)'s unity has not made it ontologically independent.
+
+Conversely, an independently existing thing need not be a complex.
+
+Thus:
+
+[
+oxed{
+	ext{Unity of Whole}
+
+eq
+	ext{Independence of Whole}
+}
+]
+
+The two may need separate investigations.
+
+### 22.4 This rescues a smaller Bind
+
+This is a positive methodological result.
+
+The candidate Bind no longer needs to answer:
+
+> Why does anything ultimately exist?
+
+It may legitimately have the much smaller target:
+
+> **What permits distinct relata to constitute one relational complex without collapsing their distinction?**
+
+That is a bounded question.
+
+Only afterward should we ask whether anything about that unity bears on ontological independence.
+
+### 22.5 Revised map
+
+The current architecture is therefore better represented as:
+
+[
+mathrm{Cut}
+ightarrow
+mathrm{distinction}
+]
+
+then possibly:
+
+[
+mathrm{Bind}
+ightarrow
+mathrm{compositional unity}
+]
+
+and separately:
+
+[
+?
+ightarrow
+mathrm{independent existence}.
+]
+
+The second question is not yet licensed to inherit any answer from the first.
+
+### 22.6 Attack result
+
+The broader intuition:
+
+> “If the parts are bound, the thing can exist in its own right”
+
+has not survived.
+
+The narrower claim remains viable:
+
+> **A binding/constitution principle may explain how many distinct relata constitute one complex without explaining why that complex is ontologically independent.**
+
+This produces a useful Boundary:
+
+[
+oxed{
+	ext{Bind, even if successful, does not automatically solve grounding.}
+}
+]
+
+**Status:** Boundary on the stronger conflation of unity with independence.
+
+**Status:** Open on whether compositional unity itself requires a further principle beyond formal constitution.
+
+## 23. Revised frontier
+
+The immediate Bind investigation is now:
+
+> **What makes a relational complex one complex?**
+
+The separate grounding question is:
+
+> **What licenses an entity to exist independently of anything else?**
+
+The two should no longer be treated as one problem.
+
+This also clarifies the user's “Hard Problem of Unity” formulation.
+
+The hard problem may have two layers:
+
+### Layer A — Compositional unity
+
+[
+oxed{
+a,b,r_{ab}ightarrow C_{ab}
+}
+]
+
+What makes the constituents constitute one complex?
+
+### Layer B — Ontological independence
+
+[
+oxed{
+Cightarrowmathrm{Exists}(C)	ext{ without external ground?}
+}
+]
+
+What, if anything, licenses the existence of (C) in its own right?
+
+A solution to Layer A would not automatically solve Layer B.
+
+The investigation should therefore refuse to let success in constructing a unified complex borrow status for independent existence.
+
+The governing rule remains:
+
+> **Nothing is stronger than its status.**
