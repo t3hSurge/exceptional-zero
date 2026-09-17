@@ -12,12 +12,14 @@ The canonical document on `main` is the authoritative formulation. Material else
 
 ## Current Research
 
-The repository currently contains two linked live investigative layers:
+The current frontier is **Bind / relational unity**: whether a binding principle can be specified as genuine surplus over distinction without presupposing unity, collapsing distinguished relata, or merely relocating the unity problem to a higher-level construct.
 
-- **Upstream — orientation:** the investigation has derived orientation as asymmetric role structure. No positive specification of atemporality survived, and “transition” has been retained only as a regulative warning against inferring passage from role structure.
+The repository also retains two important neighboring research lines:
+
+- **Occurrence line — frozen at orientation:** orientation is Derived as asymmetric role structure. No positive specification of atemporality survived, and “transition” is retained only as a regulative warning against inferring passage from role structure. No further transition or passage investigation is currently active.
 - **Downstream — diachronic identity:** UCL remains a provisional architecture-level survivor; `C_*` remains underdetermined; the representation-invariance program has isolated `G*`; the first concrete selective candidate `G*_1` failed, while the selective and exhaustive branches remain open separately.
 
-The upstream occurrence line is currently stopped at orientation; it does not presently support a further transition or passage investigation. The downstream identity investigation remains active rather than closed.
+The current Bind investigation is bounded and does not alter the canonical framework unless a later result is deliberately accepted. The diachronic identity investigation remains active downstream.
 
 ## Epistemic Discipline
 
