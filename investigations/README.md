@@ -13,6 +13,11 @@ The index distinguishes four different situations:
 
 ## 1. Current frontier
 
+### Bind / unity
+
+- [2026-09-17-bind-without-presupposed-unity.md](2026-09-17-bind-without-presupposed-unity.md)  
+  **Open:** tests whether a candidate binding principle can be specified as genuine surplus over distinction without presupposing unity, collapsing the distinguished parts, reversing the Cut, or merely relocating the unity problem to a higher-level construct.
+
 ### Description / objecthood
 
 - [2026-09-05-totality-unity-universal-object-test.md](2026-09-05-totality-unity-universal-object-test.md)  
