@@ -3387,3 +3387,318 @@ None is currently accepted.
 
 The next attack is the **minimum-unifier test**.
 
+
+
+## 31. Attack: What Is the Minimum Extra Fact?
+
+The minimum-unifier test can now be made concrete.
+
+The target is the difference between:
+
+\[
+\{a,R,b\}
+\]
+
+and:
+
+\[
+aRb.
+\]
+
+Both contain, in some sense, the same three ingredients:
+
+- \(a\);
+- \(b\);
+- \(R\).
+
+What distinguishes the relational complex?
+
+The candidate answer must add something.
+
+The attack is to classify every obvious kind of “something” that could be added.
+
+### 31.1 Another relation
+
+Candidate:
+
+\[
+U(a,R,b)
+\]
+
+where \(U\) is a new relation that unifies the constituents.
+
+This recreates the original Bind proposal.
+
+But then the question becomes what relates \(U\) to its own constituents.
+
+**Result:** regress pressure returns unless \(U\)'s unifying power is primitive.
+
+### 31.2 A constructor
+
+Candidate:
+
+\[
+\mathrm{Compose}(a,R,b)=C.
+\]
+
+The constructor produces one composite object.
+
+This can be perfectly well-defined mathematically.
+
+But the constructor's output is one object because the ontology/formalism includes a rule that counts its output as an object.
+
+Thus:
+
+\[
+\mathrm{Compose}
+\]
+
+explains **formation**, not necessarily the metaphysical force of unity.
+
+**Result:** constitution survives as a primitive formation architecture, not as a reduction.
+
+### 31.3 An incidence fact
+
+Candidate:
+
+\[
+(a,b)\in R
+\]
+
+or the corresponding ordered-tuple membership relation.
+
+This is attractive because it does not introduce an additional metaphysical binder. The relational structure is specified directly by the incidence condition.
+
+But again there are two readings.
+
+#### Formal reading
+
+The statement is enough to specify the relational structure.
+
+Then:
+
+\[
+(a,b)\in R
+\]
+
+distinguishes the relational structure from the mere collection of \(a,b,R\).
+
+This is a genuine formal success.
+
+#### Metaphysical reading
+
+We ask:
+
+> Why does this incidence fact constitute one relational complex rather than merely being one more fact about three independently existing items?
+
+The answer cannot be “because it is an incidence fact,” unless incidence is taken as a primitive unifying category.
+
+**Result:** incidence explains the formal relational organization but does not yet reduce metaphysical unity.
+
+### 31.4 Obtaining / instantiation
+
+Candidate:
+
+> The relation \(R\) actually obtains between \(a\) and \(b\).
+
+This introduces a fact-like layer:
+
+\[
+\mathrm{Obtains}(R,a,b).
+\]
+
+The resulting fact is now one relational state of affairs.
+
+But the same question returns:
+
+> What makes this obtaining fact one fact?
+
+If “fact” is primitive, this is a primitive unity category.
+
+If the fact is another relation/entity, regress or level-shift pressure returns.
+
+**Result:** obtaining is a plausible primitive architecture, not a reduction of unity.
+
+### 31.5 Ordering
+
+Candidate:
+
+\[
+(a,b)
+\]
+
+is ordered rather than merely collected.
+
+Ordering distinguishes the relational complex from an unordered aggregate.
+
+But ordering is itself a structural relation or constructor. It can explain **which position each relatum occupies**, but not automatically why the ordered structure is one ontological complex.
+
+**Result:** orientation/order remains relevant to structure but does not supply unity by itself.
+
+This is consistent with the existing Orientation result:
+
+> asymmetric assignment of relata to non-interchangeable positions can be specified without deriving passage.
+
+The current attack adds:
+
+> Nor does orientation/order thereby derive complex unity.
+
+### 31.6 Primitive complex-fact category
+
+Candidate:
+
+> Some relational configurations are simply primitive facts/complexes.
+
+Then:
+
+\[
+aRb
+\]
+
+is one because “being a fact” is a primitive ontological category.
+
+This is logically coherent.
+
+It is also the cleanest stopping point if all reductive routes fail.
+
+But it means:
+
+\[
+\boxed{\text{unity is primitive at the level of relational fact}}
+\]
+
+rather than derived from the Cut.
+
+That is an important possible result, not a failure of investigation.
+
+### 31.7 Exhaustion of the tested classes
+
+At the current vocabulary, the candidate minimum-unifier appears to have four broad forms:
+
+\[
+\boxed{
+\begin{array}{c}
+\text{further relation}\\
+\text{constructor}\\
+\text{formal incidence / obtaining}\\
+\text{primitive complex category}
+\end{array}
+}
+\]
+
+The first produces regress unless primitive.
+
+The second produces a formal composite but does not yet explain metaphysical unity.
+
+The third produces formal relational organization but leaves the status of the resulting fact/complex primitive.
+
+The fourth stops directly at primitive unity.
+
+This does **not** prove that no fifth class exists.
+
+It establishes a strong current Boundary:
+
+> **In the tested vocabulary, every route that distinguishes a genuine relational complex from the aggregate either introduces another unifying principle, introduces a primitive formation operation, or takes relational-complex unity itself as primitive.**
+
+## 32. A stronger negative result may now be possible
+
+The investigation began with the intuition:
+
+> **The Cut alone is insufficient.**
+
+The attack has now shown that this intuition cannot simply mean:
+
+> “The Cut does not distinguish enough.”
+
+It plainly does distinguish.
+
+Nor can it mean:
+
+> “A relational structure cannot itself constitute a complex.”
+
+Formal systems demonstrate that relational structures can be represented as unified objects.
+
+The remaining claim is much narrower:
+
+> **The currently earned Cut result does not itself contain an independently specified principle that distinguishes a relational complex from the aggregate of its constituents.**
+
+That is a much more defensible statement.
+
+Formally:
+
+\[
+\boxed{
+Z(S)
+\not\Rightarrow
+\mathrm{UnityComplex}(a,R,b)
+}
+\]
+
+under the currently earned meaning of \(Z(S)\).
+
+But that is **not** the stronger claim:
+
+\[
+\boxed{
+\text{No possible extension of Cut can unify.}
+}
+\]
+
+The latter remains Open.
+
+## 33. Current frontier after the attack
+
+The Bind investigation has now generated three distinct questions:
+
+### A. Formal complex construction
+
+> Can a relational configuration be represented as one formal object?
+
+**Yes.** Ordered pairs, tuples, relational structures, and similar constructions establish this.
+
+### B. Metaphysical relational unity
+
+> What makes the relational configuration one complex rather than merely the aggregate of its constituents?
+
+**Open, with a Boundary around the tested reductive vocabulary.**
+
+### C. Ontological independence
+
+> What licenses the complex to exist independently of anything else?
+
+**Separate Open question.**
+
+The project should not let an answer to A masquerade as an answer to B or C.
+
+## 34. Revised status of Bind
+
+Bind should not presently be treated as an established second operator.
+
+Its current status is:
+
+> **Candidate name for the unresolved explanatory surplus between distinction and relational-complex unity.**
+
+The investigation has earned the following weaker formulation:
+
+\[
+\boxed{
+\text{Cut gives non-interchangeability;}
+\quad
+\text{it does not yet give an independently specified unity-ground.}
+}
+\]
+
+Whether that missing ground is:
+
+- a second operator Bind;
+- a dual-role Cut;
+- constitution;
+- an incidence/obtaining primitive;
+- a primitive fact/complex category;
+- or something not yet named
+
+remains **Open**.
+
+The governing rule remains:
+
+> **Nothing is stronger than its status.**
