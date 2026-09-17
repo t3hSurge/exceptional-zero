@@ -1363,3 +1363,326 @@ And the stopping rule remains:
 The governing rule remains:
 
 > **Nothing is stronger than its status.**
+
+
+## 20. Attack: Is Adherence Just Specific Dependence?
+
+The previous attack left a precise question:
+
+> What is added by **specific adherence** beyond the fact that a relation-instance depends on its particular relata?
+
+Contemporary formal-ontology discussions explicitly distinguish these notions. A relata-specific relational trope is strongly multiply rigidly dependent on its relata, but strong multiple rigid dependence alone does not establish that the trope is a relation or that it relates those specific entities. The stronger claim—specific adherence—adds exactly that relational content. citeturn589600search0turn589600search23
+
+This gives the Bind investigation a clean test.
+
+### 20.1 Dependence
+
+Suppose:
+
+[
+D(r;a,b)
+]
+
+means:
+
+> (r) cannot exist unless (a) and (b) exist.
+
+Then:
+
+[
+mathrm{Exists}(r)Rightarrow
+mathrm{Exists}(a)landmathrm{Exists}(b).
+]
+
+This is a meaningful structural constraint.
+
+But it is obviously not enough for relationhood.
+
+A statue can depend on clay. An event can depend on participants. A boundary can depend on the object it bounds. None of these facts, by themselves, tell us that the dependent entity **relates** the relata.
+
+The published analysis makes essentially this distinction: strong multiple rigid dependence can hold between many kinds of entities, whereas additional specific adherence is needed to characterize a relational trope as such. citeturn589600search0turn589600search23
+
+Therefore:
+
+[
+oxed{
+	ext{specific dependence}
+eq	ext{adherence}
+}
+]
+
+### 20.2 Can specificity repair dependence?
+
+Strengthen the candidate.
+
+Instead of merely:
+
+[
+D(r;a,b),
+]
+
+say:
+
+[
+D^*(r;a,b)
+]
+
+where (a,b) are the **specific** relata on which (r) depends.
+
+Now a relation-instance (r_{ab}) is rigidly tied to (a,b).
+
+This gets surprisingly close to Bind.
+
+But the attack remains:
+
+> Why should (r) count as *relating* (a) and (b) rather than merely being a third entity whose existence is specifically dependent on them?
+
+We can construct the following countermodel:
+
+[
+q_{ab}
+]
+
+is a hypothetical particular whose existence is necessarily dependent on (a) and (b), but whose nature is not relational.
+
+For example, stipulate a particular “composite residue” whose existence requires (a) and (b), while imposing no relational role between them.
+
+Then:
+
+[
+D^*(q_{ab};a,b)
+]
+
+holds, but:
+
+[
+mathrm{Adheres}(q_{ab},a,b)
+]
+
+does not follow.
+
+So:
+
+[
+oxed{
+D^*
+otRightarrow A
+}
+]
+
+where (A) denotes specific adherence.
+
+**Result:** dependence, even specific dependence, does not explain relationhood.
+
+### 20.3 Could relationhood be added as a type?
+
+Perhaps the missing content is simply a type:
+
+[
+r_{ab}:mathrm{Relation}(a,b).
+]
+
+Now we have:
+
+1. a particular;
+2. specific relata;
+3. relation-type membership.
+
+This is formally clean.
+
+But the phrase
+
+[
+r_{ab}:mathrm{Relation}(a,b)
+]
+
+may simply encode the target under a type label.
+
+The question becomes:
+
+> What distinguishes the ontology of a relational particular from a specially typed dependent particular whose type is defined as “relates these things”?
+
+If nothing further can be said, **relationhood has become a primitive category**.
+
+Again, that may be legitimate.
+
+But it is not an explanation.
+
+### 20.4 The strongest reduction attempt: identity conditions
+
+There is one stronger route.
+
+Define the relation-instance itself by its constituents:
+
+[
+r_{ab}:=langle R,a,bangle.
+]
+
+Then:
+
+[
+r_{ab}=r_{cd}
+iff
+R=R'land a=cland b=d.
+]
+
+Under this construction, there is no additional relation whose job is to connect (r_{ab}) to (a) and (b).
+
+The particular relation-instance is simply **constituted by**:
+
+- its relation-type;
+- its first relatum;
+- its second relatum.
+
+This is a genuine reduction of the *identity conditions* of the relation-instance.
+
+It also gives a precise interpretation to the intuition:
+
+> **The relation becomes one of the relata.**
+
+But the reduction changes the question.
+
+It explains:
+
+> **What distinguishes one relation-instance from another?**
+
+It does not yet explain:
+
+> **Why does (langle R,a,bangle) constitute one unified thing?**
+
+The constructor has supplied one formal object.
+
+So again:
+
+[
+oxed{
+	ext{identity specification}
+eq	ext{unity ground}
+}
+]
+
+### 20.5 A potentially decisive distinction
+
+This suggests three different explanatory jobs that should now be kept separate:
+
+[
+oxed{
+	ext{Dependence}
+}
+]
+
+answers:
+
+> What must exist if (r) exists?
+
+[
+oxed{
+	ext{Identity conditions}
+}
+]
+
+answers:
+
+> What makes this relation-instance (r_{ab}) rather than another one?
+
+[
+oxed{
+	ext{Adherence}
+}
+]
+
+answers:
+
+> In virtue of what does (r_{ab}) actually relate (a) and (b)?
+
+And the original Bind question adds a fourth:
+
+[
+oxed{
+	ext{Unity}
+}
+]
+
+answers:
+
+> In virtue of what can distinct relata and their relation-instance constitute one scene/complex/thing?
+
+These may turn out to be four different explanatory problems.
+
+That is a significant simplification.
+
+The danger would be assuming:
+
+[
+	ext{dependence}
+Rightarrow
+	ext{adherence}
+Rightarrow
+	ext{unity}.
+]
+
+Nothing currently licenses either implication.
+
+### 20.6 Attack result
+
+The specific-dependence route therefore reaches a Boundary as an explanation of adherence:
+
+[
+oxed{
+	ext{specific dependence cannot by itself supply relationhood}
+}
+]
+
+The identity-condition route survives as a formal way to construct and distinguish relation-instances:
+
+[
+oxed{
+r_{ab}:=langle R,a,bangle
+}
+]
+
+but it has not supplied a metaphysical ground of unity.
+
+The investigation therefore sharpens again:
+
+> **Adherence is not temporal. It is not mere dependence. It is not merely an identity criterion. And formal relation-instance construction does not yet show why its constituents form one unity.**
+
+**Status:** Boundary on the stronger reduction of adherence to specific dependence or identity conditions.
+
+**Status:** Open on whether adherence is a genuinely primitive metaphysical nexus, a reducible constitution fact not yet captured, or a confused target produced by asking for more than formal constitution provides.
+
+## 21. The next cut: distinguish two unities
+
+At this point the phrase “one” itself requires attack.
+
+There are at least two candidates:
+
+### Unity of the relation-instance
+
+There is one particular (r_{ab}), rather than two or more relation-instances.
+
+### Unity of the complex
+
+There is one unified complex consisting of (a), (b), and (r_{ab}).
+
+These are not obviously the same:
+
+[
+oxed{
+	ext{one relation-instance}
+
+eq
+	ext{one relational complex}
+}
+]
+
+The first can potentially be supplied by identity conditions.
+
+The second is much closer to the original Bind intuition.
+
+The next investigation should therefore ask:
+
+> **Does the existence of one particular relation-instance entail the unity of the relational complex, or are these independent facts?**
+
+That is now a smaller and cleaner target than “what makes Everything one?”
+
