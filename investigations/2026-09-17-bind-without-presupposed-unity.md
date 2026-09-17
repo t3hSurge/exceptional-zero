@@ -523,13 +523,14 @@ Likewise, if the definition of “component” is used to obtain the unity, the 
 
 **Status:** Open as a structural precursor; not yet Bind.
 
+
 ### 13.4 Equivalence relation
 
 An equivalence relation gives:
 
-[
-xsim y
-]
+\[
+x\sim y
+\]
 
 with reflexivity, symmetry, and transitivity.
 
@@ -537,38 +538,38 @@ This is the first candidate that directly resembles the intended “co-belonging
 
 But the danger appears immediately:
 
-[
-xsim y
-quadRightarrowquad
-[x]_{sim}
-]
+\[
+x\sim y
+\quad\Rightarrow\quad
+[x]_{\sim}
+\]
 
 and then the class is treated as the relevant unity.
 
 The explanatory burden has therefore moved from:
 
-> Why do (x) and (y) belong together?
+> Why do \(x\) and \(y\) belong together?
 
 to:
 
-> Why is ([x]_{sim}) one thing?
+> Why is \([x]_{\sim}\) one thing?
 
-There is a second concern. If “(xsim y)” is simply stipulated to mean “(x) and (y) are to count as the same co-belonging unit,” then Bind has not been independently specified. The target has entered through the semantic content of the relation.
+There is a second concern. If “\(x\sim y\)” is simply stipulated to mean “\(x\) and \(y\) are to count as the same co-belonging unit,” then Bind has not been independently specified. The target has entered through the semantic content of the relation.
 
 So two distinct uses must be separated:
 
 - **equivalence as partition structure:** mathematically legitimate, but not yet an explanation of unity;
 - **equivalence as co-belonging:** descriptively close to the target, but at risk of circularity.
 
-**Status:** Survives as the strongest candidate shape so far, but is currently under direct circularity pressure.
+**Status:** Survives as a structural representation of co-belonging, but does not yet establish an ontological unifier.
 
 ### 13.5 Universal relation
 
 Suppose:
 
-[
-orall xorall y,B(x,y).
-]
+\[
+\forall x\forall y\,B(x,y).
+\]
 
 This guarantees maximal co-relatedness.
 
@@ -576,9 +577,9 @@ But it also destroys the intended weakness of Bind: every distinction is immedia
 
 The candidate therefore risks becoming:
 
-[
-	ext{Everything is bound to Everything}
-]
+\[
+\text{Everything is bound to Everything}
+\]
 
 which is not an explanation of unity so much as a direct specification of total unity.
 
@@ -586,44 +587,169 @@ which is not an explanation of unity so much as a direct specification of total 
 
 **Status:** Eliminated.
 
+### 13.6 Relation-instance as relata
+
+The equivalence-class pressure suggests a different ontology:
+
+> **Can the relation itself become a relata?**
+
+Instead of treating Bind only as a predicate that holds *between* \(x\) and \(y\), consider a particular relation-instance \(b_{xy}\):
+
+\[
+x\neq y
+\qquad
+b_{xy}\neq x
+\qquad
+b_{xy}\neq y.
+\]
+
+The intended picture is:
+
+\[
+x,\;y
+\xrightarrow{\mathrm{Bind}}
+b_{xy}
+\]
+
+where \(b_{xy}\) is not merely a third unrelated object, but the particular relation-instance constituted by its relating these specific relata.
+
+This is a serious metaphysical candidate, not merely a change of notation. Contemporary discussions of Bradley’s regress explicitly consider relations as particular entities or tropes, and specifically consider **relata-specific relations** as a possible way for a relation to be intrinsically tied to the things it relates. Some contemporary authors argue that this can block the need for a further relating relation; others argue that it leaves the constitution of the relating itself unexplained. These disputes are useful context, but do not decide the Exceptional Zero investigation. citeturn470644search0turn470644search2turn470644search4
+
+For this investigation, the important change is structural:
+
+\[
+\boxed{
+\text{Bind is no longer merely a rule between relata; Bind may itself be a relata.}
+}
+\]
+
+That creates a possible form of unity without collapse:
+
+\[
+x\neq y
+\quad\&\quad
+b_{xy}\neq x,y.
+\]
+
+The plurality remains real while the binding is itself a particular.
+
+But this does **not** yet solve anything.
+
+The immediate adversarial question is:
+
+> **What makes \(b_{xy}\) related to \(x\) and \(y\)?**
+
+If the answer requires another relation \(r_1\), then:
+
+\[
+b_{xy},x,y
+\xrightarrow{r_1}
+r_1
+\]
+
+and the same explanatory problem may recur.
+
+That is the Bradley-shaped pressure.
+
+The candidate therefore needs one of two routes:
+
+1. **Further-relational route:** another relation explains why \(b_{xy}\) relates its relata. This risks regress.
+2. **Intrinsic-relata route:** being-the-particular-relation-instance-of-these-specific-relata is part of what \(b_{xy}\) is. This may stop the regress, but risks becoming a primitive restatement.
+
+The second route is especially important. If:
+
+> “\(b_{xy}\) relates \(x\) and \(y\) because that is what \(b_{xy}\) is”
+
+then we have not yet established a non-circular Bind. We may merely have made relating primitive.
+
+This is not automatically illegitimate. A primitive is allowed. But its status would be **Open**, not Derived, and it would have to be distinguished from the original unity target rather than simply renamed as “unity.”
+
+**Status:** Open. No regress has been shown unavoidable, and no non-circular relation-instance account has yet been earned.
+
 ## 14. First intermediate conclusion
 
-The first battery reveals a useful three-way distinction:
+The first battery now reveals a more useful distinction:
 
-[
-oxed{
-	ext{relatedness}
-
-eq
-	ext{co-belonging}
-
-eq
-	ext{explained unity}
+\[
+\boxed{
+\text{relatedness}
+\neq
+\text{co-belonging}
+\neq
+\text{binding-instance}
+\neq
+\text{explained unity}
 }
-]
+\]
 
 Ordinary relations and shared properties clearly occupy the first category.
 
-A relation may be stipulated to have the second character, but that does not yet establish the third.
+A relation may be stipulated to have the second character, but that does not establish the fourth.
 
-Equivalence relations are especially instructive because they can preserve plurality while organizing it into classes. They therefore model something very close to “many under a shared unity.” But unless the class's unity is independently accounted for, the candidate appears to relocate rather than resolve the problem.
+Equivalence relations model co-belonging particularly well, but may encode rather than explain the target.
 
-This produces the first genuine pressure point for Bind:
+A relation-instance candidate is different: it proposes that **the binding itself is a particular**.
 
-> **A formal partition can represent co-belonging without explaining why the unit being partitioned is a unit.**
+This creates a new possible structure:
+
+\[
+\boxed{
+\text{plurality of relata}
+\;+;
+\text{one particular binding-instance}
+}
+\]
+
+without requiring:
+
+\[
+x=y.
+\]
+
+That is materially closer to the original Bind intuition than merely forming an equivalence class.
+
+But it also exposes the deeper question:
+
+> **A relation-instance must either intrinsically relate its relata, or acquire that relating status somehow.**
+
+If it requires another relation, Bradley-style regress pressure returns. If it is intrinsically relata-specific, we must determine whether that is an independently specified metaphysical fact or merely “it relates these things” renamed.
 
 The current result is therefore:
 
-[
-oxed{	ext{No tested candidate has yet earned Bind as an explanatory operator.}}
-]
+\[
+\boxed{\text{No tested candidate has yet earned Bind as an explanatory operator.}}
+\]
 
 But:
 
-[
-oxed{	ext{The possibility of a non-circular Bind remains Open.}}
-]
+\[
+\boxed{\text{The relation-instance route remains Open.}}
+\]
 
-The next test should therefore attack the strongest survivor directly:
+## 15. Revised central test
 
-> **Can equivalence-class formation provide any unity that was not already encoded in the equivalence relation itself?**
+The next test should no longer be merely the “equivalence-class test.”
+
+The live question is:
+
+> **Can a relation-instance be intrinsically constituted by its particular relata without presupposing the unity of those relata or requiring a further relation to bind the relation-instance to them?**
+
+Or, in the project's preferred plain language:
+
+> **Can the relation itself be one of the things related?**
+
+And the adversarial version:
+
+> **If the binding is itself a relata, what makes it bind without another binder?**
+
+A successful answer would not yet establish that Bind is the universal ground of unity.
+
+A failure would not prove that no binding principle exists.
+
+The stopping rule is narrower:
+
+> **If every relation-instance candidate either requires another binder or defines its relating activity by restating the target, then no independently specified Bind has yet been found in the tested vocabulary.**
+
+The governing rule remains:
+
+> **Nothing is stronger than its status.**
