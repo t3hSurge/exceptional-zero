@@ -2,6 +2,29 @@
 
 Significant conceptual and structural changes are recorded here. Routine wording edits remain in Git history.
 
+## 2026-09-17
+
+### Bind / relational unity investigation
+
+- Added `investigations/2026-09-17-bind-without-presupposed-unity.md` as the new current frontier for the unity/objecthood problem.
+- Reframed the unresolved surplus after the Cut as a candidate **Bind** problem: whether distinguished relata can co-belong without collapsing their distinction or presupposing unity.
+- Pressure-tested ordinary relation, shared predicate, connectedness, equivalence classes, universal binding, relation-instance reification, specific adherence, dependence, identity conditions, constitution/formation, mereological fusion, common embedding, semantic copula, and the proposed dual-role Cut.
+- Established the distinction between relation-instance identity, relational-complex unity, and ontological independence. These are not allowed to inherit status from one another.
+- Established the narrower current formulation: **the Cut gives non-interchangeability, but does not yet supply an independently specified unity-ground.**
+- Kept Bind **Open**. It is a candidate name for the unresolved explanatory surplus, not an accepted second operator.
+- The current attack frontier is the **minimum-unifier test**: whether anything smaller than a primitive unity principle can distinguish a genuine relational complex from the mere aggregate of its constituents.
+- Canonical framework unchanged.
+
+## 2026-09-07
+
+### AIPC 2026 cancellation and repository cleanup
+
+- Removed the discontinued AIPC 2026 apparatus from `t3hSurge/exceptional-zero`, including the competition workspace, essay workspace, log workspace, and associated protocol/provenance files.
+- Removed the corresponding working contents from the private `t3hSurge/aipc-2026` repository; Git history remains intact.
+- Removed the obsolete `competitions/` repository layer and all AIPC references from the primary `README.md`.
+- Updated the root research summary to reflect the current frozen occurrence line: orientation is Derived; transition remains only a Regulative placeholder; no further passage/transition investigation is currently active.
+- Verified the public repository contains no remaining AIPC or Claude workflow references. The cleanup is structural/history-preserving and does not alter the canonical `exceptional-zero.md`.
+
 ## 2026-09-05
 
 ### Occurrence line: atemporality, orientation, and transition
