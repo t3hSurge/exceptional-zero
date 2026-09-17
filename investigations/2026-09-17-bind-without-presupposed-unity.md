@@ -3005,3 +3005,385 @@ A candidate succeeds only if it explains the unifying role without defining it i
 The governing rule remains:
 
 > **Nothing is stronger than its status.**
+
+
+## 27. Attack: Reduction Battery for the Unifying Role
+
+The dual-role Cut has now been reduced to a precise target:
+
+> **Can the unifying role of a relation be reduced to anything weaker than the primitive principle “relating entails unifying”?**
+
+A candidate succeeds only if it explains why the constituents form one relational complex without simply encoding that fact in another vocabulary.
+
+The following reductions are therefore tested independently.
+
+### 27.1 Specific adherence
+
+Candidate:
+
+\[
+AD_s(r,(a,b))
+\]
+
+where \(r\) is intrinsically tied to exactly \(a,b\).
+
+This is the most direct candidate because it is expressly designed to give a relation its relating role while avoiding an additional relation.
+
+But the contemporary debate identifies a serious problem: if specific adherence is simply taken as primitive, it blocks Bradley's regress by stipulation rather than explaining what the adherence consists in. Hakkarainen and Keinänen's criticism is exactly that the constituents and consequences of specific adherence remain unclear.
+
+For the present investigation, that means:
+
+\[
+AD_s(r,(a,b))
+\]
+
+may be a **primitive unifying nexus**, but it is not a reduction of unity to something prior.
+
+**Result:** survives as a primitive candidate; fails as a non-primitive reduction.
+
+**Status:** Boundary on reduction.
+
+### 27.2 Mutual dependence
+
+Candidate:
+
+\[
+D(r,a)\land D(r,b)
+\]
+
+or stronger mutual/specific dependence relations.
+
+This explains that the relation-instance cannot exist independently of its relata.
+
+But dependence is compatible with non-relational constitution. A specially dependent entity could require \(a,b\) without relating them.
+
+Therefore:
+
+\[
+\boxed{
+\text{dependence}\not\Rightarrow\text{adherence}
+}
+\]
+
+and:
+
+\[
+\boxed{
+\text{dependence}\not\Rightarrow\text{unity}
+}
+\]
+
+**Result:** dependence cannot supply the missing unifying role.
+
+**Status:** Eliminated as a sufficient reduction.
+
+### 27.3 Structural closure
+
+Candidate:
+
+> The complex is one because its internal relations close under the relevant structural operations.
+
+For example:
+
+\[
+x,y\in C\Rightarrow f(x,y)\in C.
+\]
+
+Closure can identify a well-defined structure.
+
+But closure is compatible with arbitrary partitioning into multiple closed structures, and it says nothing by itself about whether a closed structure is one ontological object.
+
+A disjoint union of two closed structures remains closed while preserving plurality.
+
+Thus:
+
+\[
+\boxed{
+\text{closure}\not\Rightarrow\text{unity}
+}
+\]
+
+**Result:** closure supplies structural integrity but not the target unity.
+
+**Status:** Eliminated as a sufficient reduction.
+
+### 27.4 Identity conditions
+
+Candidate:
+
+> The complex is one because it has a determinate identity condition.
+
+For a formal relational object:
+
+\[
+r_{ab}:=\langle R,a,b\rangle,
+\]
+
+identity may be given by:
+
+\[
+r_{ab}=r_{cd}
+\iff
+R=R'\land a=c\land b=d.
+\]
+
+This is useful. It explains which relation-instance is which.
+
+But identity conditions presuppose a domain in which the composite is already admitted as an object.
+
+They answer:
+
+> **Which object is this?**
+
+not:
+
+> **Why is there one composite object here rather than merely its constituents?**
+
+Therefore:
+
+\[
+\boxed{
+\text{identity conditions}\not\Rightarrow\text{unity ground}
+}
+\]
+
+**Result:** useful for particularity of complexes; insufficient for unity.
+
+**Status:** Eliminated as a sufficient reduction.
+
+### 27.5 Constitution / formation
+
+Candidate:
+
+\[
+(a,b)\mapsto C_{ab}
+\]
+
+or:
+
+\[
+(a,b,R)\mapsto C_{abR}.
+\]
+
+This avoids adherence regress by making the complex a constructed object rather than a relation that first exists and then attaches itself to its constituents.
+
+This is a genuine improvement at the formal level.
+
+But the formation rule itself has now become the primitive:
+
+\[
+\boxed{
+\text{these inputs form one object}
+}
+\]
+
+unless the formation operation can itself be reduced further.
+
+The important distinction is:
+
+\[
+\text{constructibility}\neq\text{unity explanation}.
+\]
+
+A formal theory can stipulate a constructor without explaining why construction yields metaphysical unity.
+
+**Result:** constitution supplies a model of compositional unity; it does not yet ground unity independently.
+
+**Status:** Boundary on reduction; Open as primitive ontology.
+
+### 27.6 Mereological fusion
+
+Candidate:
+
+\[
+a+b=f.
+\]
+
+A fusion theory can say that the parts determine a whole without requiring the parts to be identical.
+
+Again, however, the substantive primitive becomes:
+
+> whenever the relevant conditions hold, there exists a fusion.
+
+That is a composition principle.
+
+The question:
+
+> What makes the fusion one?
+
+has therefore been answered by the theory's primitive admission that there is a fusion-object.
+
+This may be perfectly respectable metaphysics.
+
+It is not a derivation of unity from something weaker.
+
+**Result:** fusion can model many-in-one structure; it does not explain why composition has unifying force.
+
+**Status:** Boundary on reduction; Open as primitive ontology.
+
+### 27.7 Common structural extension
+
+Candidate:
+
+> \(a\) and \(b\) are unified because they are jointly embedded in one larger structure \(S\).
+
+But this repeats the problem at the next level:
+
+\[
+a,b\in S.
+\]
+
+What makes \(S\) one?
+
+If another structure \(S'\) is supplied, the same question returns.
+
+This is the **container shift**:
+
+\[
+a,b\rightarrow S
+\]
+
+merely relocates unity to the container.
+
+Thus:
+
+\[
+\boxed{
+\text{common embedding}\not\Rightarrow\text{unity ground}
+}
+\]
+
+**Result:** Eliminated as a reduction.
+
+### 27.8 Formal semantic copula
+
+There is a more radical possibility in the literature: the unity of a proposition may be identified with the operation/function represented by its logical copula, with the resulting regress treated as constitutive rather than vicious. Gaskin develops such an approach by treating the unity of a proposition as arising through the semantic operation that applies its copula to its components.
+
+For Exceptional Zero this is highly relevant but does not settle the issue.
+
+It offers a candidate architecture:
+
+\[
+(a,R,b)\xrightarrow{\mathrm{Unify}}(aRb)
+\]
+
+where the unity is generated by an operation rather than by a further constituent.
+
+But the attack remains:
+
+> What licenses that operation as genuinely unifying rather than stipulating the semantic category of a proposition?
+
+If its unifying power follows from the semantics of the connective, then the primitive has moved to the semantic operation.
+
+This is not a failure.
+
+It is another candidate for a **primitive unity mechanism**.
+
+**Status:** Open primitive-candidate architecture; not a reduction yet.
+
+## 28. Reduction-battery result
+
+The reduction tests produce a recurring pattern:
+
+| Candidate | What it explains | What remains primitive |
+|---|---|---|
+| Specific adherence | relation-specific attachment | the adhering nexus |
+| Dependence | co-existence requirements | relationhood/unity |
+| Closure | structural integrity | object/unity status |
+| Identity conditions | which composite is which | composite objecthood |
+| Constitution | formal formation | unifying force of formation |
+| Mereological fusion | many-in-one composition | composition principle |
+| Common embedding | shared structural environment | unity of the container |
+| Semantic copula | unified proposition/function | unifying semantic operation |
+
+The pattern is not:
+
+> **No account of unity exists.**
+
+It is:
+
+> **Every tested account either moves the primitive one level down, or leaves the unifying role primitive.**
+
+That is a considerably sharper result.
+
+The project should therefore stop asking, at this stage:
+
+> **Can unity be derived from absolutely nothing?**
+
+and ask instead:
+
+> **Can the unifying primitive be made smaller than “one” without simply renaming one?**
+
+This is the next meaningful pressure.
+
+## 29. The minimum-unifier test
+
+Define a candidate \(U\) as a **minimum unifier** if:
+
+1. it preserves distinction:
+   \[
+   a\neq b;
+   \]
+2. it requires no prior claim that \(a,b\) are one;
+3. it does not force unique occupancy;
+4. it does not require a container whose unity is presupposed;
+5. it adds exactly enough structure to distinguish:
+   \[
+   aRb
+   \]
+   from:
+   \[
+   \{a,R,b\};
+   \]
+6. any stronger unity claim is not built into \(U\)'s definition.
+
+The crucial question becomes:
+
+> **Can we specify \(U\) without using the concept of unity anywhere in its constitutive conditions?**
+
+If yes, the project may have found a smaller primitive than unity.
+
+If no, then the unifying role may itself be primitive.
+
+That is not defeat.
+
+It would mean the investigation has isolated the precise location at which explanation bottoms out.
+
+## 30. Current architectural fork
+
+The project now has a cleaner fork:
+
+\[
+\boxed{
+\text{Cut alone}
+}
+\]
+
+if the Cut can be shown to possess an independently specifiable unifying role;
+
+versus:
+
+\[
+\boxed{
+\text{Cut + minimum unifier}
+}
+\]
+
+if distinction and unity require separable primitives;
+
+versus:
+
+\[
+\boxed{
+\text{unity primitive}
+}
+\]
+
+if every attempted reduction ultimately imports unity or an equivalent unifying principle.
+
+None is currently accepted.
+
+**Status:** Open.
+
+The next attack is the **minimum-unifier test**.
+
