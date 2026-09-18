@@ -12,14 +12,33 @@ The canonical document on `main` is the authoritative formulation. Material else
 
 ## Current Research
 
-The current frontier is **Bind / relational unity**: whether a binding principle can be specified as genuine surplus over distinction without presupposing unity, collapsing distinguished relata, or merely relocating the unity problem to a higher-level construct.
+The current frontier is **What Remains When Unity Is Not Assumed**: whether the apparent Bind problem survives once Unity itself is removed as an unearned assumption.
+
+The key methodological test is:
+
+> **Cut first. Reintroduce only what the residue forces.**
+
+The immediate question is not “what binds the distinguished parts?” but:
+
+[
+oxed{mathrm{Cut}(mathrm{Unity})}
+]
+
+followed by:
+
+[
+oxed{	ext{What, if anything, remains?}}
+]
+
+The existing **Bind / relational unity** investigation remains historically important but is now being tested as a possible artifact of retaining a unity expectation after the Cut. It remains Open rather than being declared false or unnecessary.
 
 The repository also retains two important neighboring research lines:
 
+- **Totality / unity:** whether totality can be understood as unity without importing numerical uniqueness or same-level objecthood. Self-identity remains a candidate for contrast-free unity, but unity is not yet identified with it.
 - **Occurrence line — frozen at orientation:** orientation is Derived as asymmetric role structure. No positive specification of atemporality survived, and “transition” is retained only as a regulative warning against inferring passage from role structure. No further transition or passage investigation is currently active.
 - **Downstream — diachronic identity:** UCL remains a provisional architecture-level survivor; `C_*` remains underdetermined; the representation-invariance program has isolated `G*`; the first concrete selective candidate `G*_1` failed, while the selective and exhaustive branches remain open separately.
 
-The current Bind investigation is bounded and does not alter the canonical framework unless a later result is deliberately accepted. The diachronic identity investigation remains active downstream.
+The current unity investigation does not alter the canonical framework unless a later result is deliberately accepted. The diachronic identity investigation remains active downstream.
 
 ## Epistemic Discipline
 
@@ -44,6 +63,6 @@ The normal cycle is:
 
 **question → investigation → critique → revision → status check → deliberate acceptance → `main`**
 
-When open investigations exist and no separate framework question has been posed, substantive critique should first examine those investigations rather than manufacture a new question. An investigation may instead terminate by opening a deeper question; that question becomes a new bounded investigation without automatically revising the canonical framework.
+When open investigations exist and no separate framework question has been posed, substantive critique should first examine those investigations rather than manufacture a new question. An investigation may instead terminate by isolating a deeper question; that question becomes a new bounded investigation without automatically revising the canonical framework.
 
 Git history is the authoritative record of revisions and superseded work.
