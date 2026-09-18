@@ -561,3 +561,79 @@ It would establish a Boundary around what the Cut licenses.
 The governing rule remains:
 
 > **Nothing is stronger than its status.**
+
+## 18. Current conceptual update: Unity is the target of the Cut
+
+The investigation has now produced a sharper formulation of the motivating diagnosis.
+
+The phrase:
+
+> **Unity is Cut.**
+
+must be read carefully. It is not an identity claim that “Unity” and “Cut” are the same thing. It means:
+
+> **Unity is what the Cut cuts.**
+
+This changes the original Bind picture.
+
+The earlier hidden sequence was:
+
+$$
+\text{Unity}
+\xrightarrow{\mathrm{Cut}}
+\text{Many}
+\xrightarrow{\mathrm{Bind}}
+\text{Unity again}.
+$$
+
+That sequence retains the very unity assumption that the Cut was supposed to remove.
+
+The cleaner methodological sequence is:
+
+$$
+\boxed{
+\text{Unity assumed}
+\xrightarrow{\mathrm{Cut}}
+\text{Unity no longer assumed}
+}
+$$
+
+and then:
+
+$$
+\boxed{\text{What, if anything, remains?}}
+$$
+
+This makes the Bind question downstream rather than primitive. If no plurality, common scene, common count, or relational complex is independently recovered, there may be nothing for Bind to bind.
+
+The strongest current methodological formulation is therefore:
+
+> **Do not restore what the Cut was designed to remove.**
+
+This does not establish that Unity is false, impossible, or unnecessary in every ontology. It establishes only that Unity cannot be retained merely because later reasoning seems to require it.
+
+**Status:** Open. The conceptual reframing is retained as the current direction of the investigation; no new metaphysical theorem is promoted.
+
+## 19. Relation to the Bind investigation
+
+The prior Bind investigation remains a valid historical pressure test. Its failures are not erased. But its motivating question is now itself under audit.
+
+The key distinction is:
+
+$$
+\boxed{
+\text{missing unity-ground}
+\quad\text{vs.}\quad
+\text{unearned unity expectation}
+}
+$$
+
+If the latter is sufficient to explain the apparent Bind regress, then Bind should eventually be downgraded from candidate operator to diagnostic artifact.
+
+That conclusion is **not yet earned**.
+
+The present investigation therefore supersedes the Bind framing as the **upstream question**, while preserving the Bind file as the derivational record of how the apparent problem was discovered and pressure-tested.
+
+The governing rule remains:
+
+> **Nothing is stronger than its status.**
