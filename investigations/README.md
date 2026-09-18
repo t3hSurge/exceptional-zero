@@ -13,10 +13,15 @@ The index distinguishes four different situations:
 
 ## 1. Current frontier
 
-### Bind / unity
+### Unity not assumed
+
+- [2026-09-18-unity-not-assumed.md](2026-09-18-unity-not-assumed.md)  
+  **Open:** tests what remains when Unity itself is removed as an unearned assumption. The investigation asks whether the Bind problem is genuine surplus or an artifact of retaining the unity expectation after the Cut. The regulative rule is: **Cut first. Reintroduce only what the residue forces.**
+
+### Bind / relational unity — upstream predecessor
 
 - [2026-09-17-bind-without-presupposed-unity.md](2026-09-17-bind-without-presupposed-unity.md)  
-  **Open:** tests whether a candidate binding principle can be specified as genuine surplus over distinction without presupposing unity, collapsing the distinguished parts, reversing the Cut, or merely relocating the unity problem to a higher-level construct.
+  **Open:** historical predecessor to the unity-not-assumed investigation. It tests whether a candidate binding principle can be specified as genuine surplus over distinction without presupposing unity. The new investigation now tests whether the demand for such a binding principle was itself unearned.
 
 ### Description / objecthood
 
@@ -128,6 +133,18 @@ These are preserved as part of the project's reasoning history. Their inclusion 
 - [2026-08-20-diachron-identity-variable-selection.md](2026-08-20-diachron-identity-variable-selection.md)
 
 ## 5. Dependency map
+
+### Unity line — current
+
+The current upstream unity sequence is now deliberately subtraction-first:
+
+> **Unity assumed → Cut → Unity no longer assumed → ?**
+
+The question is whether the residue itself forces plurality, co-belonging, numerical unity, or any other replacement structure. Do not insert “Many” merely because Unity was removed.
+
+The current methodological rule is:
+
+> **Cut first. Reintroduce only what the residue forces.**
 
 The current upstream architecture is best read as neighboring lines rather than one forced derivation.
 
