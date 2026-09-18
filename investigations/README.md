@@ -26,7 +26,7 @@ The index distinguishes four different situations:
 ### Description / objecthood
 
 - [2026-09-05-totality-unity-universal-object-test.md](2026-09-05-totality-unity-universal-object-test.md)  
-  Tests whether exhaustive inclusion licenses numerical unity or same-level objecthood. Indefinite enlargement does not entail a maximal set; universal-objecthood is framework-dependent; whether totality itself is a unity remains open.
+  **Open:** tests whether exhaustive inclusion licenses numerical unity or same-level objecthood. Indefinite enlargement does not entail a maximal set; universal-objecthood is framework-dependent; self-identity survives as a candidate for contrast-free unity, while identification of self-identity with unity remains open.
 
 ### Occurrence line — frozen
 
