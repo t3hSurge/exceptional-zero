@@ -2,6 +2,20 @@
 
 Significant conceptual and structural changes are recorded here. Routine wording edits remain in Git history.
 
+## 2026-09-18
+
+### Unity not assumed / Bind reframing
+
+- Added `investigations/2026-09-18-unity-not-assumed.md` as the new upstream unity frontier.
+- Reframed the apparent Bind problem as a prior question: whether Unity itself was being retained as an unearned assumption after the Cut.
+- Recorded the sharper methodological formulation **“Unity is what the Cut cuts”** rather than treating “Unity is Cut” as an identity claim.
+- Replaced the hidden sequence `Unity → Cut → Many → Bind → Unity` with the subtraction-first test: **Unity assumed → Cut → Unity no longer assumed → ?**
+- Established the regulative rule: **Cut first. Reintroduce only what the residue forces.**
+- Preserved the distinction between removing an assumption and destroying an entity; no claim that Unity is false or impossible was adopted.
+- Reclassified the 2026-09-17 Bind investigation as the upstream predecessor/historical pressure test. Bind remains Open; the new investigation tests whether its motivating unity demand is itself unearned.
+- Updated the root `README.md` and `investigations/README.md` so the current research frontier reflects the unity-not-assumed investigation.
+- Canonical framework unchanged.
+
 ## 2026-09-17
 
 ### Bind / relational unity investigation
